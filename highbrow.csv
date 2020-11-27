@@ -1,0 +1,500 @@
+,TSPDT Rank,Title,Tier,Director,Year,RateCount,Genre,Country,Rating,0.5 Rating,1.0 Rating,1.5 Rating,2.0 Rating,2.5 Rating,3.0 Rating,3.5 Rating,4.0 Rating,4.5 Rating,5.0 Rating
+8,9,The Searchers,highbrow,John Ford,1956,30150,['Western'],USA,3.89898839137645,132,252,280,940,1313,3695,4496,8178,4398,6466
+14,15,Battleship Potemkin,highbrow,Sergei Eisenstein,1925,27673,"['History', 'Drama']",Russian Federation,3.93898384707115,55,183,141,591,835,3489,4221,8688,4071,5400
+15,16,Breathless,highbrow,Jean-Luc Godard,1960,56239,"['Drama', 'Crime']",France,3.93581856007397,172,341,346,1357,1717,6525,8707,17786,8479,10809
+38,39,Contempt,highbrow,Jean-Luc Godard,1963,21239,['Drama'],France,3.87417015867037,80,150,154,640,880,2681,3480,6121,3179,3874
+74,75,Journey to Italy,highbrow,Roberto Rossellini,1954,7704,"['Romance', 'Drama']",Italy,3.84086188992731,6,31,44,186,298,1079,1560,2281,1096,1124
+76,77,The Magnificent Ambersons,highbrow,Orson Welles,1942,12792,"['Romance', 'Drama']",USA,3.85463570981864,9,57,63,300,435,1683,2451,4079,2107,1608
+78,79,Pickpocket,highbrow,Robert Bresson,1959,16521,"['Crime', 'Drama']",France,3.91238423824224,16,49,74,370,543,1982,3020,5208,2544,2715
+82,83,Jules and Jim,highbrow,François Truffaut,1962,22892,"['Drama', 'Romance']",France,3.90398392451511,39,97,109,528,801,2850,3953,7170,3528,3818
+88,89,Gertrud,highbrow,Carl Theodor Dreyer,1964,3623,"['Drama', 'Romance']",Denmark,3.85247032845708,16,45,36,127,181,460,546,940,534,738
+98,99,Blow-Up,highbrow,Michelangelo Antonioni,1966,30660,"['Mystery', 'Thriller', 'Drama']",UK,3.85753424657534,118,275,287,1022,1225,3753,4884,9097,4700,5302
+105,106,Intolerance: Love's Struggle Throughout the Ages,highbrow,D. W. Griffith,1916,6525,"['Drama', 'History']",USA,3.70452107279694,67,116,121,360,367,951,968,1525,785,1266
+106,107,Gone with the Wind,highbrow,Victor Fleming,1939,49345,"['War', 'Drama', 'Romance']",USA,3.8702097476948,374,679,494,1937,1881,6445,6556,13118,6532,11329
+114,115,Manhattan,highbrow,Woody Allen,1979,48886,"['Romance', 'Comedy', 'Drama']",USA,3.92695250173874,246,419,335,1313,1437,5446,7132,15500,7770,9289
+116,117,E.T. the Extra-Terrestrial,highbrow,Steven Spielberg,1982,182638,"['Family', 'Fantasy', 'Science Fiction', 'Adventure']",USA,3.87781020379111,597,1315,956,5155,5560,27645,28064,57458,18946,36946
+118,119,Nosferatu,highbrow,F.W. Murnau,1922,48797,"['Fantasy', 'Horror', 'Drama']",Germany,3.90593684037953,81,210,228,1127,1474,6659,8068,15972,5863,9116
+124,125,Bringing Up Baby,highbrow,Howard Hawks,1938,21295,"['Comedy', 'Romance']",USA,3.92512326837286,41,141,128,527,785,2504,3450,6350,3243,4127
+126,127,Don't Look Now,highbrow,Nicolas Roeg,1973,32588,"['Drama', 'Thriller', 'Horror']",Italy,3.78113109119921,95,234,319,1102,1587,4443,6158,9435,4818,4397
+127,128,My Darling Clementine,highbrow,John Ford,1946,10235,"['Drama', 'Western']",USA,3.67215437225208,10,17,30,167,246,1007,1555,2892,1636,1835
+130,131,A Day in the Country,highbrow,Jean Renoir,1936,4799,"['Comedy', 'Romance', 'Drama']",France,3.85549072723484,8,20,32,100,169,688,885,1464,749,684
+135,136,Stagecoach,highbrow,John Ford,1939,22341,"['Drama', 'Adventure', 'Western']",USA,3.90951613625173,44,76,114,424,650,2812,3976,7299,3355,3591
+137,138,Un Chien Andalou,highbrow,Luis Buñuel,1929,32329,"['Fantasy', 'Horror']",France,3.87752482291441,134,245,233,754,1077,4370,5215,10480,3786,6035
+139,140,L'Âge d'Or,highbrow,Luis Buñuel,1930,8299,"['Comedy', 'Drama', 'Romance']",France,3.36751415833233,30,98,104,341,437,1428,1608,2071,765,853
+142,143,The Lady Eve,highbrow,Preston Sturges,1941,9372,"['Comedy', 'Romance']",USA,3.93528595817328,5,24,40,153,286,1143,1708,2927,1542,1544
+143,144,The Passenger,highbrow,Michelangelo Antonioni,1975,9843,"['Thriller', 'Drama']",Italy,3.92299095804125,17,43,62,222,352,1054,1683,3050,1814,1546
+144,145,Duck Soup,highbrow,Leo McCarey,1933,19881,"['Comedy', 'War']",USA,3.94042050198682,57,159,150,576,708,2329,2899,5765,2757,4481
+150,151,Spring in a Small Town,highbrow,Fei Mu,1948,1864,"['Romance', 'Drama']",China,3.7725321888412,3,4,15,40,82,289,423,549,239,220
+161,162,The Piano,highbrow,Jane Campion,1993,23216,"['Drama', 'Romance']",New Zealand,3.75947622329428,92,219,243,840,1048,3392,4250,6950,2861,3325
+162,163,King Kong,highbrow,Merian C. Cooper,1933,27321,"['Drama', 'Adventure', 'Horror']",USA,3.88935251271915,45,144,138,691,876,3974,4540,8431,3261,5221
+166,167,The River,highbrow,Jean Renoir,1951,3604,"['Drama', 'Romance']",France,3.8131243063263,8,20,29,143,170,514,634,979,506,602
+168,169,Earth,highbrow,Alexander Dovzhenko,1930,3434,['Drama'],Ukraine,3.70442632498544,3,28,37,138,176,604,650,963,388,447
+173,174,The Texas Chain Saw Massacre,highbrow,Tobe Hooper,1974,93215,['Horror'],USA,3.92765112911012,324,927,710,2808,3030,11891,13434,25863,13046,21184
+181,182,The Birds,highbrow,Alfred Hitchcock,1963,82298,['Horror'],USA,3.76397968358891,178,469,448,2329,3034,13333,16301,27340,8905,9962
+190,191,"Salò, or the 120 Days of Sodom",highbrow,Pier Paolo Pasolini,1975,29927,"['Drama', 'War', 'Horror']",France,3.30581080629532,1321,1353,890,2216,2205,5026,4386,6245,2398,3888
+192,193,Close Encounters of the Third Kind,highbrow,Steven Spielberg,1977,71199,"['Drama', 'Science Fiction']",USA,3.83435862863242,117,382,432,1860,2620,10313,13113,22395,9221,10747
+196,197,Death in Venice,highbrow,Luchino Visconti,1971,6966,['Drama'],Italy,3.74368360608671,41,82,92,285,370,994,1188,1901,932,1081
+197,198,Performance,highbrow,Nicolas Roeg,1970,6637,"['Crime', 'Drama', 'Music']",UK,3.5449751393702,27,82,111,341,505,1190,1390,1749,649,594
+199,200,Red River,highbrow,Howard Hawks,1948,9181,"['Action', 'Western']",USA,3.93138002396253,11,33,41,165,266,1034,1589,3042,1665,1335
+201,202,Paisan,highbrow,Roberto Rossellini,1946,5063,"['Drama', 'History', 'War']",Italy,3.91773651984989,4,12,15,93,125,578,997,1683,870,686
+205,206,The Quiet Man,highbrow,John Ford,1952,8090,"['Drama', 'Romance', 'Comedy']",USA,3.72323856613103,38,86,83,344,457,1302,1467,2090,909,1314
+206,207,Vampyr,highbrow,Carl Theodor Dreyer,1932,14058,"['Horror', 'Fantasy']",Germany,3.82942097026604,18,62,82,350,527,2004,2680,4472,1945,1918
+217,218,The Tree of Life,highbrow,Terrence Malick,2011,83700,"['Drama', 'Fantasy']",USA,3.79962962962963,1271,2281,1324,4255,3701,9766,10106,18446,11678,20872
+219,220,Nanook of the North,highbrow,Robert J. Flaherty,1922,7776,"['Documentary', 'Adventure']",France,3.50765174897119,46,84,71,378,523,1754,1671,2079,556,614
+221,222,Wavelength,highbrow,Michael Snow,1967,2463,['Drama'],Canada,3.43463256191636,120,117,64,167,186,293,280,524,255,457
+235,236,Zero for Conduct,highbrow,Jean Vigo,1933,5244,"['Comedy', 'Drama']",France,3.72873760488177,6,27,50,178,281,845,1083,1498,615,661
+237,238,Groundhog Day,highbrow,Harold Ramis,1993,152688,"['Comedy', 'Fantasy', 'Romance', 'Drama']",USA,3.87273066645709,315,843,576,3301,4193,21079,27931,51230,19300,23921
+238,239,2 or 3 Things I Know About Her,highbrow,Jean-Luc Godard,1967,5600,"['Comedy', 'Drama']",France,3.47205357142857,52,103,102,337,421,1144,1122,1240,568,512
+241,242,Meet Me in St. Louis,highbrow,Vincente Minnelli,1944,11492,"['Comedy', 'Romance', 'Drama', 'Family']",USA,3.79846849982597,23,57,74,344,508,1879,2161,3261,1310,1875
+244,245,Bonnie and Clyde,highbrow,Arthur Penn,1967,33312,"['Drama', 'Crime']",USA,3.88840357829011,20,72,113,572,895,4054,6422,12135,4853,4176
+246,247,The Band Wagon,highbrow,Vincente Minnelli,1953,5047,"['Music', 'Romance', 'Comedy']",USA,3.79542302357836,5,23,32,131,232,815,998,1411,684,716
+249,250,Tabu,highbrow,F.W. Murnau,1931,3242,"['Romance', 'Adventure', 'Drama']",USA,3.8928130783467,2,12,11,80,117,388,612,1024,487,509
+250,251,Freaks,highbrow,Tod Browning,1932,22166,"['Horror', 'Drama']",USA,3.90228277542182,33,85,93,455,648,2821,3841,7668,2923,3599
+256,257,Memories of Underdevelopment,highbrow,Tomás Gutiérrez Alea,1968,3631,['Drama'],Cuba,3.85238226383916,10,24,33,105,124,418,659,1153,616,489
+259,260,The Story of the Last Chrysanthemum,highbrow,Kenji Mizoguchi,1939,3011,"['Romance', 'Drama']",Japan,3.7200265692461,2,5,11,45,56,196,392,819,595,607
+260,261,"Ivan the Terrible, Part I",highbrow,Sergei Eisenstein,1944,3789,"['Drama', 'History']",Russian Federation,3.86579572446556,3,16,38,79,157,482,685,1208,516,605
+261,262,Faces,highbrow,John Cassavetes,1968,7945,['Drama'],USA,3.89433606041536,27,47,46,229,308,898,1318,2433,1302,1337
+262,263,Mean Streets,highbrow,Martin Scorsese,1973,52172,"['Drama', 'Crime']",USA,3.67723108180633,55,219,271,1340,2268,9205,13383,16141,5248,4042
+266,267,Broken Blossoms,highbrow,D. W. Griffith,1919,4936,"['Romance', 'Drama']",USA,3.44165316045381,53,95,113,299,417,959,974,1152,415,459
+268,269,Eraserhead,highbrow,David Lynch,1977,83638,"['Fantasy', 'Horror']",USA,3.93557354312633,658,1116,697,2549,2660,8940,11143,24106,12349,19422
+270,271,The Maltese Falcon,highbrow,John Huston,1941,35521,"['Crime', 'Thriller', 'Mystery']",USA,3.94211874665691,35,105,116,606,944,4249,6135,11992,5446,5893
+277,278,Monsieur Verdoux,highbrow,Charlie Chaplin,1947,5685,"['Comedy', 'Drama', 'Crime']",USA,3.89393139841689,9,22,22,109,193,634,1095,1908,909,784
+280,281,Husbands,highbrow,John Cassavetes,1970,5695,"['Drama', 'Comedy']",USA,3.76602282704126,26,60,71,218,302,736,985,1660,807,830
+282,283,Monsieur Hulot's Holiday,highbrow,Jacques Tati,1953,9238,['Comedy'],France,3.70502273219312,19,74,84,310,501,1508,1946,2647,1046,1103
+286,287,Pandora's Box,highbrow,G.W. Pabst,1929,4868,"['Crime', 'Romance', 'Drama']",Germany,3.88711996713229,9,25,40,104,194,630,801,1503,751,811
+288,289,The Birth of a Nation,highbrow,D. W. Griffith,1915,11100,"['War', 'Drama', 'History']",USA,2.4513963963964,1944,1151,551,1240,1107,1772,1039,1216,406,674
+292,293,Videodrome,highbrow,David Cronenberg,1983,59503,"['Science Fiction', 'Horror', 'Mystery']",Canada,3.84295749794128,119,386,372,1527,2302,7967,10992,18632,8152,9054
+298,299,Weekend,highbrow,Jean-Luc Godard,1967,10540,"['Comedy', 'Adventure', 'Drama']",France,3.72457305502846,108,166,178,491,575,1372,1679,2719,1556,1696
+299,300,Touki Bouki,highbrow,Djibril Diop Mambéty,1973,4596,"['Romance', 'Drama']",Senegal,3.81364229765013,6,24,29,113,194,587,959,1451,691,543
+301,302,Snow White and the Seven Dwarfs,highbrow,David Hand,1937,81649,"['Animation', 'Fantasy', 'Family']",USA,3.53402981053044,245,889,714,4046,4877,20867,15807,20473,4609,9125
+306,307,The Puppetmaster,highbrow,Hou Hsiao-hsien,1993,1108,"['Mystery', 'Drama', 'War']",Taiwan,3.77346570397112,3,18,12,57,49,140,209,262,175,184
+309,310,In the Realm of the Senses,highbrow,Nagisa Ōshima,1976,9338,"['Romance', 'Drama']",Japan,3.55841721996145,89,179,165,478,564,1571,1933,2392,980,987
+310,311,Stranger Than Paradise,highbrow,Jim Jarmusch,1984,18541,"['Comedy', 'Drama']",Germany,3.83180518850116,32,82,119,375,622,2454,3801,6233,2497,2326
+313,314,Cabaret,highbrow,Bob Fosse,1972,22360,"['Music', 'Drama', 'Romance']",USA,3.91795617173524,36,96,92,503,752,2730,3805,7132,3276,3938
+320,321,Eyes Without a Face,highbrow,Georges Franju,1960,27732,"['Thriller', 'Horror', 'Drama']",France,3.93112649646618,18,54,74,332,634,2873,5320,10632,4304,3492
+322,323,A Canterbury Tale,highbrow,Emeric Pressburger,1944,2420,"['Comedy', 'Drama', 'Mystery']",UK,3.77871900826446,2,9,12,81,106,385,467,728,334,297
+327,328,Days of Being Wild,highbrow,Wong Kar-wai,1990,11789,"['Crime', 'Drama', 'Romance']",Hong Kong,3.7964628043091,13,34,50,220,410,1632,2727,4020,1519,1164
+329,330,West Side Story,highbrow,Robert Wise,1961,51660,"['Romance', 'Drama', 'Crime']",USA,3.77367402245451,181,465,412,1870,2262,8254,8982,14925,6129,8180
+332,333,Wanda,highbrow,Barbara Loden,1970,6655,"['Drama', 'Crime']",USA,3.82148760330578,17,35,51,175,256,828,1358,2134,912,889
+335,336,Eyes Wide Shut,highbrow,Stanley Kubrick,1999,124738,"['Thriller', 'Drama', 'Mystery']",UK,3.92944411486476,433,1293,855,4212,3768,14614,17067,36269,20565,25664
+337,338,The Tenant,highbrow,Roman Polanski,1976,15777,"['Fantasy', 'Horror', 'Thriller']",France,3.83197059009951,31,107,109,368,589,1886,3108,5304,2329,1946
+344,345,Listen to Britain,highbrow,Humphrey Jennings,1942,1242,['Documentary'],UK,3.22020933977456,6,18,20,103,141,375,258,219,48,54
+346,347,How Green Was My Valley,highbrow,John Ford,1941,7577,['Drama'],USA,3.87646825920549,18,56,51,228,324,987,1273,2076,1152,1412
+348,349,The Killing of a Chinese Bookie,highbrow,John Cassavetes,1976,10585,"['Thriller', 'Crime', 'Drama']",USA,3.86868209730751,11,41,66,241,373,1268,2041,3444,1667,1433
+350,351,Uncle Boonmee Who Can Recall His Past Lives,highbrow,Apichatpong Weerasethakul,2010,16055,"['Comedy', 'Drama', 'Fantasy']",Thailand,3.78579881656805,79,206,204,644,765,2021,2574,4622,2462,2478
+351,352,Theorem,highbrow,Pier Paolo Pasolini,1968,8213,"['Drama', 'Mystery']",Italy,3.82405941799586,36,77,89,270,345,1047,1415,2418,1169,1350
+352,353,Yellow Earth,highbrow,Chen Kaige,1984,1004,['Drama'],China,3.64641434262948,4,7,11,32,55,178,221,305,97,94
+355,356,Stromboli,highbrow,Roberto Rossellini,1950,4148,['Drama'],Italy,3.84703471552555,1,16,21,75,147,579,860,1312,576,561
+356,357,Marnie,highbrow,Alfred Hitchcock,1964,14695,"['Mystery', 'Thriller']",USA,3.47077237155495,51,119,159,702,1136,3364,3658,3487,1124,895
+357,358,Written on the Wind,highbrow,Douglas Sirk,1956,5828,"['Romance', 'Drama']",USA,3.84668840082361,4,19,28,136,233,750,1159,1883,835,781
+359,360,Carrie,highbrow,Brian De Palma,1976,98603,"['Horror', 'Thriller']",USA,3.8164457470868,134,428,455,2357,3031,15307,18939,33654,10939,13359
+360,361,High Noon,highbrow,Fred Zinnemann,1952,23096,"['Thriller', 'Drama', 'Western']",USA,3.88621406304122,20,76,87,423,739,2901,4331,7876,3469,3174
+361,362,Lola Montès,highbrow,Max Ophüls,1955,3154,"['Romance', 'Drama']",France,3.90646797717185,3,6,14,60,123,380,573,1003,515,478
+362,363,Salvatore Giuliano,highbrow,Francesco Rosi,1962,1331,"['Drama', 'Action']",Italy,3.7640871525169,1,3,4,42,59,179,323,413,171,136
+363,364,Platform,highbrow,Jia Zhangke,2000,2273,['Drama'],China,3.6148262208535,6,6,10,35,57,236,315,606,359,426
+365,366,Land Without Bread,highbrow,Luis Buñuel,1933,3087,['Documentary'],Spain,3.522351797862,24,30,53,137,200,633,667,851,239,253
+369,370,if....,highbrow,Lindsay Anderson,1968,10829,['Drama'],UK,3.7432357558408,23,56,75,284,488,1574,2376,3589,1293,1071
+370,371,Last Tango in Paris,highbrow,Bernardo Bertolucci,1972,15092,"['Drama', 'Romance']",France,3.36989795918367,367,467,338,1081,1160,2764,2756,3473,1252,1435
+372,373,Lost Highway,highbrow,David Lynch,1997,53036,"['Drama', 'Mystery', 'Thriller']",USA,3.9268327173995,122,325,330,1219,1657,5702,8555,17432,8889,8805
+373,374,I Know Where I'm Going!,highbrow,Emeric Pressburger,1945,4081,"['Romance', 'Drama']",UK,3.77150208282284,3,14,31,97,171,639,900,1232,514,480
+375,376,The Palm Beach Story,highbrow,Preston Sturges,1942,4863,"['Romance', 'Comedy']",USA,3.80886284186716,6,21,15,111,152,689,1071,1594,675,529
+376,377,Lost in Translation,highbrow,Sofia Coppola,2003,197922,"['Comedy', 'Romance', 'Drama']",Japan,3.9108461919342,843,2051,1302,6247,6082,24032,28196,60740,27938,40491
+378,379,Russian Ark,highbrow,Aleksandr Sokurov,2002,11495,"['Mystery', 'Fantasy', 'History', 'Drama']",Denmark,3.78303610265333,42,121,108,420,524,1664,1947,3284,1671,1714
+381,382,Talk to Her,highbrow,Pedro Almodóvar,2002,22009,"['Drama', 'Romance']",Spain,3.91657958108047,104,180,145,469,633,2284,3516,7492,3652,3534
+383,384,"Crouching Tiger, Hidden Dragon",highbrow,Ang Lee,2000,58578,"['Adventure', 'Romance', 'Drama', 'Action']",China,3.8859042643996,88,267,260,1384,1694,7607,9936,20130,8505,8707
+384,385,The Crime of Monsieur Lange,highbrow,Jean Renoir,1936,1720,"['Drama', 'Comedy', 'Crime']",France,3.68866279069767,1,11,1,37,73,321,448,508,176,144
+386,387,October (Ten Days that Shook the World),highbrow,Sergei Eisenstein,1927,3552,"['History', 'Drama']",Russian Federation,3.75520833333333,13,27,30,129,174,538,658,1063,404,516
+394,395,A Trip to the Moon,highbrow,Georges Méliès,1902,48322,"['Adventure', 'Science Fiction', 'Fantasy']",France,3.99808575803982,101,210,194,854,1129,6217,6284,16824,4745,11764
+396,397,À Nos Amours,highbrow,Maurice Pialat,1983,5731,"['Drama', 'Romance']",France,3.88056185656953,13,26,30,142,213,659,1049,1846,904,849
+398,399,Tristana,highbrow,Luis Buñuel,1970,5111,['Drama'],Spain,3.60408921933086,7,21,32,136,300,996,1360,1496,442,321
+399,400,Heaven's Gate,highbrow,Michael Cimino,1980,5781,"['Western', 'Drama']",USA,3.62134578792596,49,88,117,326,435,891,986,1319,685,885
+405,406,Pinocchio,highbrow,Ben Sharpsteen,1940,70584,"['Animation', 'Family']",USA,3.5433809361895,219,815,606,3622,4049,17010,14100,18054,4500,7612
+406,407,1900,highbrow,Bernardo Bertolucci,1976,4589,"['Romance', 'History', 'Drama']",France,3.81869688385269,25,39,55,184,225,571,698,1328,667,798
+407,408,Barren Lives,highbrow,Nelson Pereira dos Santos,1963,2200,['Drama'],Brazil,3.93477272727273,7,15,13,49,87,234,360,690,308,439
+409,410,An Affair to Remember,highbrow,Leo McCarey,1957,7357,"['Romance', 'Drama']",USA,3.65257577817045,11,41,38,269,429,1428,1619,2091,633,799
+411,412,Shoot the Piano Player,highbrow,François Truffaut,1960,11085,"['Thriller', 'Crime', 'Drama']",France,3.75367613892648,12,39,49,211,454,1646,2637,3726,1405,908
+413,414,The Awful Truth,highbrow,Leo McCarey,1937,6754,"['Romance', 'Comedy', 'Drama']",USA,3.85675155463429,8,17,13,108,199,886,1399,2423,914,787
+416,417,The Scarlet Empress,highbrow,Josef von Sternberg,1934,3141,"['History', 'Drama', 'Romance']",USA,3.91690544412607,3,6,20,54,111,391,595,928,505,528
+419,420,The Death of Mr. Lazarescu,highbrow,Cristi Puiu,2005,3781,"['Drama', 'Comedy']",Romania,3.94194657498016,8,21,24,64,126,370,610,1254,761,543
+421,422,Man of Aran,highbrow,Robert J. Flaherty,1934,918,"['Documentary', 'Drama']",UK,3.4640522875817,3,10,9,50,81,215,189,224,70,67
+424,425,The Cloud-Capped Star,highbrow,Ritwik Ghatak,1960,1460,['Drama'],India,3.66849315068493,3,11,12,27,48,109,192,398,269,270
+426,427,A Star Is Born,highbrow,George Cukor,1954,8141,"['Drama', 'Romance', 'Music']",USA,3.86930352536543,12,60,49,188,287,1116,1425,2451,1275,1278
+428,429,Repulsion,highbrow,Roman Polanski,1965,26230,"['Thriller', 'Drama', 'Horror']",UK,3.91094166984369,58,144,132,571,781,2841,4429,9020,4512,3742
+430,431,Two-Lane Blacktop,highbrow,Monte Hellman,1971,7202,['Drama'],USA,3.83074146070536,15,58,69,208,325,960,1312,2040,1041,1175
+431,432,Five Easy Pieces,highbrow,Bob Rafelson,1970,14329,['Drama'],USA,3.86579663619234,14,56,77,297,484,1821,2860,4558,2209,1953
+432,433,Dead Ringers,highbrow,David Cronenberg,1988,22396,"['Thriller', 'Horror']",Canada,3.77245936774424,41,100,153,622,975,3215,4677,7111,3024,2478
+434,435,Dead Man,highbrow,Jim Jarmusch,1995,27554,"['Western', 'Drama', 'Fantasy']",Germany,3.79106481817522,84,244,234,990,1197,3749,4997,8293,3778,3988
+436,437,Shadows,highbrow,John Cassavetes,1958,10552,"['Romance', 'Drama']",USA,3.66641394996209,16,61,52,261,459,1854,2878,3115,1007,849
+437,438,The Terminator,highbrow,James Cameron,1984,156364,"['Action', 'Science Fiction', 'Thriller']",UK,3.89270867974726,173,574,424,2898,3734,21699,27724,55663,19852,23627
+438,439,Flowers of Shanghai,highbrow,Hou Hsiao-hsien,1998,1956,['Drama'],Taiwan,3.93047034764826,5,8,12,35,69,222,359,586,299,361
+440,441,The Flowers of St. Francis,highbrow,Roberto Rossellini,1950,2184,"['Drama', 'History']",Italy,3.83539377289377,2,17,10,61,98,332,397,600,298,370
+442,443,Elephant,highbrow,Gus Van Sant,2003,38090,"['Drama', 'Crime']",USA,3.62689682331321,363,594,524,1576,2069,6047,7507,11113,4210,4090
+443,444,The Dead,highbrow,John Huston,1987,2638,['Drama'],Ireland,3.63286580742987,12,22,29,117,157,488,567,656,274,316
+444,445,Easy Rider,highbrow,Dennis Hopper,1969,38444,"['Adventure', 'Drama']",USA,3.65708563104776,131,342,436,1485,2047,6471,8181,11246,4223,3882
+445,446,Accattone,highbrow,Pier Paolo Pasolini,1961,3961,['Drama'],Italy,3.8814693259278,3,15,11,68,127,435,802,1446,556,498
+447,448,Cat People,highbrow,Jacques Tourneur,1942,17651,"['Thriller', 'Horror', 'Fantasy']",USA,3.67795025777576,22,73,115,514,799,3152,4248,5508,1637,1583
+448,449,Senso,highbrow,Luchino Visconti,1954,2880,"['History', 'Drama', 'Romance']",Italy,3.72083333333333,4,17,19,95,158,436,635,843,368,305
+452,453,Withnail & I,highbrow,Bruce Robinson,1987,16693,"['Drama', 'Comedy']",UK,3.91957706823219,45,100,125,417,622,1935,2717,5031,2436,3266
+453,454,The Hour of the Furnaces,highbrow,Fernando E. Solanas,1968,879,['Documentary'],Argentina,3.96871444823663,8,5,8,23,35,88,134,218,142,218
+454,455,Le Plaisir,highbrow,Max Ophüls,1952,2409,['Drama'],France,3.8785803237858,3,5,7,42,86,310,506,735,377,338
+455,456,Some Came Running,highbrow,Vincente Minnelli,1958,2322,"['Drama', 'Romance']",USA,3.7599052540913,1,16,19,78,129,369,459,608,307,336
+458,459,The Lady from Shanghai,highbrow,Orson Welles,1947,15189,"['Mystery', 'Crime', 'Thriller', 'Drama']",USA,3.80278491013233,13,42,52,270,504,2012,3497,5377,2119,1303
+460,461,Closely Watched Trains,highbrow,Jiří Menzel,1966,4919,"['Drama', 'Comedy', 'War']",Czechia,3.86694450091482,7,16,29,74,146,572,1058,1692,753,574
+462,463,Fantasia,highbrow,David Hand,1940,60053,"['Animation', 'Family']",USA,3.8652690123724,176,590,384,2082,1929,9220,8348,18267,6701,12356
+463,464,Frankenstein,highbrow,James Whale,1931,34870,"['Horror', 'Science Fiction', 'Drama']",USA,3.86167192429022,25,125,132,642,1043,5138,6625,11854,4046,5241
+464,465,Melancholia,highbrow,Lars von Trier,2011,76566,"['Science Fiction', 'Drama']",Denmark,3.75695478410783,536,1039,896,3158,3296,10167,12736,23063,10532,11145
+465,466,Shane,highbrow,George Stevens,1953,11458,"['Drama', 'Western']",USA,3.67900157095479,25,71,89,446,641,1974,2354,3407,1213,1239
+469,470,Chelsea Girls,highbrow,Andy Warhol,1966,883,['Drama'],USA,3.35220838052095,22,36,39,80,70,152,104,160,81,139
+470,471,Mad Max 2,highbrow,George Miller,1981,56771,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",Australia,3.87457504711913,65,212,223,1209,1572,7224,10676,19952,7999,7639
+472,473,French Cancan,highbrow,Jean Renoir,1954,1857,"['Romance', 'Comedy', 'Drama']",Italy,3.90872374798061,2,6,6,40,76,233,351,528,284,331
+475,476,Point Blank,highbrow,John Boorman,1967,9170,['Crime'],USA,3.89896401308615,12,33,38,163,293,1076,1737,3058,1481,1279
+478,479,Grey Gardens,highbrow,Albert Maysles,1975,13120,['Documentary'],USA,3.95522103658537,34,81,68,277,353,1467,1999,4451,1791,2599
+479,480,A.I. Artificial Intelligence,highbrow,Steven Spielberg,2001,72919,"['Drama', 'Science Fiction', 'Adventure']",USA,3.45294779138496,429,1180,1116,4937,5370,16141,14649,16971,5581,6545
+482,483,Triumph of the Will,highbrow,Leni Riefenstahl,1935,4706,"['History', 'Documentary']",Germany,3.08903527411815,341,224,108,369,385,965,726,976,250,363
+483,484,Tootsie,highbrow,Sydney Pollack,1982,32040,"['Comedy', 'Romance']",USA,3.66359238451935,62,236,213,1000,1348,5754,7322,10497,2984,2624
+484,485,Hour of the Wolf,highbrow,Ingmar Bergman,1968,14963,"['Horror', 'Drama']",Sweden,3.93757936242732,14,51,60,281,398,1561,2701,5143,2531,2223
+485,486,Inland Empire,highbrow,David Lynch,2006,25607,"['Mystery', 'Drama', 'Thriller', 'Horror']",Poland,3.70238606630999,275,493,469,1347,1429,3605,3752,6225,3401,4611
+486,487,Chronicle of a Summer,highbrow,Edgar Morin,1961,3036,['Documentary'],France,3.87878787878788,5,8,19,60,104,353,593,1025,445,424
+487,488,To Have and Have Not,highbrow,Howard Hawks,1944,9553,"['Romance', 'War', 'Comedy', 'Thriller', 'Adventure']",USA,3.85224536794724,6,23,33,148,264,1263,2002,3443,1308,1063
+488,489,The Sound of Music,highbrow,Robert Wise,1965,74086,"['Music', 'Romance', 'Drama', 'Family']",USA,3.93547363874416,233,594,406,2115,2408,9790,10757,21460,8961,17362
+489,490,India Song,highbrow,Marguerite Duras,1975,2282,"['Romance', 'Drama', 'Fantasy']",France,3.67791411042945,32,50,55,120,132,298,323,546,328,398
+491,492,Alexander Nevsky,highbrow,Sergei Eisenstein,1938,3328,"['Drama', 'War', 'History']",Russian Federation,3.67668269230769,8,14,33,141,165,556,733,978,353,348
+494,495,Shadow of a Doubt,highbrow,Alfred Hitchcock,1943,21281,"['Drama', 'Crime', 'Thriller']",USA,3.93263944363517,9,27,62,273,506,2341,4327,7335,3515,2886
+499,500,Orlando,highbrow,Sally Potter,1992,9795,"['Drama', 'Fantasy']",France,3.79826442062277,27,48,73,274,359,1405,1943,3100,1326,1241
+501,502,Alphaville,highbrow,Jean-Luc Godard,1965,16057,"['Drama', 'Science Fiction', 'Mystery']",Italy,3.62984990969671,72,164,197,666,944,2752,3378,4561,1682,1641
+502,503,"Muriel, or the Time of Return",highbrow,Alain Resnais,1963,1957,['Drama'],Italy,3.71538068472151,6,12,20,72,102,329,377,550,259,231
+503,504,Grizzly Man,highbrow,Werner Herzog,2005,28670,['Documentary'],USA,3.98913498430415,27,72,86,346,507,2726,4563,11180,4978,4185
+508,509,A Night at the Opera,highbrow,Sam Wood,1935,9261,"['Comedy', 'Music']",USA,3.87112622826909,17,36,65,213,291,1206,1718,3021,1260,1434
+509,510,Songs from the Second Floor,highbrow,Roy Andersson,2000,7994,"['Comedy', 'Drama']",Sweden,3.93776582436828,26,61,41,178,250,823,1256,2577,1452,1331
+510,511,Masculin Féminin,highbrow,Jean-Luc Godard,1966,12194,"['Romance', 'Drama']",Sweden,3.78038379530917,33,75,74,337,508,1713,2449,4045,1478,1482
+512,513,La Terra Trema,highbrow,Luchino Visconti,1948,2082,['Drama'],Italy,3.93395773294909,4,10,12,32,61,242,352,680,368,322
+515,516,"The Devil, Probably",highbrow,Robert Bresson,1977,3759,['Drama'],France,3.81045490822027,16,36,44,124,185,503,652,1043,480,676
+517,518,Top Hat,highbrow,Mark Sandrich,1935,8242,"['Music', 'Comedy', 'Romance']",USA,3.81697403542829,5,28,39,168,294,1208,1775,2701,922,1102
+519,520,The Damned,highbrow,Luchino Visconti,1969,1858,['Drama'],Germany,3.69187298170075,5,25,17,76,101,295,369,517,225,229
+526,527,Les Vampires,highbrow,Louis Feuillade,1915,2177,"['Crime', 'Action']",France,3.80707395498392,6,19,17,72,96,330,375,599,314,349
+527,528,La Région Centrale,highbrow,Michael Snow,1971,589,['Documentary'],Canada,3.90322580645161,9,11,13,21,26,62,63,123,93,168
+529,530,Splendor in the Grass,highbrow,Elia Kazan,1961,5184,"['Drama', 'Romance']",USA,3.78838734567901,10,27,30,129,183,764,1106,1679,645,613
+531,532,East of Eden,highbrow,Elia Kazan,1955,12827,"['Drama', 'Romance']",USA,3.83004599672566,13,41,65,277,418,1734,2703,4334,1649,1593
+533,534,I Vitelloni,highbrow,Federico Fellini,1953,9189,"['Drama', 'Comedy']",Italy,3.91702035041898,5,13,33,107,216,990,1872,3371,1483,1099
+536,537,The Enigma of Kaspar Hauser,highbrow,Werner Herzog,1974,7251,"['Drama', 'History']",Germany,3.89063577437595,13,21,27,148,229,857,1401,2452,1086,1021
+538,539,Doctor Zhivago,highbrow,David Lean,1965,14172,"['War', 'Romance', 'Drama']",Italy,3.84095399379057,31,85,76,364,553,1830,2659,4592,1931,2051
+541,542,Pat Garrett & Billy the Kid,highbrow,Sam Peckinpah,1973,6432,['Western'],USA,3.76787935323383,10,30,40,184,286,975,1354,1949,846,758
+542,543,Fellini Satyricon,highbrow,Federico Fellini,1969,5793,"['Drama', 'Fantasy']",Italy,3.55567063697566,54,98,107,353,402,1006,1066,1386,613,710
+543,544,Miracle in Milan,highbrow,Vittorio De Sica,1951,2263,"['Fantasy', 'Drama', 'Comedy']",Italy,3.79297392841361,2,19,15,56,95,311,464,722,297,282
+544,545,Lola,highbrow,Jacques Demy,1961,5493,"['Romance', 'Drama']",France,3.83169488439832,3,11,18,78,140,662,1313,2019,801,448
+545,546,Deliverance,highbrow,John Boorman,1972,27070,"['Thriller', 'Drama', 'Adventure']",USA,3.7731067602512,41,98,115,587,938,3837,5965,9908,3195,2386
+546,547,The Phantom of Liberty,highbrow,Luis Buñuel,1974,5883,"['Comedy', 'Drama']",France,3.91186469488356,5,25,31,124,186,651,1014,2018,995,835
+547,548,Ninotchka,highbrow,Ernst Lubitsch,1939,7455,"['Comedy', 'Romance']",USA,3.90181086519115,12,18,35,108,222,915,1391,2584,1128,1043
+548,549,Wagon Master,highbrow,John Ford,1950,2340,"['Adventure', 'Western']",USA,3.8775641025641,6,6,16,40,76,322,457,709,342,366
+549,550,The Taking of Power by Louis XIV,highbrow,Roberto Rossellini,1966,953,"['History', 'Drama']",France,3.7308499475341,3,11,9,39,55,165,149,249,127,146
+551,552,Shock Corridor,highbrow,Samuel Fuller,1963,7459,"['Mystery', 'Drama']",USA,3.81512267059928,7,22,40,179,271,971,1575,2533,1053,808
+553,554,Bigger Than Life,highbrow,Nicholas Ray,1956,5057,['Drama'],USA,3.93869883330038,1,15,19,96,116,567,909,1701,919,714
+558,559,Rebel Without a Cause,highbrow,Nicholas Ray,1955,42195,['Drama'],USA,3.8222775210333,54,181,213,1014,1543,6011,8227,14106,5227,5619
+559,560,A Hard Day's Night,highbrow,Richard Lester,1964,23816,"['Comedy', 'Music']",UK,3.7992526032919,54,117,135,634,954,3804,4586,7343,2593,3596
+560,561,Silent Light,highbrow,Carlos Reygadas,2007,3443,"['Romance', 'Drama']",Mexico,3.86842869590473,17,45,34,109,123,431,506,965,600,613
+563,564,My Own Private Idaho,highbrow,Gus Van Sant,1991,39451,"['Drama', 'Adventure']",USA,3.83717776482218,92,253,235,1097,1593,5397,7577,11686,5064,6462
+564,565,Raising Arizona,highbrow,Joel Coen,1987,63650,"['Comedy', 'Crime']",USA,3.81528672427337,87,250,252,1441,2079,9046,13532,21319,7828,7818
+568,569,Local Hero,highbrow,Bill Forsyth,1983,7316,"['Comedy', 'Drama']",UK,3.78704209950793,14,36,53,198,276,1070,1546,2283,911,929
+569,570,Boudu Saved from Drowning,highbrow,Jean Renoir,1932,2858,['Comedy'],France,3.6703988803359,4,25,34,96,144,449,685,837,315,270
+571,572,Detour,highbrow,Edgar G. Ulmer,1945,12153,"['Crime', 'Drama']",USA,3.76491401300091,12,37,57,213,458,1852,2916,4037,1419,1152
+576,577,La Ciénaga,highbrow,Lucrecia Martel,2001,8980,"['Comedy', 'Drama']",Argentina,3.89944320712695,20,53,54,194,296,983,1682,2919,1344,1437
+577,578,Providence,highbrow,Alain Resnais,1977,1138,"['Drama', 'Comedy', 'Fantasy']",UK,3.44376098418278,1,10,10,42,49,143,216,327,152,102
+582,583,The Asphalt Jungle,highbrow,John Huston,1950,8557,"['Drama', 'Crime']",USA,3.83709243893888,12,28,25,155,281,1090,1734,3123,1252,857
+584,585,Scorpio Rising,highbrow,Kenneth Anger,1963,5400,['Fantasy'],USA,3.78592592592593,33,65,58,175,215,780,927,1597,659,890
+585,586,Hatari!,highbrow,Howard Hawks,1962,2652,"['Comedy', 'Action', 'Adventure']",USA,3.55071644042232,15,45,43,138,190,513,558,588,241,324
+586,587,Picnic at Hanging Rock,highbrow,Peter Weir,1975,21545,"['Drama', 'Horror', 'Mystery', 'History']",Australia,3.83186354142492,48,140,142,623,937,2811,3919,6569,3227,3129
+588,589,Rushmore,highbrow,Wes Anderson,1998,90959,"['Drama', 'Comedy']",USA,3.90866214448268,148,445,386,1858,2559,11169,16306,30056,13301,14732
+590,591,The Fly,highbrow,David Cronenberg,1986,76516,"['Science Fiction', 'Horror']",Canada,3.92308798159862,126,319,279,1477,1838,8887,13206,27277,11391,11716
+591,592,The French Connection,highbrow,William Friedkin,1971,36075,"['Thriller', 'Crime', 'Action']",USA,3.93155925155925,27,98,137,614,890,3929,6570,12825,5892,5093
+593,594,I Walked with a Zombie,highbrow,Jacques Tourneur,1943,8140,"['Drama', 'Horror', 'Fantasy']",USA,3.6796683046683,13,31,42,258,424,1516,1889,2247,943,777
+595,596,Band of Outsiders,highbrow,Jean-Luc Godard,1964,17254,"['Drama', 'Crime', 'Romance']",France,3.87904254086009,18,51,81,350,585,2100,3328,5757,2622,2362
+596,597,The 39 Steps,highbrow,Alfred Hitchcock,1935,21195,"['Mystery', 'Thriller']",UK,3.73559801840057,16,57,77,409,693,3447,5321,7240,2309,1626
+598,599,Still Life,highbrow,Jia Zhangke,2006,3859,['Drama'],China,3.88533298782068,7,16,21,72,118,449,722,1301,679,474
+599,600,The Wedding March,highbrow,Erich von Stroheim,1928,607,['Drama'],USA,3.84843492586491,1,2,1,24,28,74,119,172,85,101
+600,601,The Silence,highbrow,Ingmar Bergman,1963,10347,"['Drama', 'Romance']",Sweden,3.92780516091621,8,41,48,177,319,1097,1879,3490,1790,1498
+601,602,Placido,highbrow,Luis García Berlanga,1961,1175,['Comedy'],Spain,3.70042553191489,7,6,4,21,33,145,228,352,166,164
+602,603,Love Me Tonight,highbrow,Rouben Mamoulian,1932,1521,"['Comedy', 'Romance']",USA,3.77383300460224,2,11,13,47,75,253,284,397,218,221
+605,606,Invasion of the Body Snatchers,highbrow,Don Siegel,1956,18260,"['Science Fiction', 'Horror']",USA,3.78102409638554,11,33,41,310,550,2891,4286,6391,2053,1694
+606,607,The Age of Innocence,highbrow,Martin Scorsese,1993,25181,"['Romance', 'Drama']",USA,3.74101505103054,53,154,189,861,1092,4209,5079,7160,3364,3021
+607,608,The Lady Vanishes,highbrow,Alfred Hitchcock,1938,17947,"['Thriller', 'Mystery']",UK,3.85058784197916,6,25,41,243,440,2292,4017,6691,2457,1735
+608,609,Salesman,highbrow,Albert Maysles,1969,4037,['Documentary'],USA,3.90599455040872,2,21,15,66,105,478,742,1437,609,562
+612,613,The Son,highbrow,Luc Dardenne,2002,3576,"['Drama', 'Mystery']",Belgium,3.92281879194631,11,18,13,66,105,367,686,1159,605,546
+613,614,Bambi,highbrow,David Hand,1942,66001,"['Family', 'Drama', 'Animation']",USA,3.50379539703944,173,733,536,3519,4054,17237,13296,16266,3577,6610
+614,615,Rapture,highbrow,Iván Zulueta,1979,1675,"['Drama', 'Horror']",Spain,3.85522388059702,6,17,20,68,80,169,282,452,271,310
+615,616,"Goodbye, Dragon Inn",highbrow,Tsai Ming-liang,2003,4439,"['Drama', 'Comedy']",Taiwan,3.86494706014868,22,58,47,119,195,516,668,1265,799,750
+616,617,Rosetta,highbrow,Luc Dardenne,1999,6728,['Drama'],France,3.90271997621879,20,36,44,124,208,737,1203,2231,1186,939
+617,618,Distant,highbrow,Nuri Bilge Ceylan,2002,4965,['Drama'],Turkey,3.84572004028197,3,17,36,125,151,572,982,1756,796,527
+618,619,Holy Motors,highbrow,Leos Carax,2012,31205,"['Fantasy', 'Drama']",France,3.81169684345457,257,486,425,1286,1309,3623,4661,8506,5238,5414
+620,621,Bring Me the Head of Alfredo Garcia,highbrow,Sam Peckinpah,1974,8323,"['Crime', 'Drama', 'Action']",USA,3.88435660218671,16,34,62,196,279,940,1601,2650,1297,1249
+621,622,Seven Chances,highbrow,Buster Keaton,1925,5068,"['Romance', 'Comedy']",USA,3.88249802683504,13,12,16,66,134,595,1030,1818,830,554
+622,623,The Wicker Man,highbrow,Robin Hardy,1973,47276,['Horror'],UK,3.86678229968694,129,282,278,1106,1428,5767,8711,16054,6710,6812
+623,624,Song of Love,highbrow,Jean Genet,1950,2508,"['Romance', 'Fantasy']",France,3.92384370015949,8,13,16,65,70,258,408,886,342,442
+624,625,Loves of a Blonde,highbrow,Miloš Forman,1965,4394,"['Romance', 'Comedy', 'Drama']",Unknown,3.7857305416477,6,14,24,69,148,605,986,1611,583,348
+627,628,Scarface,highbrow,Howard Hawks,1932,11032,"['Drama', 'Action', 'Crime', 'Thriller']",USA,3.77442893401015,11,34,37,215,393,1735,2483,3715,1357,1054
+631,632,"Dr. Mabuse, the Gambler",highbrow,Fritz Lang,1922,4051,"['Thriller', 'Mystery', 'Crime', 'Drama']",Germany,3.6645272772155,3,10,24,85,109,418,642,1295,622,575
+632,633,Nazarin,highbrow,Luis Buñuel,1959,2151,['Drama'],Mexico,3.91748024174802,6,6,7,25,58,228,434,765,332,291
+633,634,Our Hospitality,highbrow,Buster Keaton,1923,4894,"['Comedy', 'Romance']",USA,3.90335104209236,1,7,16,66,107,580,1024,1781,672,640
+635,636,Blissfully Yours,highbrow,Apichatpong Weerasethakul,2002,2289,"['Romance', 'Drama']",Thailand,3.80144167758847,13,17,22,71,93,255,472,705,343,298
+637,638,Mother and Son,highbrow,Aleksandr Sokurov,1997,1923,['Drama'],Germany,3.80551222048882,14,14,22,61,107,247,303,567,270,318
+638,639,Ben-Hur,highbrow,William Wyler,1959,28320,"['Drama', 'Adventure', 'History']",USA,3.86546610169492,51,159,158,751,1005,3801,4946,9000,3870,4581
+639,640,An Angel at My Table,highbrow,Jane Campion,1990,2662,['Drama'],New Zealand,3.82851239669421,7,13,16,52,87,362,560,867,359,340
+642,643,Europe '51,highbrow,Roberto Rossellini,1952,2542,['Drama'],Italy,3.83929976396538,2,13,16,46,89,322,538,847,350,319
+645,646,Great Expectations,highbrow,David Lean,1946,5157,"['Romance', 'Drama']",UK,3.75867752569323,4,28,27,109,173,787,1151,1856,532,491
+646,647,Fat City,highbrow,John Huston,1972,4383,['Drama'],USA,3.61316449920146,5,10,19,75,149,520,886,1427,602,439
+649,650,The Headless Woman,highbrow,Lucrecia Martel,2008,5295,"['Drama', 'Thriller', 'Mystery']",Argentina,3.59121813031162,22,61,73,220,334,920,1107,1610,511,437
+651,652,Nostalgia for the Light,highbrow,Patricio Guzmán,2010,4241,['Documentary'],Chile,3.92584296156567,5,16,18,94,149,481,734,1363,651,730
+652,653,The Round-Up,highbrow,Miklós Jancsó,1966,1010,"['History', 'Drama', 'War']",Hungary,3.9029702970297,1,2,5,14,34,113,190,363,164,125
+657,658,A Place in the Sun,highbrow,George Stevens,1951,6676,"['Drama', 'Romance']",USA,3.85792390653086,11,23,21,136,231,881,1288,2250,960,875
+658,659,JFK,highbrow,Oliver Stone,1991,27509,"['Thriller', 'Drama', 'History']",USA,3.83810752844524,56,157,161,731,1022,3834,4959,8700,3959,3933
+659,660,Xala,highbrow,Ousmane Sembène,1975,1272,['Comedy'],Senegal,3.43946540880503,5,23,21,72,89,278,299,304,100,81
+660,661,Gummo,highbrow,Harmony Korine,1997,24800,"['Drama', 'Crime']",USA,3.62639112903226,513,580,437,1230,1290,3705,4007,6246,2652,4140
+661,662,Yeelen,highbrow,Souleymane Cissé,1987,1618,['Drama'],Burkina Faso,3.62546353522868,6,11,18,61,95,264,392,475,157,139
+662,663,Titicut Follies,highbrow,Frederick Wiseman,1967,3371,['Documentary'],USA,3.95935924058143,2,9,21,50,86,345,561,1245,496,556
+663,664,Young Mr. Lincoln,highbrow,John Ford,1939,4478,"['History', 'Drama']",USA,3.79678427869585,6,22,30,104,190,657,916,1369,648,536
+664,665,The Blue Angel,highbrow,Josef von Sternberg,1930,5827,['Drama'],Germany,3.78831302557062,6,15,35,149,233,849,1164,1989,767,619
+665,666,The Purple Rose of Cairo,highbrow,Woody Allen,1985,19753,"['Romance', 'Fantasy', 'Comedy']",USA,3.88338480230851,30,72,66,385,560,2416,3856,6758,2957,2654
+666,667,Godard's Passion,highbrow,Jean-Luc Godard,1982,1489,"['Comedy', 'Drama']",France,3.48421759570181,7,24,29,104,130,280,292,322,142,159
+667,668,Gun Crazy,highbrow,Joseph H. Lewis,1950,7021,"['Thriller', 'Crime', 'Drama']",USA,3.88769406067512,4,11,11,80,190,820,1518,2534,1096,758
+668,669,They Live by Night,highbrow,Nicholas Ray,1948,5899,"['Drama', 'Crime']",USA,3.84234616036616,5,17,18,67,170,839,1316,1979,837,651
+669,670,Nouvelle Vague,highbrow,Jean-Luc Godard,1990,801,['Drama'],Switzerland,3.57802746566792,3,22,14,44,54,144,144,181,83,113
+670,671,The Party,highbrow,Blake Edwards,1968,7645,['Comedy'],USA,3.56311314584696,40,112,105,337,465,1403,1730,2082,666,705
+673,674,Ghostbusters,highbrow,Ivan Reitman,1984,158899,"['Fantasy', 'Comedy']",USA,3.83332494225892,262,850,787,4329,5303,25677,27592,51072,15983,27044
+674,675,Titanic,highbrow,James Cameron,1997,269840,"['Romance', 'Drama']",USA,3.73246553513193,1428,3589,2403,12518,12232,49180,41916,72275,22392,51907
+675,676,Zelig,highbrow,Woody Allen,1983,13494,['Comedy'],USA,3.78523788350378,34,69,60,350,497,1958,2792,4446,1831,1458
+676,677,Dazed and Confused,highbrow,Richard Linklater,1993,90267,"['Drama', 'Comedy']",USA,3.89827954845071,241,519,514,2227,3037,11699,15380,27647,12202,16801
+677,678,Edward Scissorhands,highbrow,Tim Burton,1990,164927,"['Drama', 'Romance', 'Fantasy']",USA,3.8261837055182,260,832,722,4267,5304,26403,30144,54594,15784,26617
+678,679,A History of Violence,highbrow,David Cronenberg,2005,48842,"['Drama', 'Thriller', 'Crime']",USA,3.68577249088899,103,305,344,1432,1969,7796,11392,16719,5409,3377
+680,681,Walkabout,highbrow,Nicolas Roeg,1971,12207,"['Adventure', 'Drama']",Australia,3.9130826574916,21,52,68,248,386,1336,2096,4123,2159,1718
+682,683,Airplane!,highbrow,Jerry Zucker,1980,101576,['Comedy'],USA,3.83264255335906,312,759,655,2779,3363,14453,18131,32861,12280,15984
+684,685,My Life as a Dog,highbrow,Lasse Hallström,1985,4633,"['Comedy', 'Drama']",Sweden,3.78091949061084,9,23,24,131,161,700,936,1548,568,533
+685,686,RoboCop,highbrow,Paul Verhoeven,1987,82099,"['Action', 'Thriller', 'Science Fiction']",USA,3.861910620105,146,468,449,2457,2723,12211,13982,24595,10374,14698
+686,687,The African Queen,highbrow,John Huston,1951,17354,"['Adventure', 'Romance']",UK,3.66791517805693,27,93,94,548,886,3172,3871,5437,1696,1530
+688,689,Audition,highbrow,Takashi Miike,1999,39156,"['Horror', 'Drama', 'Thriller', 'Mystery']",Japan,3.78580549596486,104,294,280,1113,1426,5306,7609,13389,5211,4425
+689,690,My Friend Ivan Lapshin,highbrow,Aleksey German,1985,905,['Drama'],Russian Federation,3.9414364640884,0,6,2,15,31,122,167,241,148,174
+690,691,Crash,highbrow,David Cronenberg,1996,20120,"['Drama', 'Romance', 'Thriller']",Canada,3.50576540755467,181,390,422,1285,1391,3709,3728,4876,1988,2150
+691,692,The Golden Coach,highbrow,Jean Renoir,1952,1343,"['Drama', 'Comedy', 'History']",France,3.63440059568131,1,15,12,59,88,257,272,336,155,149
+693,694,WR: Mysteries of the Organism,highbrow,Dušan Makavejev,1971,2577,"['Drama', 'Fantasy', 'Comedy']",Serbia,3.53783469150175,24,35,47,149,185,471,479,649,273,265
+694,695,Dumbo,highbrow,Ben Sharpsteen,1941,61385,"['Animation', 'Family']",USA,3.43036572452554,254,885,747,3792,4461,16300,12241,14032,3155,5527
+695,696,Strike,highbrow,Sergei Eisenstein,1925,5462,['Drama'],Russian Federation,3.82900036616624,25,33,47,137,184,692,1038,1805,740,761
+696,697,Foolish Wives,highbrow,Erich von Stroheim,1922,1475,['Drama'],USA,3.63322033898305,9,10,22,71,105,257,269,371,189,172
+700,701,Casque d'Or,highbrow,Jacques Becker,1952,2101,"['Crime', 'Romance', 'Drama']",France,3.77748691099476,2,8,7,27,76,312,496,714,300,159
+701,702,Spartacus,highbrow,Stanley Kubrick,1960,31230,"['Action', 'War', 'History', 'Drama', 'Adventure']",USA,3.73506243996158,35,114,125,700,1132,5226,7037,10835,3371,2656
+702,703,Funny Games,highbrow,Michael Haneke,1997,44497,"['Thriller', 'Horror', 'Drama']",Austria,3.84946176146706,331,471,364,1173,1373,4823,7396,15319,7075,6172
+703,704,When Harry Met Sally...,highbrow,Rob Reiner,1989,89033,"['Comedy', 'Romance', 'Drama']",USA,3.93155908483371,120,380,346,1888,2382,11465,15006,28793,12009,16644
+704,705,Irreversible,highbrow,Gaspar Noé,2002,43961,"['Drama', 'Mystery', 'Crime', 'Thriller']",France,3.79283910739064,564,698,497,1474,1652,5081,6972,13536,6581,6906
+710,711,Breakfast at Tiffany's,highbrow,Blake Edwards,1961,77455,"['Drama', 'Comedy', 'Romance']",USA,3.73440061971467,259,630,585,2676,3419,13041,15156,23413,6979,11297
+711,712,The Host,highbrow,Bong Joon-ho,2006,73538,"['Science Fiction', 'Horror', 'Drama']",South Korea,3.71125132584514,145,374,427,1885,2731,10833,17955,25853,8390,4945
+712,713,The Man Who Would Be King,highbrow,John Huston,1975,6175,"['Drama', 'Adventure']",USA,3.82016194331984,6,21,23,117,214,829,1340,2153,784,689
+713,714,Fort Apache,highbrow,John Ford,1948,4237,['Western'],USA,3.76669813547321,5,19,19,107,192,686,903,1256,554,496
+714,715,The Bad and the Beautiful,highbrow,Vincente Minnelli,1952,5765,"['Drama', 'Romance']",USA,3.93746747614918,3,21,8,62,117,635,1096,2115,985,723
+715,716,By the Bluest of Seas,highbrow,Boris Barnet,1936,620,"['Romance', 'Drama', 'Comedy']",Azerbaijan,3.62177419354839,2,6,4,21,50,126,137,133,58,83
+716,717,Avatar,highbrow,James Cameron,2009,263260,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",USA,3.27701891666034,4044,9194,6555,25377,22867,60085,41330,52965,14494,26349
+717,718,Miller's Crossing,highbrow,Joel Coen,1990,36841,"['Crime', 'Thriller', 'Drama']",USA,3.9131402513504,24,112,120,642,994,4238,6944,12753,6018,4996
+718,719,The Tin Drum,highbrow,Volker Schlöndorff,1979,5949,"['History', 'Drama', 'War']",Germany,3.66515380736258,45,81,66,237,295,842,1243,1816,741,583
+719,720,Red Sorghum,highbrow,Zhang Yimou,1988,2701,"['Drama', 'War']",China,3.66641984450204,4,9,17,70,114,468,688,902,257,173
+723,724,Claire's Knee,highbrow,Éric Rohmer,1970,7730,"['Drama', 'Romance']",France,3.88253557567917,20,29,34,146,228,910,1509,2605,1243,1007
+724,725,Lancelot of the Lake,highbrow,Robert Bresson,1974,2533,"['Romance', 'War', 'Drama']",Italy,3.71476510067114,9,31,34,101,149,391,482,619,345,372
+725,726,The Woman Next Door,highbrow,François Truffaut,1981,2633,"['Drama', 'Romance']",France,3.49468287124952,7,15,22,106,196,583,725,653,181,147
+726,727,The Wild Child,highbrow,François Truffaut,1970,2971,['Drama'],France,3.62268596432178,4,11,13,85,144,577,787,912,266,174
+727,728,Van Gogh,highbrow,Maurice Pialat,1991,1489,['Drama'],France,3.81833445265279,3,15,7,48,57,193,309,423,205,229
+729,730,Near Dark,highbrow,Kathryn Bigelow,1987,18868,['Horror'],USA,3.55965126139495,34,122,155,699,1176,3677,4834,5614,1494,1065
+730,731,The Tiger of Eschnapur,highbrow,Fritz Lang,1959,918,"['Drama', 'Thriller', 'Adventure', 'Romance']",Germany,3.55010893246187,1,10,13,56,68,187,193,200,79,111
+733,734,Seasons of the Year,highbrow,Artavazd Peleshyan,1975,545,['Documentary'],Armenia,3.74036697247706,2,4,2,15,21,87,128,156,70,60
+734,735,The Thief of Bagdad,highbrow,Michael Powell,1940,3896,"['Action', 'Adventure', 'Family', 'Fantasy']",UK,3.64104209445585,6,20,41,114,211,726,913,1157,392,316
+735,736,From the East,highbrow,Chantal Akerman,1993,1006,['Documentary'],Belgium,3.89363817097416,3,7,7,27,32,108,165,339,167,151
+737,738,Les Dames du Bois de Boulogne,highbrow,Robert Bresson,1945,2232,"['Romance', 'Drama']",France,3.53629032258064,3,9,14,68,154,495,634,576,135,145
+738,739,An American in Paris,highbrow,Vincente Minnelli,1951,14671,"['Music', 'Comedy', 'Romance']",USA,3.61972599004839,15,82,137,590,899,2814,3284,4110,1397,1344
+739,740,Pickup on South Street,highbrow,Samuel Fuller,1953,6236,"['Thriller', 'Crime']",USA,3.92302758178319,5,11,13,82,152,619,1229,2346,1101,678
+741,742,Saturday Night and Sunday Morning,highbrow,Karel Reisz,1960,3578,"['Drama', 'Romance']",UK,3.74161542761319,5,16,12,92,109,518,850,1337,365,275
+742,743,The New World,highbrow,Terrence Malick,2005,20373,"['Drama', 'History', 'Romance']",USA,3.68095027732784,107,298,304,1086,1189,3169,3434,5064,2754,2973
+743,744,Il Grido,highbrow,Michelangelo Antonioni,1957,1886,['Drama'],Italy,3.716065747614,2,9,10,39,72,281,485,654,202,132
+745,746,Superman,highbrow,Richard Donner,1978,44208,"['Science Fiction', 'Action', 'Adventure']",UK,3.61194806369888,82,337,355,1758,2327,9367,9643,12324,3589,4427
+746,747,Roma,highbrow,Federico Fellini,1972,3998,"['Drama', 'Comedy']",Italy,3.73524262131066,8,28,36,125,183,594,833,1268,499,425
+747,748,Dirty Harry,highbrow,Don Siegel,1971,37453,"['Thriller', 'Action', 'Crime']",USA,3.73337249352522,40,154,156,828,1407,6059,8709,12967,3894,3239
+748,749,The Ladies Man,highbrow,Jerry Lewis,1961,2188,['Comedy'],USA,3.21252285191956,18,41,48,146,136,393,377,408,171,275
+750,751,Moulin Rouge!,highbrow,Baz Luhrmann,2001,80503,"['Drama', 'Music', 'Romance']",Australia,3.67108679179658,821,1713,1348,4477,4353,12583,12397,19798,7688,15325
+751,752,Dodes'ka-den,highbrow,Akira Kurosawa,1970,2352,['Drama'],Japan,3.6375425170068,4,24,14,99,149,404,522,662,238,236
+752,753,Night of the Demon,highbrow,Jacques Tourneur,1957,5936,"['Horror', 'Mystery']",UK,3.80870956873315,3,14,30,97,202,835,1349,2038,739,629
+754,755,Chronicle of Anna Magdalena Bach,highbrow,Jean-Marie Straub,1968,1726,"['Music', 'History']",Germany,3.72103128621089,6,22,28,70,126,239,283,458,218,276
+755,756,Lolita,highbrow,Stanley Kubrick,1962,44908,"['Drama', 'Romance', 'Crime']",UK,3.5990692081589,243,460,350,1661,2137,8690,10100,13973,3862,3433
+756,757,Ferris Bueller's Day Off,highbrow,John Hughes,1986,200493,['Comedy'],USA,3.92073039956507,452,1236,911,4493,5442,26642,32394,65412,23697,39814
+758,759,Thelma & Louise,highbrow,Ridley Scott,1991,60425,"['Adventure', 'Crime', 'Thriller', 'Drama']",USA,3.92956557716177,71,170,186,1110,1530,7634,10519,20541,8576,10088
+760,761,The Firemen's Ball,highbrow,Miloš Forman,1967,5035,"['Comedy', 'Drama']",Italy,3.70536246276068,7,24,34,154,223,781,1164,1641,607,400
+761,762,The Last Detail,highbrow,Hal Ashby,1973,9215,"['Comedy', 'Drama']",USA,3.89744981009224,5,28,18,128,207,1033,1886,3487,1358,1065
+762,763,The Adventures of Robin Hood,highbrow,Michael Curtiz,1938,12932,"['Adventure', 'Romance', 'Action']",USA,3.84055057222394,11,44,61,292,407,2035,2430,4215,1463,1974
+763,764,Street Angel,highbrow,Yuan Muzhi,1937,385,"['Drama', 'Comedy']",China,3.54285714285714,1,3,1,19,29,67,107,100,34,24
+764,765,Smiles of a Summer Night,highbrow,Ingmar Bergman,1955,7098,"['Romance', 'Comedy']",Sweden,3.86446886446886,8,18,21,110,204,871,1458,2558,1103,747
+765,766,Iracema,highbrow,Jorge Bodanzky,1975,449,"['Drama', 'Documentary']",Brazil,3.85300668151448,4,5,4,6,11,75,80,111,73,80
+766,767,Sideways,highbrow,Alexander Payne,2004,36602,"['Drama', 'Romance', 'Comedy']",USA,3.66800994481176,183,397,334,1362,1678,5813,7859,11368,4219,3389
+767,768,Portrait of Jason,highbrow,Shirley Clarke,1967,1905,['Documentary'],USA,3.88530183727034,2,12,12,43,75,188,369,625,307,272
+768,769,Every Man for Himself,highbrow,Jean-Luc Godard,1980,2296,['Drama'],Austria,3.50065331010453,23,40,26,113,164,477,516,500,222,215
+769,770,Wild at Heart,highbrow,David Lynch,1990,40270,"['Thriller', 'Crime', 'Comedy']",USA,3.73044449962751,116,294,334,1334,1809,6071,8386,12594,4837,4495
+771,772,Hunger,highbrow,Steve McQueen,2008,27091,"['Drama', 'History']",Ireland,3.91157580008121,42,109,125,500,739,2735,4878,9819,4971,3176
+772,773,The Navigator,highbrow,Buster Keaton,1924,3715,"['Comedy', 'Action', 'Romance']",USA,3.75329744279946,2,6,12,62,135,607,947,1189,429,327
+773,774,The River,highbrow,Tsai Ming-liang,1997,2595,"['Drama', 'Romance']",Taiwan,3.83102119460501,7,14,11,67,117,310,493,848,413,315
+774,775,Starship Troopers,highbrow,Paul Verhoeven,1997,66005,"['Science Fiction', 'Thriller', 'Adventure', 'Action']",USA,3.67787288841754,240,691,599,2467,3067,10865,13689,20353,7303,6733
+775,776,Flaming Creatures,highbrow,Jack Smith,1963,932,['Drama'],USA,2.91040772532189,64,69,41,91,116,162,126,143,42,78
+776,777,Blood of the Beasts,highbrow,Georges Franju,1949,1529,['Documentary'],France,3.8273381294964,10,9,5,27,63,212,270,535,194,205
+777,778,Code Unknown,highbrow,Michael Haneke,2000,7293,"['War', 'Drama', 'Romance']",France,3.72912381735911,15,49,39,211,306,1083,1622,2407,929,632
+778,779,The Blues Brothers,highbrow,John Landis,1980,58488,"['Music', 'Comedy', 'Crime', 'Action']",USA,3.89191800027356,115,316,291,1541,1931,7796,9783,18519,7577,10622
+779,780,Deep End,highbrow,Jerzy Skolimowski,1970,3800,"['Drama', 'Romance']",UK,3.7875,8,15,26,110,164,479,790,1266,543,399
+780,781,Hawks and Sparrows,highbrow,Pier Paolo Pasolini,1966,2123,"['Fantasy', 'Comedy']",Italy,3.6514366462553,6,14,19,82,112,343,504,648,215,182
+782,783,The Goddess,highbrow,Yonggang Wu,1934,1588,['Drama'],China,3.80100755667506,1,3,7,23,55,231,345,559,236,128
+783,784,Kaagaz Ke Phool,highbrow,Guru Dutt,1959,655,"['Drama', 'Romance']",India,3.76488549618321,2,2,2,25,34,85,133,213,95,65
+785,786,Olympia Part One: Festival of the Nations,highbrow,Leni Riefenstahl,1938,1673,['Documentary'],Germany,3.72086072922893,14,12,16,59,71,262,314,533,181,211
+786,787,Ossessione,highbrow,Luchino Visconti,1943,2729,"['Crime', 'Romance', 'Drama']",Italy,3.6513374862587,5,13,21,73,127,471,715,845,263,195
+787,788,Blood Simple,highbrow,Joel Coen,1984,41995,"['Thriller', 'Crime', 'Drama']",USA,3.8844862483629,25,106,98,593,1012,4731,8725,15773,6670,4262
+788,789,Vengeance Is Mine,highbrow,Shōhei Imamura,1979,3727,"['Drama', 'Crime']",Japan,3.93010464180306,1,14,17,56,100,384,668,1372,615,500
+789,790,The Trial,highbrow,Orson Welles,1962,9199,"['Crime', 'Drama']",France,3.94423306881183,13,38,48,188,297,935,1579,2944,1689,1468
+791,792,Spies,highbrow,Fritz Lang,1928,1609,"['Action', 'Drama', 'Thriller']",Germany,3.79272840273462,3,5,7,28,44,227,390,549,205,151
+792,793,Two English Girls,highbrow,François Truffaut,1971,2261,"['Romance', 'Drama']",France,3.60813799203892,5,18,15,94,123,411,571,618,228,178
+793,794,Million Dollar Baby,highbrow,Clint Eastwood,2004,80034,['Drama'],USA,3.84399755104081,185,471,415,1995,2469,10284,14248,28406,11694,9867
+794,795,The Mad Masters,highbrow,Jean Rouch,1955,1082,['Documentary'],France,3.39741219963031,15,19,27,56,77,230,266,247,69,77
+799,800,Moonfleet,highbrow,Fritz Lang,1955,1039,['Adventure'],USA,3.46246390760346,2,7,15,65,87,257,221,211,78,96
+801,802,The Sweet Hereafter,highbrow,Atom Egoyan,1997,7720,['Drama'],Canada,3.83717616580311,17,34,42,198,300,981,1436,2506,1303,903
+805,806,Mary Poppins,highbrow,Robert Stevenson,1964,68763,"['Family', 'Fantasy', 'Comedy']",USA,3.85958291523057,113,418,361,1889,2483,10727,11253,21166,7271,13089
+806,807,The Miracle of Morgan’s Creek,highbrow,Preston Sturges,1943,2187,"['War', 'Comedy', 'Romance']",USA,3.78372199359854,5,14,14,63,100,298,456,655,317,265
+807,808,The Ladykillers,highbrow,Alexander Mackendrick,1955,7330,"['Comedy', 'Crime']",UK,3.73635743519782,12,30,42,166,288,1139,1753,2431,770,699
+811,812,"Faster, Pussycat! Kill! Kill!",highbrow,Russ Meyer,1965,7836,"['Comedy', 'Crime', 'Action']",USA,3.56999744767739,39,84,122,385,527,1481,1672,2030,619,880
+814,815,Port of Shadows,highbrow,Marcel Carné,1938,3138,"['Crime', 'Drama', 'Romance']",France,3.93116634799235,5,4,9,53,63,357,576,1127,525,419
+815,816,The Idiots,highbrow,Lars von Trier,1998,9024,"['Comedy', 'Drama']",Denmark,3.3836990248227,173,286,210,554,665,1684,1782,2191,753,727
+816,817,Burnt by the Sun,highbrow,Nikita Mikhalkov,1994,1653,['Drama'],France,3.74531155474894,9,18,15,48,60,244,340,505,224,190
+817,818,Assault on Precinct 13,highbrow,John Carpenter,1976,22398,"['Thriller', 'Action', 'Crime']",USA,3.78192249307974,11,67,92,436,787,3294,5276,7450,2831,2154
+818,819,The Right Stuff,highbrow,Philip Kaufman,1983,11635,"['Drama', 'History']",USA,3.94030941125913,23,31,35,206,332,1364,1923,3985,1878,1859
+819,820,The Lusty Men,highbrow,Nicholas Ray,1952,1668,"['Western', 'Action', 'Drama']",USA,3.94244604316547,1,6,3,15,33,188,329,584,288,221
+820,821,Hitler: A Film from Germany,highbrow,Hans-Jürgen Syberberg,1977,373,['Drama'],Germany,3.94101876675603,3,3,3,13,21,40,41,102,58,90
+824,825,Veronika Voss,highbrow,Rainer Werner Fassbinder,1982,4009,['Drama'],Germany,3.87864804190571,5,15,15,51,113,449,806,1520,596,439
+825,826,The Ghost and Mrs. Muir,highbrow,Joseph L. Mankiewicz,1947,4298,"['Mystery', 'Fantasy', 'Romance']",USA,3.82247557003257,3,13,21,78,156,633,949,1371,475,599
+826,827,7 Women,highbrow,John Ford,1966,1008,['Drama'],USA,3.81200396825397,2,7,6,39,61,137,185,246,145,180
+827,828,The Producers,highbrow,Mel Brooks,1967,19185,['Comedy'],USA,3.79442272608809,30,110,117,496,806,2745,3808,6211,2487,2378
+829,830,"New York, New York",highbrow,Martin Scorsese,1977,7617,"['Music', 'Romance', 'Drama']",USA,3.31272154391493,26,93,142,575,780,1884,1797,1497,461,362
+830,831,Morocco,highbrow,Josef von Sternberg,1930,3318,"['Romance', 'Drama']",USA,3.60533453887884,7,22,30,122,206,679,801,823,279,349
+831,832,It's a Gift,highbrow,Norman Z. McLeod,1934,1507,['Comedy'],USA,3.38453881884539,14,38,39,103,116,325,291,354,97,131
+834,835,Diary,highbrow,David Perlov,1983,156,['Documentary'],Israel,3.98717948717949,0,1,2,2,6,23,18,43,20,41
+836,837,The Intruder,highbrow,Claire Denis,2004,1451,['Drama'],France,3.71743625086148,2,20,15,55,82,224,259,409,208,177
+837,838,The Age of the Earth,highbrow,Glauber Rocha,1980,577,['Drama'],Brazil,3.81715771230503,7,11,12,22,25,69,79,134,92,126
+838,839,Dust in the Wind,highbrow,Hou Hsiao-hsien,1986,2123,"['Romance', 'Drama']",Taiwan,3.89401789919925,1,2,7,40,62,243,419,755,333,261
+839,840,The Day the Earth Stood Still,highbrow,Robert Wise,1951,15451,['Science Fiction'],USA,3.78548314024982,12,54,54,340,532,2422,3308,5245,1831,1655
+840,841,Number Two,highbrow,Jean-Luc Godard,1975,963,['Drama'],France,3.41069574247144,18,32,18,61,77,173,186,214,88,96
+841,842,The Breakfast Club,highbrow,John Hughes,1985,246592,"['Comedy', 'Drama']",USA,3.84785597261874,823,2069,1514,7597,8405,35779,39686,78738,26405,45576
+842,843,Women on the Verge of a Nervous Breakdown,highbrow,Pedro Almodóvar,1988,19551,"['Drama', 'Comedy']",Spain,3.92330315584881,24,59,70,257,479,2195,3782,6969,2922,2794
+843,844,Blazing Saddles,highbrow,Mel Brooks,1974,48901,"['Comedy', 'Western']",USA,3.86431770311446,117,337,340,1261,1685,6546,8461,15402,6581,8171
+845,846,Point Break,highbrow,Kathryn Bigelow,1991,54903,"['Crime', 'Thriller', 'Action']",USA,3.64366245924631,76,338,368,1858,2789,10525,12935,16112,4748,5154
+846,847,Sawdust and Tinsel,highbrow,Ingmar Bergman,1953,3443,['Drama'],Sweden,3.68762706941621,8,9,18,94,152,560,865,1107,394,236
+847,848,She Wore a Yellow Ribbon,highbrow,John Ford,1949,4060,['Western'],USA,3.57130541871921,7,34,32,178,280,802,1000,1005,356,366
+849,850,The Match Factory Girl,highbrow,Aki Kaurismäki,1990,5303,"['Comedy', 'Drama']",Finland,3.87893645106543,8,21,17,89,154,568,1095,1921,828,602
+850,851,Mother India,highbrow,Mehboob Khan,1957,886,"['Drama', 'Music']",India,3.5079006772009,6,16,13,48,64,170,190,226,71,83
+852,853,Fires Were Started,highbrow,Humphrey Jennings,1943,572,"['Drama', 'War']",UK,3.13636363636364,5,8,19,41,70,185,118,91,18,17
+853,854,A Woman of Paris: A Drama of Fate,highbrow,Charlie Chaplin,1923,1931,"['Romance', 'Drama']",USA,3.39435525634386,7,12,19,94,185,478,531,398,119,88
+854,855,Le Million,highbrow,René Clair,1931,1435,"['Comedy', 'Music']",France,3.64425087108014,2,8,8,50,74,249,358,428,157,101
+855,856,The Last Temptation of Christ,highbrow,Martin Scorsese,1988,23742,['Drama'],USA,3.84171510403504,84,195,155,653,892,3160,4123,7279,3654,3547
+859,860,Sicily!,highbrow,Jean-Marie Straub,1999,1638,['Drama'],Germany,3.72435897435897,7,17,19,63,89,263,320,409,194,257
+860,861,Branded to Kill,highbrow,Seijun Suzuki,1967,8789,"['Action', 'Crime']",Japan,3.84975537603823,19,43,53,206,327,1117,1672,2818,1342,1192
+861,862,Fata Morgana,highbrow,Werner Herzog,1971,2288,['Documentary'],Germany,3.39707167832168,11,34,44,123,225,546,466,525,161,153
+862,863,The Last Emperor,highbrow,Bernardo Bertolucci,1987,16170,"['History', 'Drama']",China,3.75844155844156,19,68,94,434,644,2513,3450,5326,1911,1712
+863,864,2046,highbrow,Wong Kar-wai,2004,17942,"['Drama', 'Fantasy', 'Romance', 'Science Fiction']",Germany,3.86043919295508,28,80,95,429,640,2218,3417,5866,2706,2463
+864,865,American Graffiti,highbrow,George Lucas,1973,33551,"['Drama', 'Comedy']",USA,3.69895085094334,57,177,205,984,1542,6023,7332,10333,3571,3327
+866,867,7th Heaven,highbrow,Frank Borzage,1927,1624,"['Romance', 'Drama']",USA,3.73676108374384,15,17,13,48,70,250,301,484,232,194
+868,869,Pink Flamingos,highbrow,John Waters,1972,14486,"['Crime', 'Comedy']",USA,3.49016291591882,479,521,343,772,840,2283,2248,3458,1239,2303
+869,870,Man of the West,highbrow,Anthony Mann,1958,3226,"['Action', 'Western', 'Drama', 'Romance']",USA,3.77402355858648,3,16,14,68,137,449,749,1038,445,307
+870,871,The Last Bolshevik,highbrow,Chris Marker,1993,441,"['Documentary', 'History']",France,3.8390022675737,2,5,3,6,19,49,90,135,78,54
+871,872,Time of the Gypsies,highbrow,Emir Kusturica,1988,4350,"['Drama', 'Crime', 'Fantasy', 'Comedy']",Bosnia and Herzegovina,3.92034482758621,6,12,12,53,79,287,534,1296,804,1037
+872,873,Berlin: Symphony of a Great City,highbrow,Walter Ruttmann,1927,2220,"['Documentary', 'History']",Germany,3.67635135135135,10,15,15,45,99,402,504,731,215,184
+873,874,Othello,highbrow,Orson Welles,1951,4523,"['Drama', 'Romance']",France,3.76973247844351,11,26,30,107,176,634,951,1525,651,412
+874,875,Outskirts,highbrow,Boris Barnet,1933,382,"['Drama', 'War']",Russian Federation,3.57591623036649,0,4,3,11,28,71,106,100,37,23
+875,876,Gregory's Girl,highbrow,Bill Forsyth,1980,2548,"['Comedy', 'Romance']",UK,3.57515698587127,7,30,15,94,157,519,606,713,194,214
+876,877,Dog Star Man,highbrow,Stan Brakhage,1965,2012,['Unknown'],USA,3.52758449304175,30,41,15,45,61,202,204,424,299,483
+877,878,La Bête Humaine,highbrow,Jean Renoir,1938,3167,"['Crime', 'Drama']",France,3.7003473318598,2,9,16,85,143,500,765,1075,360,212
+879,880,Enter the Dragon,highbrow,Robert Clouse,1973,27946,['Action'],Hong Kong,3.75227223931869,22,95,132,557,1025,4549,6411,9710,2570,2878
+880,881,The Misfits,highbrow,John Huston,1961,4973,"['Action', 'Romance', 'Drama', 'Western']",USA,3.67444198672833,16,35,29,176,257,887,1052,1479,554,488
+883,884,Forbidden Planet,highbrow,Fred M. Wilcox,1956,12314,['Science Fiction'],USA,3.61352931622543,13,67,83,426,687,2469,2957,3587,1010,1016
+884,885,The Outlaw Josey Wales,highbrow,Clint Eastwood,1976,13078,['Western'],USA,3.76598103685579,8,43,44,289,461,2028,2910,4565,1542,1188
+885,886,Arabian Nights,highbrow,Pier Paolo Pasolini,1974,3069,"['Adventure', 'Comedy', 'Drama', 'Fantasy']",France,3.60166177908113,28,46,34,120,186,522,666,843,323,303
+886,887,M*A*S*H,highbrow,Robert Altman,1970,18591,"['Comedy', 'War', 'Drama']",USA,3.54340810069388,120,292,295,1006,1200,3380,3731,5091,1767,1711
+888,889,Dracula,highbrow,Terence Fisher,1958,10496,['Horror'],UK,3.63066882621951,11,41,47,271,477,2205,2724,3109,768,843
+890,891,They Were Expendable,highbrow,John Ford,1945,1724,"['Drama', 'War', 'Action']",USA,3.56670533642691,5,9,20,67,105,360,401,472,171,114
+892,893,Night at the Crossroads,highbrow,Jean Renoir,1932,535,"['Drama', 'Mystery', 'Crime']",France,3.47196261682243,1,4,6,29,54,113,117,129,47,35
+893,894,Fellini's Casanova,highbrow,Federico Fellini,1976,2170,"['History', 'Romance', 'Drama']",Italy,3.55115207373272,14,24,38,115,146,403,474,517,216,223
+894,895,"Moi, un Noir",highbrow,Jean Rouch,1958,961,['Documentary'],France,3.78720083246618,3,5,1,15,32,162,211,300,126,106
+895,896,The Criminal Life of Archibaldo de la Cruz,highbrow,Luis Buñuel,1955,1933,"['Drama', 'Crime', 'Comedy']",Mexico,3.81324366270047,0,7,5,22,56,266,457,707,246,168
+897,898,The Incredible Shrinking Man,highbrow,Jack Arnold,1957,5814,"['Drama', 'Science Fiction', 'Horror']",USA,3.7578259373925,2,25,20,102,229,867,1402,2003,659,506
+898,899,My American Uncle,highbrow,Alain Resnais,1980,2472,"['Romance', 'Comedy', 'Drama']",France,3.90190129449838,1,7,8,64,94,248,443,859,435,315
+899,900,42nd Street,highbrow,Lloyd Bacon,1933,5008,"['Romance', 'Music', 'Comedy']",USA,3.54173322683706,4,37,42,180,285,1112,1338,1319,375,316
+901,902,Dear Diary,highbrow,Nanni Moretti,1993,2935,"['Drama', 'Comedy']",Italy,3.77291311754685,6,12,19,67,131,443,635,919,348,355
+902,903,Naked Childhood,highbrow,Maurice Pialat,1968,2104,['Drama'],France,3.82461977186312,1,6,5,22,61,283,500,742,301,183
+903,904,They Live,highbrow,John Carpenter,1988,60622,"['Science Fiction', 'Action']",USA,3.74701428524298,76,278,330,1513,2503,9433,13824,19741,6420,6504
+905,906,Sholay,highbrow,Ramesh Sippy,1975,2669,['Action'],India,3.77744473585613,21,26,27,79,112,357,525,791,341,392
+909,910,Saturday Night Fever,highbrow,John Badham,1977,26443,"['Music', 'Drama', 'Comedy']",USA,3.30159210377037,282,617,530,1932,2335,6455,5615,5615,1496,1568
+910,911,Ride the High Country,highbrow,Sam Peckinpah,1962,3509,"['Action', 'Western']",USA,3.7396694214876,5,13,15,58,113,557,910,1152,416,270
+911,912,Juliet of the Spirits,highbrow,Federico Fellini,1965,5881,"['Comedy', 'Fantasy', 'Drama']",Italy,3.79085189593607,4,27,37,196,248,801,1178,1891,775,724
+912,913,Sherman's March,highbrow,Ross McElwee,1985,1737,['Documentary'],USA,3.8566493955095,13,30,22,37,57,215,266,512,272,313
+914,915,Knife in the Water,highbrow,Roman Polanski,1962,8345,['Drama'],Poland,3.729298981426,14,34,47,177,353,1296,1955,2828,959,683
+915,916,Hôtel Terminus: The Life and Times of Klaus Barbie,highbrow,Marcel Ophüls,1988,450,"['War', 'Documentary']",Germany,3.74222222222222,0,6,4,16,24,63,86,138,54,59
+917,918,The Hart of London,highbrow,Jack Chambers,1970,438,['Mystery'],Canada,3.79908675799087,5,7,10,12,31,45,59,115,77,78
+918,919,Le Jour Se Lève,highbrow,Marcel Carné,1939,2772,"['Crime', 'Drama']",France,3.79689754689755,2,8,14,59,78,386,649,944,377,256
+919,920,Get Carter,highbrow,Mike Hodges,1971,8657,"['Crime', 'Thriller']",UK,3.6747718609218,11,47,50,246,396,1513,2058,2798,842,696
+920,921,Black Orpheus,highbrow,Marcel Camus,1959,6859,"['Drama', 'Romance', 'Music', 'Fantasy']",Brazil,3.8589444525441,10,36,36,166,261,826,1315,2251,971,987
+921,922,Gentlemen Prefer Blondes,highbrow,Howard Hawks,1953,17293,"['Comedy', 'Music', 'Romance']",USA,3.67518649164402,23,71,96,500,777,3383,4030,5225,1416,1772
+922,923,Topsy-Turvy,highbrow,Mike Leigh,1999,3264,"['Comedy', 'Music', 'Drama']",UK,3.77588848039216,7,20,32,105,134,484,647,954,469,413
+923,924,Reds,highbrow,Warren Beatty,1981,5926,"['Romance', 'History', 'Drama']",USA,3.7470469119136,12,53,31,210,252,923,1192,1752,809,692
+924,925,Ludwig,highbrow,Luchino Visconti,1973,1254,"['History', 'Drama']",France,3.84688995215311,0,6,12,35,52,166,226,385,178,194
+925,926,Ten,highbrow,Abbas Kiarostami,2002,3651,['Drama'],Iran,3.76759791837853,19,17,25,104,154,522,676,1274,469,392
+926,927,Saraband,highbrow,Ingmar Bergman,2003,2937,"['Drama', 'Music']",Austria,3.73237997957099,5,15,19,80,108,476,664,954,334,283
+927,928,A Better Tomorrow,highbrow,John Woo,1986,7901,"['Drama', 'Crime', 'Action']",Hong Kong,3.77926844703202,6,21,36,157,244,1174,1848,2752,920,744
+929,930,Odd Man Out,highbrow,Carol Reed,1947,4362,"['Thriller', 'Crime', 'Drama']",UK,3.86439706556625,2,11,16,86,137,489,927,1513,725,456
+930,931,Touchez Pas au Grisbi,highbrow,Jacques Becker,1954,2609,"['Drama', 'Crime']",France,3.84668455346876,2,5,7,45,73,324,542,969,416,226
+931,932,Broadcast News,highbrow,James L. Brooks,1987,13962,"['Romance', 'Comedy']",USA,3.93743732989543,14,55,56,278,440,1731,2382,4211,2363,2433
+932,933,Bad Timing,highbrow,Nicolas Roeg,1980,4034,"['Drama', 'Thriller', 'Mystery']",UK,3.61725334655429,18,50,64,167,261,648,835,1142,458,391
+933,934,Deep Red,highbrow,Dario Argento,1975,24009,"['Horror', 'Thriller', 'Mystery']",Italy,3.88031571494023,28,97,125,504,861,2962,4439,7904,3560,3529
+935,936,La Chienne,highbrow,Jean Renoir,1931,2297,"['Crime', 'Drama']",France,3.78841967784066,2,8,8,46,90,319,533,755,317,219
+936,937,Gilda,highbrow,Charles Vidor,1946,12768,"['Thriller', 'Romance', 'Drama']",USA,3.57475720551378,7,31,49,250,515,1885,2860,4065,1366,1135
+939,940,Le Deuxième Souffle,highbrow,Jean-Pierre Melville,1966,2440,"['Thriller', 'Crime', 'Drama', 'Action']",France,3.91987704918033,3,6,5,21,57,242,454,1003,414,235
+940,941,Water-mirror of Granada,highbrow,José Val del Omar,1955,414,['Documentary'],Spain,3.81763285024155,0,3,3,13,14,63,82,112,64,60
+941,942,Anatahan,highbrow,Josef von Sternberg,1953,875,['Drama'],Japan,3.71485714285714,1,7,8,35,37,162,190,212,91,132
+942,943,O Lucky Man!,highbrow,Lindsay Anderson,1973,2092,"['Drama', 'Comedy', 'Music', 'Fantasy']",UK,3.78728489483748,2,19,10,61,109,288,427,609,282,286
+944,945,Twin Peaks: Fire Walk with Me,highbrow,David Lynch,1992,56448,"['Drama', 'Mystery']",USA,3.94442672902494,154,393,397,1505,1967,6614,8675,15981,8553,12209
+945,946,The Sun Shines Bright,highbrow,John Ford,1953,846,"['Comedy', 'Drama']",USA,3.81323877068558,1,11,8,33,38,138,135,190,130,162
+947,948,Humanity and Paper Balloons,highbrow,Sadao Yamanaka,1937,1113,['Drama'],Japan,3.89622641509434,0,7,8,13,34,126,211,383,194,137
+948,949,On the Town,highbrow,Stanley Donen,1949,6035,"['Comedy', 'Music', 'Romance']",USA,3.58798674399337,6,23,41,184,336,1266,1543,1801,439,396
+952,953,The Ballad of Narayama,highbrow,Shōhei Imamura,1983,2609,['Drama'],Japan,3.9024530471445,9,20,12,53,81,267,443,913,456,355
+953,954,Carnival of Souls,highbrow,Herk Harvey,1962,17658,"['Horror', 'Mystery']",USA,3.72338316910182,20,104,131,501,804,2774,3945,5561,2077,1741
+954,955,Duel in the Sun,highbrow,King Vidor,1946,2007,"['Western', 'Drama', 'Romance']",USA,3.2807673143996,16,37,50,149,227,461,442,387,138,100
+955,956,In Praise of Love,highbrow,Jean-Luc Godard,2001,1352,['Drama'],France,3.57951183431953,14,51,27,90,93,193,203,290,162,230
+956,957,Strangers When We Meet,highbrow,Richard Quine,1960,564,['Romance'],USA,3.71010638297872,2,2,3,12,26,107,136,146,70,60
+957,958,The Adventures of Prince Achmed,highbrow,Carl Koch,1926,4802,"['Adventure', 'Drama', 'Fantasy', 'Animation']",Germany,3.93669304456476,3,10,18,71,128,565,862,1655,777,715
+958,959,Female Trouble,highbrow,John Waters,1974,7377,"['Crime', 'Comedy']",USA,3.88098142876508,60,66,67,185,245,874,1155,2355,977,1394
+959,960,Love and Death,highbrow,Woody Allen,1975,12501,"['Comedy', 'History']",USA,3.81549476041917,16,66,65,267,447,1704,2632,4109,1721,1474
+960,961,The Nutty Professor,highbrow,Jerry Lewis,1963,4724,"['Romance', 'Comedy', 'Science Fiction', 'Family']",USA,3.2990050804403,35,87,87,350,444,1288,1004,858,251,320
+961,962,The Thing from Another World,highbrow,Christian Nyby,1951,9028,"['Science Fiction', 'Horror']",USA,3.43830305715552,11,58,76,456,707,2249,2390,2070,526,485
+962,963,Pépé le Moko,highbrow,Julien Duvivier,1937,2447,"['Crime', 'Drama', 'Romance']",France,3.74581119738455,4,7,11,64,105,367,587,773,305,226
+963,964,A Grin Without a Cat,highbrow,Chris Marker,1977,1059,"['History', 'War', 'Documentary']",France,3.69971671388102,3,2,5,13,18,82,112,294,186,237
+964,965,Zabriskie Point,highbrow,Michelangelo Antonioni,1970,6103,"['Drama', 'Romance']",USA,3.54047189906603,44,97,105,338,451,1047,1227,1561,634,599
+966,967,Scarecrow,highbrow,Jerry Schatzberg,1973,4308,['Drama'],USA,3.73096564531105,7,20,18,99,183,672,991,1471,473,374
+967,968,The Reckless Moment,highbrow,Max Ophüls,1949,2083,['Thriller'],USA,3.57873259721555,1,15,7,69,124,423,562,581,169,132
+968,969,Animal House,highbrow,John Landis,1978,27999,['Comedy'],USA,3.48644594449802,149,390,431,1618,2040,5873,5957,6952,2103,2486
+969,970,Cul-de-sac,highbrow,Roman Polanski,1966,4610,"['Drama', 'Comedy', 'Thriller']",UK,3.5146420824295,16,30,52,189,326,956,1167,1255,368,253
+970,971,A Tale of the Wind,highbrow,Joris Ivens,1988,511,['Documentary'],France,3.65362035225049,0,12,11,26,32,77,91,126,64,73
+971,972,Bad Lieutenant,highbrow,Abel Ferrara,1992,15459,"['Drama', 'Crime']",USA,3.66440261336438,51,132,166,595,779,2492,3419,4593,1741,1491
+972,973,Excalibur,highbrow,John Boorman,1981,10180,"['Adventure', 'Fantasy']",UK,3.53349705304519,33,107,165,557,741,2013,2143,2563,896,962
+973,974,Shanghai Express,highbrow,Josef von Sternberg,1932,4978,"['Drama', 'Romance', 'Adventure', 'Thriller']",USA,3.69626355966252,0,25,25,143,217,885,1196,1500,534,453
+975,976,The 47 Ronin,highbrow,Kenji Mizoguchi,1941,1193,"['Drama', 'History']",Japan,3.80553227158424,1,3,8,43,66,179,195,358,166,175
+976,977,Simon of the Desert,highbrow,Luis Buñuel,1965,5796,"['Drama', 'History', 'Comedy']",Mexico,3.91821946169772,3,16,18,80,128,624,1161,2137,906,725
+977,978,Henry V,highbrow,Laurence Olivier,1944,1898,"['Action', 'History', 'Drama']",UK,3.43150684931507,7,24,29,114,154,415,422,482,152,99
+980,981,Not Reconciled,highbrow,Jean-Marie Straub,1965,1054,['Drama'],Germany,3.43643263757116,10,16,23,69,88,209,218,248,77,96
+981,982,Yol,highbrow,Yılmaz Güney,1982,1888,"['Drama', 'Romance']",France,3.92743644067797,4,9,14,37,60,216,303,618,313,314
+982,983,El Dorado,highbrow,Howard Hawks,1966,4755,"['Action', 'Western', 'Adventure']",USA,3.68675078864353,6,15,25,92,193,835,1256,1559,447,332
+984,985,The Bridges of Madison County,highbrow,Clint Eastwood,1995,15077,"['Romance', 'Drama']",USA,3.85428135570737,41,112,91,486,580,2012,2594,4514,1972,2675
+985,986,Humanité,highbrow,Bruno Dumont,1999,2337,"['Drama', 'Mystery']",France,3.37077449721866,15,39,52,114,146,320,418,617,252,227
+986,987,Hellzapoppin',highbrow,H. C. Potter,1941,1517,"['Music', 'Comedy']",USA,3.90903098220171,4,5,9,26,51,173,279,487,257,226
+987,988,Cairo Station,highbrow,Youssef Chahine,1958,2772,"['Drama', 'Crime']",Egypt,3.82449494949495,2,9,18,57,93,343,605,953,411,282
+989,990,Subarnarekha,highbrow,Ritwik Ghatak,1965,416,['Drama'],India,3.87980769230769,4,4,0,9,21,52,67,120,76,65
+990,991,Häxan,highbrow,Benjamin Christensen,1922,11608,"['Horror', 'Documentary']",Denmark,3.91716919365954,10,44,42,195,326,1415,2073,4026,1672,1805
+991,992,Holiday,highbrow,George Cukor,1938,5431,"['Comedy', 'Romance']",USA,3.90139937396428,5,19,10,62,136,641,1127,1930,809,692
+992,993,A Diary for Timothy,highbrow,Humphrey Jennings,1945,298,['Documentary'],UK,3.44630872483222,1,1,1,14,22,71,89,72,13,14
+993,994,The Man Who Fell to Earth,highbrow,Nicolas Roeg,1976,15743,"['Drama', 'Science Fiction']",UK,3.47405195960109,67,218,245,902,1242,3185,3397,4091,1249,1147
+994,995,The Loneliness of the Long Distance Runner,highbrow,Tony Richardson,1962,2965,['Drama'],UK,3.82445193929174,4,6,7,46,110,360,683,1054,425,271
+995,996,Outer Space,highbrow,Peter Tscherkassky,1999,4140,['Horror'],Austria,3.89311594202899,30,56,34,132,146,441,590,1240,673,798
+996,997,Le Boucher,highbrow,Claude Chabrol,1970,3018,"['Drama', 'Thriller']",France,3.68538767395626,4,19,22,87,137,492,747,922,333,255
+997,998,Too Early/Too Late,highbrow,Jean-Marie Straub,1981,789,['Documentary'],Egypt,3.60899873257288,8,29,23,49,45,96,121,188,88,142
+998,999,Design for Living,highbrow,Ernst Lubitsch,1933,4193,"['Comedy', 'Romance']",USA,3.81361793465299,5,7,19,70,167,583,932,1377,578,455
+999,1000,Fat Girl,highbrow,Catherine Breillat,2001,8860,['Drama'],France,3.58007900677201,115,138,121,420,507,1366,1839,2583,973,798

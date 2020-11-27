@@ -1,0 +1,502 @@
+,TSPDT Rank,Title,Tier,Director,Year,RateCount,Genre,Country,Rating,0.5 Rating,1.0 Rating,1.5 Rating,2.0 Rating,2.5 Rating,3.0 Rating,3.5 Rating,4.0 Rating,4.5 Rating,5.0 Rating
+0,N/A,Parasite,lowbrow,Bong Joon-ho,2019,561865,"['Comedy', 'Drama', 'Thriller']",South Korea,4.60832851307698,472,673,393,1903,2194,12191,19067,93629,112139,319204
+1,N/A,The Human Condition III: A Soldier's Prayer,lowbrow,Masaki Kobayashi,1961,3925,"['War', 'History', 'Drama']",Japan,4.50140127388535,3,5,3,15,37,123,217,728,942,1851
+2,N/A,A Dog's Will,lowbrow,Guel Arraes,2000,16651,"['Comedy', 'Adventure']",Brazil,4.49192240706264,77,70,69,178,167,619,837,3063,2168,9403
+3,N/A,Portrait of a Lady on Fire,lowbrow,Céline Sciamma,2019,171835,"['Drama', 'Romance']",France,4.4405883551081,229,399,347,1413,1735,6557,10800,35531,37748,77078
+4,N/A,Spider-Man: Into the Spider-Verse,lowbrow,Rodney Rothman,2018,418066,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Comedy']",USA,4.42779369764583,339,813,433,2477,2682,17540,26655,102151,83155,181821
+5,N/A,The Human Condition I: No Greater Love,lowbrow,Masaki Kobayashi,1959,5160,"['Drama', 'War', 'History']",Japan,4.41889534883721,8,10,9,27,28,164,372,1191,1326,2025
+6,N/A,The Handmaiden,lowbrow,Park Chan-wook,2016,121043,"['Romance', 'Thriller', 'Drama']",South Korea,4.34542683178705,141,232,228,950,1272,5098,9547,31115,30429,42032
+7,N/A,The Human Condition II: Road to Eternity,lowbrow,Masaki Kobayashi,1959,4004,"['War', 'History', 'Drama']",Japan,4.35227272727273,3,5,6,20,31,152,360,1026,1053,1347
+8,N/A,Whiplash,lowbrow,Damien Chazelle,2014,363861,"['Drama', 'Music']",USA,4.34273802358593,476,1090,628,3611,3311,19877,25485,96924,72872,139587
+9,N/A,Neon Genesis Evangelion: The End of Evangelion,lowbrow,Hideaki Anno,1997,41029,"['Fantasy', 'Action', 'Animation', 'Science Fiction', 'Drama']",Japan,4.34123424894587,164,209,186,507,678,2232,3058,8804,7465,17726
+10,N/A,Barber's Tales,lowbrow,Jun Lana,2013,296,['Drama'],Philippines,4.47635135135135,1,0,0,0,2,10,23,57,68,135
+11,N/A,Autumn Sonata,lowbrow,Ingmar Bergman,1978,19829,['Drama'],France,4.30132634020878,21,30,37,161,217,1026,1747,5316,4982,6291
+12,N/A,Mishima: A Life in Four Chapters,lowbrow,Paul Schrader,1985,14716,['Drama'],Japan,4.30154253873335,15,29,30,168,186,812,1313,3693,3479,4992
+13,N/A,Cleaners,lowbrow,Glenn Barit,2019,195,['Comedy'],Philippines,4.52051282051282,1,1,0,2,0,6,10,37,30,108
+14,N/A,It's Such a Beautiful Day,lowbrow,Don Hertzfeldt,2012,26129,"['Drama', 'Animation']",USA,4.29708370010333,66,133,85,365,381,1543,2232,6204,5109,10011
+15,N/A,Perfect Blue,lowbrow,Satoshi Kon,1997,77687,"['Animation', 'Thriller']",Japan,4.28704287718666,59,144,109,545,831,3712,7271,22844,18555,23617
+16,N/A,Eternity and a Day,lowbrow,Theo Angelopoulos,1998,6385,['Drama'],France,4.29115113547377,12,21,23,86,101,365,582,1530,1328,2337
+17,N/A,The Lord of the Rings: The Two Towers,lowbrow,Peter Jackson,2002,258180,"['Fantasy', 'Adventure', 'Action']",New Zealand,4.27300526764273,419,1127,587,3695,3247,19249,20652,68296,44556,96353
+18,N/A,Nomadland,lowbrow,Chloé Zhao,2020,2614,['Drama'],USA,4.26989288446825,1,5,4,34,45,132,202,669,849,674
+19,N/A,War and Peace,lowbrow,Sergey Bondarchuk,1966,2184,"['Drama', 'History', 'War', 'Romance']",Russian Federation,4.27564102564103,4,5,5,21,38,130,200,552,513,716
+20,N/A,Date Wine,lowbrow,Radwan El-Kashef,1998,241,"['History', 'Drama']",Egypt,4.41078838174274,0,0,0,2,3,15,13,58,42,108
+21,N/A,Love Exposure,lowbrow,Sion Sono,2008,12062,"['Romance', 'Drama', 'Action', 'Comedy']",Japan,4.24821754269607,45,73,61,195,256,757,1136,2678,2478,4383
+22,N/A,Incendies,lowbrow,Denis Villeneuve,2010,46768,"['Drama', 'Mystery', 'War']",Canada,4.24385263427985,70,128,130,445,633,2361,4403,13573,12529,12496
+23,N/A,Mommy,lowbrow,Xavier Dolan,2014,56959,['Drama'],Canada,4.23868923260591,147,260,233,801,1002,3346,5512,14891,12185,18583
+24,N/A,The Lion King,lowbrow,Roger Allers,1994,262874,"['Drama', 'Family', 'Animation']",USA,4.23532376728014,347,763,569,3295,3584,22751,24237,75206,37000,95122
+25,N/A,Minari,lowbrow,Lee Isaac Chung,2020,543,['Drama'],USA,4.30662983425414,1,0,1,3,5,18,47,141,199,128
+26,N/A,The Fifth Seal,lowbrow,Zoltán Fábri,1976,1175,"['War', 'Drama']",Hungary,4.26851063829787,0,6,4,14,18,62,111,303,292,366
+27,N/A,The Given Word,lowbrow,Anselmo Duarte,1962,2328,['Drama'],Brazil,4.25085910652921,8,8,23,34,51,122,206,556,514,806
+28,N/A,The Second Mother,lowbrow,Anna Muylaert,2015,15679,['Drama'],Brazil,4.23139230818292,22,42,61,185,253,953,1651,4543,2925,5045
+29,N/A,The Best of Youth,lowbrow,Marco Tullio Giordana,2003,3386,"['Romance', 'Drama']",Italy,4.2373006497342,10,12,15,43,85,225,325,814,688,1169
+30,N/A,Manuel on the Island of Wonders,lowbrow,Raúl Ruiz,1984,594,"['Fantasy', 'Drama']",France,4.30639730639731,0,2,2,7,9,30,65,129,144,207
+31,N/A,Little Women,lowbrow,Greta Gerwig,2019,253593,"['Drama', 'Romance']",USA,4.21034097944344,372,854,693,3318,4167,18495,25915,71003,51009,77768
+32,N/A,Still Walking,lowbrow,Hirokazu Kore-eda,2008,12790,"['Family', 'Drama']",Japan,4.21536356528538,4,16,15,75,137,664,1477,4206,3178,3019
+33,N/A,A Special Day,lowbrow,Ettore Scola,1977,5776,"['Drama', 'Romance']",Italy,4.20957409972299,7,11,8,45,73,304,658,1867,1365,1438
+34,N/A,Macario,lowbrow,Roberto Gavaldón,1960,2064,"['Fantasy', 'Mystery', 'Drama']",Mexico,4.23764534883721,0,4,7,21,29,132,223,615,378,656
+35,N/A,The Big City,lowbrow,Satyajit Ray,1963,2652,['Drama'],India,4.21474358974359,0,2,5,17,37,147,261,877,702,604
+36,N/A,Funeral Parade of Roses,lowbrow,Toshio Matsumoto,1969,8634,['Drama'],Japan,4.20535093815149,13,27,24,88,141,544,994,2453,1944,2408
+37,N/A,Moonlight,lowbrow,Barry Jenkins,2016,299647,['Drama'],USA,4.19865708650512,867,1971,987,5714,5322,24596,27616,78176,51282,103116
+38,N/A,Shoplifters,lowbrow,Hirokazu Kore-eda,2018,85677,"['Crime', 'Drama']",Japan,4.19847800459867,43,86,112,488,896,4357,9508,29678,22769,17740
+39,N/A,Doomed Love,lowbrow,Unknown,1978,357,['Drama'],Portugal,4.30672268907563,1,0,1,5,8,34,19,79,58,152
+40,N/A,Your Name.,lowbrow,Makoto Shinkai,2016,146665,"['Drama', 'Animation', 'Romance']",Japan,4.1967851907408,325,497,524,2115,2855,10848,16253,39219,27494,46536
+41,N/A,The Pianist,lowbrow,Roman Polanski,2002,113139,"['War', 'Drama']",France,4.19717338848673,144,259,177,1019,1274,7266,11894,37773,24279,29054
+42,N/A,Tampopo,lowbrow,Juzo Itami,1985,18058,['Comedy'],Japan,4.19822239450659,19,27,29,123,242,993,2156,5941,4087,4440
+43,N/A,The Land,lowbrow,Youssef Chahine,1969,741,['Drama'],Egypt,4.23481781376518,0,4,3,10,13,36,80,211,150,234
+44,N/A,Coco,lowbrow,Lee Unkrich,2017,301252,"['Fantasy', 'Family', 'Adventure', 'Animation', 'Comedy']",USA,4.18880870500445,308,760,567,3426,4492,25265,32646,92683,48605,92506
+45,N/A,In Just the Wink of an Eye,lowbrow,Mike de Leon,1981,277,"['Drama', 'Horror', 'Crime', 'Thriller', 'Mystery']",Philippines,4.31768953068592,0,0,0,3,5,11,26,74,65,93
+46,N/A,The Street Player,lowbrow,Mohamed Khan,1983,818,['Drama'],Egypt,4.22860635696822,0,3,4,13,19,53,68,233,165,261
+47,N/A,Il Sorpasso,lowbrow,Dino Risi,1962,5069,"['Drama', 'Comedy']",Italy,4.19116196488459,1,9,6,32,80,310,569,1650,1238,1174
+48,N/A,Howl's Moving Castle,lowbrow,Hayao Miyazaki,2004,150228,"['Adventure', 'Animation', 'Fantasy']",Japan,4.1851685438134,91,247,272,1439,2291,11204,19465,45937,24948,44334
+49,N/A,Inception,lowbrow,Christopher Nolan,2010,506019,"['Science Fiction', 'Action', 'Adventure']",UK,4.18164041271178,814,2247,1333,8722,7730,45264,46515,150797,80441,162160
+50,N/A,An Elephant Sitting Still,lowbrow,Hu Bo,2018,9154,['Drama'],China,4.18696744592528,17,38,43,130,175,581,985,2512,2179,2495
+51,N/A,The Departed,lowbrow,Martin Scorsese,2006,215671,"['Crime', 'Thriller', 'Drama']",USA,4.18141521113177,209,541,395,2272,2723,14913,22868,70961,46731,54062
+52,N/A,The Grand Budapest Hotel,lowbrow,Wes Anderson,2014,375167,"['Comedy', 'Drama']",Germany,4.17553116345521,438,1588,803,5646,4886,31396,35555,119154,67517,108186
+53,N/A,Land of Fear,lowbrow,Daoud Abdel Sayed,2000,417,"['Drama', 'Thriller']",Egypt,4.25179856115108,0,1,2,7,7,23,38,112,95,132
+54,N/A,Paddington 2,lowbrow,Paul King,2017,81935,"['Comedy', 'Family', 'Adventure']",France,4.17019588698358,145,307,207,1046,1273,6216,9401,24362,16338,22640
+55,N/A,They Don't Wear Black Tie,lowbrow,Leon Hirszman,1980,1904,['Drama'],Brazil,4.19616596638655,4,10,14,29,41,105,185,545,413,559
+56,N/A,The New Land,lowbrow,Jan Troell,1972,1519,"['Drama', 'Western']",Sweden,4.19354838709677,2,2,3,16,17,96,167,474,381,361
+57,N/A,Life Is Beautiful,lowbrow,Roberto Benigni,1997,84018,"['Comedy', 'Drama']",Italy,4.17014211240448,401,585,460,1503,1746,6003,8276,22947,15495,26606
+58,N/A,Tokyo Twilight,lowbrow,Yasujirō Ozu,1957,3323,['Drama'],Japan,4.17785133915137,3,6,8,25,40,185,391,1114,842,709
+59,N/A,Witness for the Prosecution,lowbrow,Billy Wilder,1957,16917,"['Drama', 'Crime', 'Mystery']",USA,4.17006561447065,7,19,19,130,163,951,2052,5821,4535,3220
+60,N/A,Pastoral: To Die in the Country,lowbrow,Shūji Terayama,1974,2767,"['Drama', 'Fantasy']",Japan,4.17238886881099,5,5,8,57,59,202,304,740,602,785
+61,N/A,Kit Kat,lowbrow,Daoud Abdel Sayed,1991,755,"['Comedy', 'Drama']",Egypt,4.20728476821192,0,1,6,21,22,40,72,196,143,254
+62,N/A,The Iron Giant,lowbrow,Brad Bird,1999,110911,"['Science Fiction', 'Comedy', 'Family', 'Animation', 'Action', 'Adventure']",USA,4.16123288041763,87,234,160,1257,1517,9398,13118,35586,19037,30517
+63,N/A,Yearning,lowbrow,Mikio Naruse,1964,1934,['Drama'],Japan,4.17761116856256,0,4,5,11,34,117,239,627,439,458
+64,N/A,The Hunt,lowbrow,Thomas Vinterberg,2012,72192,['Drama'],Denmark,4.15863946143617,95,159,155,579,849,4092,8186,25668,18286,14123
+65,N/A,The Emigrants,lowbrow,Jan Troell,1971,2250,"['Drama', 'History']",Sweden,4.17311111111111,0,7,8,30,32,166,232,702,505,568
+66,N/A,A Face in the Crowd,lowbrow,Elia Kazan,1957,7702,['Drama'],USA,4.15820566086731,4,10,32,63,117,462,1022,2427,1896,1669
+67,N/A,The Shop on Main Street,lowbrow,Elmar Klos,1965,2180,"['Drama', 'War']",Unknown,4.17660550458716,1,3,5,17,30,133,267,708,531,486
+68,N/A,Nobody Knows,lowbrow,Hirokazu Kore-eda,2004,11336,['Drama'],Japan,4.15666901905434,12,28,9,93,168,695,1378,3871,2681,2402
+69,N/A,Samurai Rebellion,lowbrow,Masaki Kobayashi,1967,4380,"['Drama', 'Action']",Japan,4.15913242009132,2,7,9,27,51,255,546,1522,1110,851
+70,N/A,Demons,lowbrow,Toshio Matsumoto,1971,1639,"['Horror', 'Drama']",Japan,4.17114093959732,2,2,3,16,39,84,191,527,408,367
+71,N/A,The Face of Another,lowbrow,Hiroshi Teshigahara,1966,8115,"['Science Fiction', 'Drama']",Japan,4.15292667898953,2,15,21,81,156,531,1043,2558,1828,1880
+72,N/A,"Throw Away Your Books, Rally in the Streets",lowbrow,Shūji Terayama,1971,3105,['Drama'],Japan,4.16199677938808,5,21,17,79,84,226,316,753,630,975
+73,N/A,Get Out,lowbrow,Jordan Peele,2017,480841,"['Thriller', 'Horror', 'Mystery']",USA,4.1467449739103,748,1871,1186,6759,6746,40098,52257,161119,76873,133184
+74,N/A,Eureka,lowbrow,Shinji Aoyama,2000,2061,['Drama'],Japan,4.16157205240175,6,6,9,36,44,148,251,542,426,593
+75,N/A,Good Will Hunting,lowbrow,Gus Van Sant,1997,217644,['Drama'],USA,4.14390931980666,220,559,523,2535,3246,17859,26164,71554,38097,56891
+76,N/A,The Man Who Sleeps,lowbrow,Bernard Queysanne,1974,4749,['Drama'],France,4.14961044430406,11,36,27,103,111,331,534,1224,954,1418
+77,N/A,The Night,lowbrow,Mohammad Malas,1992,251,['Drama'],Syrian Arab Republic,4.29083665338645,0,0,2,6,1,10,27,69,42,94
+78,N/A,Bacurau,lowbrow,Kleber Mendonça Filho,2019,45252,"['Thriller', 'Western', 'Mystery']",Brazil,4.13632546627773,161,245,255,870,1151,3420,5531,12165,7394,14060
+79,N/A,La Flor,lowbrow,Mariano Llinás,2018,1911,"['Thriller', 'Drama', 'Fantasy']",Argentina,4.15724751439037,12,16,20,53,50,114,196,425,383,642
+80,N/A,Evolution of a Filipino Family,lowbrow,Lav Diaz,2004,610,['Drama'],Philippines,4.2016393442623,0,1,1,10,23,51,69,131,121,204
+81,N/A,Miracle,lowbrow,Ishmael Bernal,1982,603,['Drama'],Philippines,4.18242122719735,0,0,4,17,15,33,66,164,123,181
+82,N/A,The Extras,lowbrow,Nabil Maleh,1993,200,"['Comedy', 'Romance', 'Drama']",Syrian Arab Republic,4.3125,0,1,0,3,4,9,19,54,28,82
+83,N/A,Devils on the Doorstep,lowbrow,Jiang Wen,2000,1174,"['War', 'Drama']",China,4.16013628620102,3,3,3,12,16,70,141,377,291,258
+84,N/A,The Nightingale's Prayer,lowbrow,Henry Barakat,1959,617,"['Drama', 'Romance']",Egypt,4.17179902755267,0,0,3,9,10,55,61,184,126,169
+85,N/A,Manila in the Claws of Light,lowbrow,Lino Brocka,1975,2742,"['Drama', 'Mystery']",Philippines,4.14059080962801,2,5,7,41,54,171,353,872,603,634
+86,N/A,Invisible Life,lowbrow,Karim Aïnouz,2019,11221,['Drama'],Brazil,4.13243026468229,19,38,48,187,245,760,1365,3433,2311,2815
+87,N/A,The Tale of the Princess Kaguya,lowbrow,Isao Takahata,2013,35633,"['Drama', 'Fantasy', 'Animation']",Japan,4.13041281957736,32,93,87,430,676,2978,4671,10572,7352,8747
+88,N/A,Terrorizers,lowbrow,Edward Yang,1986,5969,"['Crime', 'Drama']",Taiwan,4.132015412967,3,9,13,63,121,368,851,1892,1390,1260
+89,N/A,"Rio, Zona Norte",lowbrow,Nelson Pereira dos Santos,1957,766,"['Music', 'Drama']",Brazil,4.17362924281984,3,5,12,18,27,48,65,169,147,272
+90,N/A,"Pretty Village, Pretty Flame",lowbrow,Srđan Dragojević,1996,808,"['War', 'Drama']",Serbia,4.16893564356436,4,3,3,15,24,53,86,212,178,232
+91,N/A,Sorcerer,lowbrow,William Friedkin,1977,17198,"['Adventure', 'Thriller']",USA,4.12396790324456,12,38,36,187,308,1250,2346,5515,3738,3768
+92,N/A,In the Heat of the Sun,lowbrow,Jiang Wen,1994,870,['Drama'],China,4.15574712643678,1,3,2,9,15,55,99,286,204,196
+93,N/A,Hope,lowbrow,Lee Joon-ik,2013,3743,['Drama'],South Korea,4.12904087630243,7,13,10,55,67,344,443,1137,639,1028
+94,N/A,When a Woman Ascends the Stairs,lowbrow,Mikio Naruse,1960,2882,['Drama'],Japan,4.13011797362942,1,2,7,18,38,190,371,1053,663,539
+95,N/A,The Cremator,lowbrow,Juraj Herz,1969,5241,"['Thriller', 'Horror', 'Drama']",Czechoslovakia,4.12745659225339,8,13,20,77,84,372,657,1657,1185,1169
+96,N/A,Short Term 12,lowbrow,Destin Daniel Cretton,2013,61578,['Drama'],USA,4.11921465458443,63,137,131,570,997,4644,8532,20162,12953,13385
+97,N/A,John Denver Trending,lowbrow,Arden Rod Condez,2019,1101,['Drama'],Philippines,4.1503178928247,0,4,7,10,27,64,119,359,264,247
+98,N/A,Prisoners,lowbrow,Denis Villeneuve,2013,188811,"['Drama', 'Crime', 'Thriller']",USA,4.12112112112112,130,384,379,1936,2702,13660,23755,66422,41124,38320
+99,N/A,Call Me by Your Name,lowbrow,Luca Guadagnino,2017,296505,"['Drama', 'Romance']",France,4.11491374513077,1905,3102,1725,7809,7319,26951,28817,73839,45457,99582
+100,N/A,Nayakan,lowbrow,Mani Ratnam,1987,979,"['Drama', 'Action']",India,4.16138917262513,2,4,3,16,15,63,113,307,205,252
+101,N/A,Roma,lowbrow,Alfonso Cuarón,2018,175623,['Drama'],USA,4.11425895241512,651,1452,871,3993,3926,14272,17869,48722,35834,48035
+102,N/A,Extraordinary Stories,lowbrow,Mariano Llinás,2008,1322,['Drama'],Argentina,4.14599092284418,4,6,8,23,18,98,147,396,265,357
+103,N/A,Gangs of Wasseypur - Part 2,lowbrow,Anurag Kashyap,2012,3234,"['Crime', 'Action', 'Thriller']",India,4.12693259121831,9,15,22,57,87,229,332,970,663,850
+104,N/A,The Prestige,lowbrow,Christopher Nolan,2006,223487,"['Drama', 'Mystery', 'Thriller']",USA,4.1149440459624,255,662,537,3014,3784,18763,27504,72461,44767,51741
+105,N/A,Investigation of a Citizen Above Suspicion,lowbrow,Elio Petri,1970,7091,"['Drama', 'Thriller']",Italy,4.11867155549288,3,19,11,60,117,522,954,2287,1774,1344
+106,N/A,The Weeping Meadow,lowbrow,Theo Angelopoulos,2004,1577,"['Drama', 'Romance', 'History']",France,4.13633481293596,2,3,8,27,40,125,172,482,284,434
+107,N/A,Who's Singin' Over There?,lowbrow,Slobodan Šijan,1980,1022,"['Comedy', 'Adventure', 'Drama']",Yugoslavia,4.15851272015656,0,2,2,11,20,77,165,290,171,287
+108,N/A,Before Midnight,lowbrow,Richard Linklater,2013,83683,"['Romance', 'Drama']",Greece,4.11004027102279,167,394,304,1359,1570,6885,10261,25409,17031,20304
+109,N/A,Who Killed Captain Alex?,lowbrow,Nabwana I.G.G.,2010,8264,['Action'],Uganda,4.11132623426912,256,201,104,200,233,673,622,1319,487,4169
+110,N/A,Canoa: A Shameful Memory,lowbrow,Felipe Cazals,1976,1497,"['History', 'Drama']",Mexico,4.13293253173013,2,4,6,18,27,108,183,489,302,358
+111,N/A,Django Unchained,lowbrow,Quentin Tarantino,2012,387541,"['Western', 'Drama']",USA,4.11008641666301,446,1390,950,5764,5610,35285,42964,132851,69604,92677
+112,N/A,Still Life,lowbrow,Houshang Baharlou,1974,960,['Drama'],Iran,4.14895833333333,3,2,1,17,26,67,99,296,195,254
+113,N/A,The Night of Counting the Years,lowbrow,Shadi Abdel Salam,1969,995,['Drama'],Egypt,4.14422110552764,3,0,6,21,25,91,98,265,195,291
+114,N/A,Late Autumn,lowbrow,Yasujirō Ozu,1960,3356,['Drama'],Japan,4.11844457687724,0,4,5,27,39,218,460,1247,757,600
+115,N/A,Nothing But a Man,lowbrow,Michael Roemer,1964,1054,"['Drama', 'Romance']",USA,4.13757115749526,1,1,4,10,10,74,136,372,215,231
+116,N/A,Winter Sleep,lowbrow,Nuri Bilge Ceylan,2014,12478,['Drama'],Turkey,4.11071485815034,20,57,48,193,286,920,1579,3744,2738,2894
+117,N/A,Happy Hour,lowbrow,Ryūsuke Hamaguchi,2015,1718,['Drama'],Japan,4.12456344586729,2,5,5,19,38,119,211,533,436,350
+118,N/A,Pixote,lowbrow,Hector Babenco,1981,4429,"['Crime', 'Drama']",Brazil,4.11627906976744,4,12,15,54,94,336,589,1394,898,1033
+119,N/A,Interstellar,lowbrow,Christopher Nolan,2014,429368,"['Science Fiction', 'Drama', 'Adventure']",UK,4.10516619776043,1025,2826,1905,10948,9942,45574,45196,113583,62840,135532
+120,N/A,This Transient Life,lowbrow,Akio Jissoji,1970,804,['Drama'],Japan,4.15422885572139,0,4,3,12,20,43,103,244,176,200
+121,N/A,The Florida Project,lowbrow,Sean Baker,2017,171537,['Drama'],USA,4.10447308743886,341,700,528,2529,3078,12694,21490,56351,36415,37417
+122,N/A,Fantastic Mr. Fox,lowbrow,Wes Anderson,2009,188584,"['Comedy', 'Family', 'Animation', 'Adventure']",USA,4.10613837865354,344,869,522,2906,3017,15811,23358,62134,33327,46296
+123,N/A,Mary and Max,lowbrow,Adam Elliot,2009,35029,"['Comedy', 'Animation', 'Drama']",Australia,4.10711125067801,57,124,115,440,601,2725,4595,11555,6914,7914
+124,N/A,Du côté d'Orouët,lowbrow,Jacques Rozier,1971,311,"['Comedy', 'Drama']",France,4.21864951768489,0,0,1,4,7,25,31,75,77,91
+125,N/A,Blade Runner 2049,lowbrow,Denis Villeneuve,2017,290471,"['Science Fiction', 'Drama']",Canada,4.10320479497093,686,2170,1248,7509,6466,27821,29330,78068,55922,81251
+126,N/A,Son of the White Mare,lowbrow,Marcell Jankovics,1981,1740,"['Animation', 'Adventure', 'Fantasy']",Hungary,4.13304597701149,1,4,4,22,24,143,257,508,367,413
+127,N/A,The Witness,lowbrow,Péter Bacsó,1969,518,"['Comedy', 'Drama']",Hungary,4.16505791505792,0,0,0,8,10,36,73,146,122,124
+128,N/A,Nostos: The Return,lowbrow,Franco Piavoli,1989,939,"['Drama', 'Adventure']",Italy,4.14004259850905,1,8,1,12,22,58,117,281,218,222
+129,N/A,The Incredibles,lowbrow,Brad Bird,2004,290860,"['Action', 'Family', 'Animation', 'Adventure']",USA,4.09653441518256,273,929,691,4536,4738,31654,33688,95375,41502,77474
+130,N/A,"Up, Down, Fragile",lowbrow,Jacques Rivette,1995,432,"['Romance', 'Music', 'Comedy', 'Mystery']",France,4.17361111111111,1,3,2,9,9,29,57,94,93,135
+131,N/A,The Truman Show,lowbrow,Peter Weir,1998,307644,"['Comedy', 'Drama']",USA,4.09406326793306,230,674,482,3653,4108,28840,38992,109873,52036,68756
+132,N/A,Shame,lowbrow,Ingmar Bergman,1968,7387,"['Drama', 'War']",Sweden,4.09814539055097,2,9,15,76,129,523,1019,2598,1683,1333
+133,N/A,1917,lowbrow,Sam Mendes,2019,291575,"['War', 'Drama', 'Action', 'History']",Canada,4.09205693217868,301,773,831,3960,6267,25194,38762,92971,56658,65858
+134,N/A,Judgment at Nuremberg,lowbrow,Stanley Kramer,1961,7537,"['History', 'Drama']",Germany,4.09552872495688,7,13,18,76,141,582,990,2579,1724,1407
+135,N/A,"My Son, the Hero",lowbrow,Ismael Rodríguez,1961,152,"['Western', 'Adventure', 'Drama']",Mexico,4.33223684210526,0,0,0,1,2,12,20,29,31,58
+136,N/A,Balkan Spy,lowbrow,Dušan Kovačević,1984,558,"['Drama', 'Comedy']",Serbia,4.13888888888889,1,4,0,5,14,37,87,155,111,145
+137,N/A,The Lighthouse,lowbrow,Robert Eggers,2019,250297,"['Thriller', 'Fantasy', 'Drama', 'Horror']",Canada,4.0870485862795,826,1736,1227,5581,6005,20768,28949,72472,48743,63991
+138,N/A,Portrait of a Young Girl at the End of the 60's in Brussels,lowbrow,Chantal Akerman,1994,944,"['Drama', 'Romance', 'TV Movie']",Belgium,4.12552966101695,1,4,4,7,18,68,138,280,204,220
+139,N/A,Eros + Massacre,lowbrow,Yoshishige Yoshida,1969,1260,['Drama'],Japan,4.11190476190476,3,6,7,20,37,112,171,308,232,364
+140,N/A,Embrace of the Serpent,lowbrow,Ciro Guerra,2015,14623,"['Adventure', 'Drama']",Argentina,4.08849073377556,21,29,41,172,309,1115,1994,4872,3187,2883
+141,N/A,Two in the Shadow,lowbrow,Mikio Naruse,1967,1005,"['Romance', 'Drama']",Japan,4.1228855721393,0,1,1,12,22,63,159,302,233,212
+142,N/A,Jacquot,lowbrow,Agnès Varda,1991,1907,['Drama'],France,4.10435238594651,0,1,3,12,26,146,281,697,364,377
+143,N/A,Poetry,lowbrow,Lee Chang-dong,2010,8778,['Drama'],South Korea,4.09022556390977,7,20,19,107,156,627,1228,3009,1984,1621
+144,N/A,Millennium Actress,lowbrow,Satoshi Kon,2001,18441,"['Romance', 'Drama', 'Animation']",Japan,4.08632937476276,19,36,38,197,371,1454,2762,6018,3798,3748
+145,N/A,Blindspotting,lowbrow,Carlos López Estrada,2018,44501,"['Drama', 'Comedy']",USA,4.08412170513022,51,133,136,548,921,3199,6502,14150,10575,8289
+146,N/A,Arrival,lowbrow,Denis Villeneuve,2016,386492,"['Science Fiction', 'Drama', 'Mystery']",USA,4.08286329341875,601,2080,1219,8648,7262,39501,40748,120969,67976,97489
+147,N/A,Her,lowbrow,Spike Jonze,2013,363166,"['Romance', 'Science Fiction', 'Drama']",USA,4.08191295440652,895,2692,1412,8642,6828,36793,38231,110489,58526,98658
+148,N/A,Fallen Angels,lowbrow,Wong Kar-wai,1995,30257,"['Action', 'Romance', 'Drama']",Hong Kong,4.08480682156195,30,50,74,372,586,2479,4585,9806,5749,6526
+149,N/A,Kiki's Delivery Service,lowbrow,Hayao Miyazaki,1989,103615,"['Fantasy', 'Drama', 'Adventure', 'Family', 'Animation']",Japan,4.08314915794045,55,106,123,756,1559,9380,16539,36054,16219,22824
+150,N/A,Dead Poets Society,lowbrow,Peter Weir,1989,163053,['Drama'],USA,4.08186908551207,278,668,572,2699,3463,15838,20905,51953,24096,42583
+151,N/A,Francisca,lowbrow,Manoel de Oliveira,1981,458,"['Drama', 'Romance']",Portugal,4.16375545851528,2,2,2,4,16,40,52,101,106,134
+152,N/A,What Ever Happened to Baby Jane?,lowbrow,Robert Aldrich,1962,22464,"['Drama', 'Thriller', 'Horror']",USA,4.08177528490028,11,51,53,268,427,1866,3182,7749,4135,4723
+153,N/A,The Heiress,lowbrow,William Wyler,1949,4658,"['Drama', 'Romance']",USA,4.08887934735938,2,7,10,51,99,331,661,1625,986,886
+154,N/A,The Green Mile,lowbrow,Frank Darabont,1999,129676,"['Fantasy', 'Crime', 'Drama']",USA,4.08054690150838,195,476,432,1893,2720,12012,16772,42116,22321,30739
+155,N/A,For a Few Dollars More,lowbrow,Sergio Leone,1965,42840,['Western'],Germany,4.08056722689076,9,45,40,303,524,3216,6046,16465,9686,6506
+156,N/A,Through a Glass Darkly,lowbrow,Ingmar Bergman,1961,14826,['Drama'],Sweden,4.08026440037772,8,21,33,140,255,1137,2189,5237,3097,2709
+157,N/A,Malcolm X,lowbrow,Spike Lee,1992,30552,"['History', 'Drama']",USA,4.08102579209217,20,52,73,326,547,2728,4350,10239,5955,6266
+158,N/A,Comrades: Almost a Love Story,lowbrow,Peter Chan,1996,2898,"['Romance', 'Drama']",Hong Kong,4.08902691511387,4,5,4,33,51,252,421,957,538,633
+159,N/A,The Secret in Their Eyes,lowbrow,Juan José Campanella,2009,28213,"['Crime', 'Mystery', 'Drama']",Argentina,4.07918335519087,39,71,96,392,582,2158,3899,9472,5832,5672
+160,N/A,A Short Film About Love,lowbrow,Krzysztof Kieślowski,1988,9339,"['Drama', 'Romance']",Poland,4.07773851590106,13,36,34,105,146,641,1355,3324,1946,1739
+161,N/A,The Meetings of Anna,lowbrow,Chantal Akerman,1978,2726,['Drama'],Belgium,4.08822450476889,6,15,7,40,56,201,381,853,585,583
+162,N/A,The Marathon Family,lowbrow,Slobodan Šijan,1982,685,"['Drama', 'Comedy']",Yugoslavia,4.11167883211679,2,2,4,9,22,55,102,172,121,196
+163,N/A,The Disappearance of Haruhi Suzumiya,lowbrow,Yasuhiro Takemoto,2010,4143,"['Romance', 'Drama', 'Mystery', 'Animation', 'Science Fiction', 'Comedy']",Japan,4.08339367608014,16,19,16,75,96,337,609,1134,824,1018
+164,N/A,Time to Love,lowbrow,Metin Erksan,1965,1477,"['Romance', 'Drama']",Turkey,4.09275558564658,4,6,5,23,31,116,184,511,230,367
+165,N/A,Personal Problems,lowbrow,Bill Gunn,1980,750,['Drama'],USA,4.108,0,2,1,9,10,52,98,276,157,145
+166,N/A,"They Shoot Horses, Don't They?",lowbrow,Sydney Pollack,1969,5355,['Drama'],USA,4.07535014005602,7,13,18,75,101,448,774,1686,1169,1064
+167,N/A,The Farewell,lowbrow,Lulu Wang,2019,120628,"['Drama', 'Comedy']",China,4.06770401565142,73,188,217,1135,1993,9356,18011,43374,26262,20019
+168,N/A,What We Do in the Shadows,lowbrow,Taika Waititi,2014,162815,"['Horror', 'Comedy']",New Zealand,4.06892178239106,207,434,349,1806,2583,13322,25056,58133,26936,33989
+169,N/A,Die Nibelungen: Siegfried,lowbrow,Fritz Lang,1924,2147,"['Fantasy', 'Drama', 'Adventure']",Germany,4.08337214718211,1,3,3,26,48,179,287,728,463,410
+170,N/A,Kanal,lowbrow,Andrzej Wajda,1957,2481,"['Drama', 'War']",Poland,4.07920193470375,1,5,3,21,38,186,379,877,548,423
+171,N/A,12 Years a Slave,lowbrow,Steve McQueen,2013,170333,"['History', 'Drama']",USA,4.06395707232304,268,606,519,2678,2967,15969,21377,59058,30969,35923
+172,N/A,The Great War,lowbrow,Mario Monicelli,1959,1110,"['War', 'Comedy', 'Drama']",France,3.8027027027027,1,1,6,11,13,73,123,418,191,195
+173,N/A,Twenty-Four Eyes,lowbrow,Keisuke Kinoshita,1954,1182,['Drama'],Japan,4.09263959390863,0,3,4,22,31,107,164,307,272,272
+174,N/A,The Burmese Harp,lowbrow,Kon Ichikawa,1956,2284,"['War', 'Drama', 'Music']",Japan,4.07333625218914,0,7,9,37,40,180,280,821,490,420
+175,N/A,Aquarius,lowbrow,Kleber Mendonça Filho,2016,18382,['Drama'],Brazil,4.06114677401806,53,68,104,365,417,1521,2604,5660,3276,4314
+176,N/A,A Limousine the Colour of Midsummer's Eve,lowbrow,Jānis Streičs,1981,181,"['Drama', 'Comedy']",Latvia,4.23756906077348,0,0,0,4,2,20,20,38,26,71
+177,N/A,Up,lowbrow,Pete Docter,2009,299505,"['Adventure', 'Comedy', 'Animation', 'Family']",USA,4.06024440326539,284,927,694,4682,5520,33350,39095,99981,41844,73137
+178,N/A,Hovering Over the Water,lowbrow,João César Monteiro,1986,798,"['Romance', 'Drama']",Portugal,4.09899749373434,1,1,9,17,16,67,105,206,181,195
+179,N/A,The Pinchcliffe Grand Prix,lowbrow,Ivo Caprino,1975,1415,"['Comedy', 'Family', 'Adventure', 'Animation']",Norway,4.08339222614841,5,9,4,26,40,141,211,329,238,412
+180,N/A,27 Steps of May,lowbrow,Ravi L. Bharwani,2018,1185,['Drama'],Indonesia,4.08438818565401,1,5,2,5,11,81,168,463,268,181
+181,N/A,Song of the Sea,lowbrow,Tomm Moore,2014,23730,"['Family', 'Animation', 'Fantasy']",Ireland,4.05798567214496,14,52,69,249,446,2183,3715,7958,4166,4878
+182,N/A,The Fire Within,lowbrow,Louis Malle,1963,5974,['Drama'],France,4.06352527619685,2,20,24,89,144,540,851,1880,1136,1290
+183,N/A,Samurai X: Trust and Betrayal,lowbrow,Kazuhiro Furuhashi,1999,1646,"['History', 'Animation', 'Action']",Japan,4.07533414337788,2,9,2,24,28,159,221,520,317,364
+184,N/A,Finding Nemo,lowbrow,Andrew Stanton,2003,275317,"['Family', 'Animation']",USA,4.05545789035911,258,804,597,3903,4491,31401,35666,96098,36703,65417
+185,N/A,The Last Black Man in San Francisco,lowbrow,Joe Talbot,2019,49575,['Drama'],USA,4.05568330811901,40,131,137,659,1022,4007,7079,17161,10611,8728
+186,N/A,Capernaum,lowbrow,Nadine Labaki,2018,25139,['Drama'],Lebanon,4.05664505350253,135,226,205,609,746,1781,2956,7411,4774,6296
+187,N/A,The Favourite,lowbrow,Yorgos Lanthimos,2018,226889,"['Comedy', 'History', 'Drama']",Ireland,4.05357685916902,406,1055,776,4040,4322,19809,28682,77344,46120,44335
+188,N/A,Fires on the Plain,lowbrow,Kon Ichikawa,1959,2153,"['War', 'Drama']",Japan,4.06874129122155,1,4,4,25,22,169,325,769,492,342
+189,N/A,Phantom Thread,lowbrow,Paul Thomas Anderson,2017,144345,"['Drama', 'Romance']",USA,4.05242647822924,409,1099,725,3447,3438,12772,17413,42143,30562,32341
+190,N/A,A Silent Voice,lowbrow,Naoko Yamada,2016,44708,"['Drama', 'Romance', 'Animation']",Japan,4.05181399302138,116,236,279,910,1253,4073,6137,12701,8068,10935
+191,N/A,The Aviator's Wife,lowbrow,Éric Rohmer,1981,3214,"['Drama', 'Comedy', 'Romance']",France,4.0570939639079,1,5,4,31,68,251,521,1098,695,540
+192,N/A,Persepolis,lowbrow,Vincent Paronnaud,2007,36489,"['Drama', 'Animation']",France,4.0510838882951,43,84,86,400,589,2972,5541,13778,6187,6810
+193,N/A,Onibaba,lowbrow,Kaneto Shindō,1964,11885,"['Drama', 'Horror']",Japan,4.04787547328566,5,21,39,127,216,942,1837,4361,2303,2034
+194,N/A,Marriage Story,lowbrow,Noah Baumbach,2019,307236,['Drama'],UK,4.04469040086448,706,1817,1168,6327,6256,28032,37375,100310,63830,61415
+195,N/A,Logan,lowbrow,James Mangold,2017,300888,"['Action', 'Science Fiction', 'Drama']",USA,4.04649404429555,409,1341,910,5716,5823,30549,38078,100818,51541,65703
+196,N/A,The Sting,lowbrow,George Roy Hill,1973,34327,"['Crime', 'Drama', 'Comedy']",USA,4.04754275060448,26,56,75,374,600,2993,5326,12247,6505,6126
+197,N/A,Ritual,lowbrow,Hideaki Anno,2000,1244,['Drama'],Japan,4.08118971061093,4,14,5,30,28,109,162,299,263,330
+198,N/A,Camera Buff,lowbrow,Krzysztof Kieślowski,1979,4196,['Drama'],Poland,4.05159675881792,2,7,7,38,51,301,681,1639,828,642
+199,N/A,"Monsters, Inc.",lowbrow,Pete Docter,2001,251032,"['Comedy', 'Animation', 'Family']",USA,4.04427722362089,169,527,422,3334,4026,28993,34355,89640,32692,56874
+200,N/A,The Valley of the Bees,lowbrow,František Vláčil,1968,1032,"['Drama', 'History']",Czechia,4.07945736434108,1,0,2,12,24,91,139,339,236,189
+201,N/A,Mother,lowbrow,Bong Joon-ho,2009,38458,"['Crime', 'Mystery', 'Drama', 'Thriller']",South Korea,4.04511415050185,31,50,61,308,508,2571,5957,15663,8471,4838
+202,N/A,Fail Safe,lowbrow,Sidney Lumet,1964,6517,"['Thriller', 'Drama', 'War']",USA,4.04810495626822,8,14,21,83,106,516,923,2382,1461,1004
+203,N/A,My Life as a Zucchini,lowbrow,Claude Barras,2016,34540,"['Animation', 'Family', 'Drama']",France,4.04442675159236,21,62,65,294,563,2817,5752,12611,6546,5809
+204,N/A,Safety Last!,lowbrow,Fred C. Newmeyer,1923,12665,"['Action', 'Comedy', 'Romance']",USA,4.04433478089222,6,17,25,110,218,1127,2022,4580,2358,2202
+205,N/A,Ratatouille,lowbrow,Brad Bird,2007,275192,"['Fantasy', 'Family', 'Comedy', 'Animation']",USA,4.04410738684264,300,911,695,4868,5747,33338,36450,87146,36358,69383
+206,N/A,The Hidden Fortress,lowbrow,Akira Kurosawa,1958,16605,"['Drama', 'Action', 'Adventure', 'Comedy']",Japan,4.04426377597109,10,15,17,128,238,1230,2659,6631,3304,2374
+207,N/A,Samurai Jack: The Premiere Movie,lowbrow,Genndy Tartakovsky,2001,2168,"['Fantasy', 'Science Fiction', 'Action', 'Animation', 'TV Movie']",USA,4.06019372693727,8,8,6,25,36,222,278,754,357,476
+208,N/A,Room,lowbrow,Lenny Abrahamson,2015,212415,"['Drama', 'Thriller']",Canada,4.03862015394393,248,662,547,3133,4151,21270,29185,74716,35446,43057
+209,N/A,Nausicaä of the Valley of the Wind,lowbrow,Hayao Miyazaki,1984,58616,"['Animation', 'Adventure', 'Fantasy']",Japan,4.04079091033165,49,110,133,691,1276,5476,9234,19906,10254,11487
+210,N/A,Whisper of the Heart,lowbrow,Yoshifumi Kondou,1995,35303,"['Animation', 'Drama', 'Family']",Japan,4.04210690309605,22,68,86,416,790,3534,5867,11240,5676,7609
+211,N/A,"Khrustalyov, My Car!",lowbrow,Aleksey German,1998,922,"['Comedy', 'Drama']",Russian Federation,4.07537960954447,2,12,5,27,29,79,103,215,194,256
+212,N/A,Wild Tales,lowbrow,Damián Szifron,2014,44768,"['Drama', 'Comedy', 'Thriller']",Argentina,4.04082156897784,73,149,154,576,879,3542,7024,15861,8191,8324
+213,N/A,Seconds,lowbrow,John Frankenheimer,1966,12394,"['Thriller', 'Science Fiction']",USA,4.03997902210747,12,25,34,118,233,988,1975,4367,2767,1875
+214,N/A,"São Paulo, S.A.",lowbrow,Luiz Sérgio Person,1965,1138,['Drama'],Brazil,4.06195079086116,5,8,7,29,36,88,127,336,218,284
+215,N/A,The Sword of Doom,lowbrow,Kihachi Okamoto,1966,5798,"['Drama', 'Action']",Japan,4.04104863746119,2,6,8,66,117,464,908,2076,1285,866
+216,N/A,Angel's Egg,lowbrow,Mamoru Oshii,1985,11629,"['Animation', 'Drama', 'Science Fiction', 'Mystery', 'Fantasy']",Japan,4.04063118066902,27,51,56,209,340,1055,1732,3411,2078,2670
+217,N/A,Equinox Flower,lowbrow,Yasujirō Ozu,1958,3055,"['Comedy', 'Drama']",Japan,4.04648117839607,2,2,5,22,44,225,507,1194,596,458
+218,N/A,Hunt for the Wilderpeople,lowbrow,Taika Waititi,2016,94518,"['Adventure', 'Drama', 'Comedy']",New Zealand,4.03536892443767,79,187,188,858,1456,7528,15700,35994,17199,15329
+219,N/A,"Night Is Short, Walk on Girl",lowbrow,Masaaki Yuasa,2017,12230,"['Animation', 'Comedy', 'Romance', 'Fantasy']",Japan,4.03900245298446,19,45,46,158,300,998,1848,4019,2631,2166
+220,N/A,Cure,lowbrow,Kiyoshi Kurosawa,1997,13042,"['Horror', 'Mystery', 'Crime', 'Thriller']",Japan,4.03887440576599,16,28,39,196,280,1042,2032,4401,2787,2221
+221,N/A,The Great Silence,lowbrow,Sergio Corbucci,1968,7946,"['Action', 'Western']",Italy,4.03882456581928,4,17,24,95,165,629,1251,2785,1701,1275
+222,N/A,Knives Out,lowbrow,Rian Johnson,2019,420979,"['Mystery', 'Thriller', 'Comedy', 'Drama', 'Crime']",USA,4.0334019036579,479,1190,1016,5848,7659,38772,60451,152775,77518,75271
+223,N/A,Hot Fuzz,lowbrow,Edgar Wright,2007,191320,"['Action', 'Crime', 'Comedy']",UK,4.03460171440518,261,861,622,3503,3908,19783,27402,61321,31271,42388
+224,N/A,Children of Heaven,lowbrow,Majid Majidi,1997,8295,"['Drama', 'Family', 'Comedy']",Iran,4.03791440626884,14,32,28,97,162,702,1251,2977,1476,1556
+225,N/A,City of Pirates,lowbrow,Raúl Ruiz,1983,1624,"['Fantasy', 'Horror', 'Drama']",France,4.05449507389163,2,7,13,41,66,144,192,441,306,413
+226,N/A,American History X,lowbrow,Tony Kaye,1998,129239,['Drama'],USA,4.03299700554786,226,477,439,1827,2466,11196,18030,47134,24602,22843
+227,N/A,Harry Potter and the Prisoner of Azkaban,lowbrow,Alfonso Cuarón,2004,252309,"['Adventure', 'Fantasy']",UK,4.03293580490589,386,1093,704,4224,4900,29619,34595,82246,34255,60287
+228,N/A,Dead Man's Letters,lowbrow,Konstantin Lopushansky,1986,2295,"['Drama', 'Science Fiction']",Russian Federation,4.0442265795207,4,5,8,43,39,199,354,759,446,440
+229,N/A,Hard Boiled,lowbrow,John Woo,1992,19536,"['Action', 'Crime', 'Thriller']",Hong Kong,4.03363022113022,16,44,60,245,454,1883,2994,6559,3460,3820
+230,N/A,Mysteries of Lisbon,lowbrow,Raúl Ruiz,2010,1782,['Drama'],France,4.05246913580247,4,17,9,40,50,160,222,489,378,414
+231,N/A,Innocence,lowbrow,Zeki Demirkubuz,1997,2738,['Drama'],Turkey,4.0463842220599,3,5,4,20,52,218,430,1044,497,465
+232,N/A,Sanjuro,lowbrow,Akira Kurosawa,1962,15214,"['Action', 'Drama', 'Comedy']",Japan,4.03332456947548,4,10,15,85,160,1164,2606,6323,2763,2084
+233,N/A,And Then We Danced,lowbrow,Levan Akin,2019,11793,"['Romance', 'Drama']",France,4.03201051471212,10,25,26,137,261,973,1960,4089,2282,2030
+234,N/A,Early Spring,lowbrow,Yasujirō Ozu,1956,1937,['Drama'],Japan,4.04078471863707,0,3,9,11,34,146,304,773,351,306
+235,N/A,My Friends,lowbrow,Mario Monicelli,1975,1526,['Comedy'],Italy,4.05111402359109,7,4,4,25,32,120,214,536,269,315
+236,N/A,The Bad Sleep Well,lowbrow,Akira Kurosawa,1960,6292,"['Crime', 'Drama', 'Thriller']",Japan,4.03099173553719,2,8,10,58,104,486,1001,2437,1353,833
+237,N/A,Indiana Jones and the Last Crusade,lowbrow,Steven Spielberg,1989,142093,"['Adventure', 'Action']",USA,4.02609910410787,165,391,318,2155,2834,15888,20486,47715,22400,29742
+238,N/A,Tokyo Godfathers,lowbrow,Satoshi Kon,2003,20880,"['Animation', 'Drama']",Japan,4.02880747126437,14,28,45,206,348,1726,3626,7695,3744,3448
+239,N/A,Nightcrawler,lowbrow,Dan Gilroy,2014,268878,"['Crime', 'Thriller', 'Drama']",USA,4.02516010978957,222,823,544,3661,4028,24405,37431,104454,50909,42401
+240,N/A,Toy Story 3,lowbrow,Lee Unkrich,2010,243107,"['Family', 'Comedy', 'Animation']",USA,4.02299193359303,359,1183,889,5533,6065,30610,29656,72399,36388,60025
+241,N/A,Jojo Rabbit,lowbrow,Taika Waititi,2019,316179,"['Comedy', 'Drama', 'War']",Czechia,4.02291897943886,894,1729,1597,6030,8032,28652,44397,103189,54291,67368
+242,N/A,Black Swan,lowbrow,Darren Aronofsky,2010,268527,"['Drama', 'Thriller', 'Horror']",USA,4.0232323006625,590,1579,980,6140,5600,29943,32491,88586,40518,62100
+243,N/A,Adaptation.,lowbrow,Spike Jonze,2002,75636,"['Crime', 'Drama', 'Comedy']",USA,4.02347427151092,174,405,320,1528,1713,6896,10337,24490,15367,14406
+244,N/A,Threads,lowbrow,Mick Jackson,1984,6003,"['Drama', 'War']",UK,4.02756954855905,5,13,19,77,125,559,886,2163,1106,1052
+245,N/A,Wolf Children,lowbrow,Mamoru Hosoda,2012,26549,"['Drama', 'Fantasy', 'Animation', 'Family']",Japan,4.02403103695054,59,87,124,444,637,2438,4076,8632,4664,5391
+246,N/A,The Fabulous Baron Munchausen,lowbrow,Karel Zeman,1962,2603,"['Fantasy', 'Adventure']",Czechoslovakia,4.03227045716481,2,2,4,29,46,236,447,911,465,461
+247,N/A,Sound of the Mountain,lowbrow,Mikio Naruse,1954,1258,['Drama'],Japan,4.04968203497615,0,1,1,16,23,106,192,453,269,198
+248,N/A,Certified Copy,lowbrow,Abbas Kiarostami,2010,19014,"['Romance', 'Drama']",Belgium,4.02148416955927,42,79,92,387,509,1717,2582,6025,4026,3555
+249,N/A,Ballad of a Soldier,lowbrow,Grigoriy Chukhray,1959,2520,"['Romance', 'War', 'Drama']",USSR,4.02837301587302,2,9,5,24,48,228,428,848,496,432
+250,N/A,"His Motorbike, Her Island",lowbrow,Nobuhiko Ōbayashi,1986,833,"['Drama', 'Romance']",Japan,4.04741896758704,2,4,1,11,19,79,122,257,173,165
+251,N/A,Nine Queens,lowbrow,Fabián Bielinsky,2000,9091,['Crime'],Argentina,4.02282477175228,3,17,13,73,150,800,1680,3340,1395,1619
+252,N/A,Dreams,lowbrow,Akira Kurosawa,1990,12544,"['Fantasy', 'Drama']",USA,4.01953125,15,47,36,203,328,1237,2006,3957,2097,2618
+253,N/A,Pride & Prejudice,lowbrow,Joe Wright,2005,94129,"['Drama', 'Romance']",France,4.01878804619193,232,588,450,2386,2758,11426,13004,25701,10555,27029
+254,N/A,The Return,lowbrow,Andrey Zvyagintsev,2003,9228,['Drama'],Russian Federation,4.02096879063719,8,40,32,127,198,765,1436,3224,1885,1513
+255,N/A,From What Is Before,lowbrow,Lav Diaz,2014,1038,['Drama'],Philippines,4.04238921001927,2,8,7,19,23,94,153,287,219,226
+256,N/A,Insiang,lowbrow,Lino Brocka,1976,2012,['Drama'],Philippines,4.02982107355865,1,7,3,23,33,149,369,725,362,340
+257,N/A,The Ox-Bow Incident,lowbrow,William A. Wellman,1942,5685,"['Drama', 'Western']",USA,4.0197889182058,5,9,16,48,100,496,946,2069,1178,819
+258,N/A,Celine,lowbrow,Jean-Claude Brisseau,1992,912,['Drama'],France,4.04550438596491,4,7,5,20,24,89,138,218,168,239
+259,N/A,Mind Game,lowbrow,Masaaki Yuasa,2004,6725,"['Adventure', 'Animation', 'Mystery']",Japan,4.01933085501859,16,43,45,120,198,594,1040,1913,1355,1401
+260,N/A,The Intouchables,lowbrow,Éric Toledano,2011,97788,"['Comedy', 'Drama']",France,4.01229189675625,200,434,452,1702,2394,9773,14278,32274,16080,20201
+261,N/A,Death by Hanging,lowbrow,Nagisa Ōshima,1968,3283,"['Comedy', 'Drama', 'Crime']",Japan,4.01934206518428,3,7,12,58,91,300,465,1104,666,577
+262,N/A,Mustang,lowbrow,Deniz Gamze Ergüven,2015,29958,['Drama'],Qatar,4.01376927698778,158,190,174,479,663,2287,4499,10343,5441,5727
+263,N/A,Being John Malkovich,lowbrow,Spike Jonze,1999,115596,"['Drama', 'Fantasy', 'Comedy']",USA,4.01190352607357,256,573,416,2048,2349,10530,16602,40125,22431,20266
+264,N/A,Gone Girl,lowbrow,David Fincher,2014,370554,"['Drama', 'Thriller', 'Mystery']",USA,4.01174592636971,640,1896,1130,8053,7097,42397,44674,128653,58846,77168
+265,N/A,An Inn at Osaka,lowbrow,Heinosuke Gosho,1954,321,['Drama'],Japan,4.10436137071651,0,0,0,4,7,22,51,100,75,62
+266,N/A,Matewan,lowbrow,John Sayles,1987,2518,['Drama'],USA,4.02204130262113,2,9,9,30,59,209,413,871,480,436
+267,N/A,The Hero,lowbrow,Satyajit Ray,1966,1400,['Drama'],India,4.02642857142857,2,2,4,28,38,105,206,496,286,234
+268,N/A,"It's Not Me, I Swear!",lowbrow,Philippe Falardeau,2008,1238,"['Drama', 'Comedy']",Canada,3.72132471728594,2,3,3,15,28,119,178,338,207,247
+269,N/A,Uncut Gems,lowbrow,Josh Safdie,2019,302674,"['Drama', 'Crime', 'Thriller']",USA,4.00600811434084,1186,2801,1679,7270,6835,25766,36762,99509,66713,54153
+270,N/A,Kizumonogatari Part 3: Reiketsu,lowbrow,Akiyuki Shinbo,2017,2647,"['Animation', 'Mystery', 'Fantasy']",Japan,4.02210049112202,15,18,17,58,78,215,342,798,559,547
+271,N/A,I Am a Fugitive from a Chain Gang,lowbrow,Mervyn LeRoy,1932,3414,"['Drama', 'Crime']",USA,4.02592267135325,3,4,4,41,72,254,601,1250,659,528
+272,N/A,Oasis,lowbrow,Lee Chang-dong,2002,5258,"['Romance', 'Drama']",South Korea,4.01007987828072,27,26,35,90,150,415,751,1686,1139,939
+273,N/A,Pride,lowbrow,Matthew Warchus,2014,28247,"['Comedy', 'Drama']",UK,4.00991255708571,41,52,89,397,650,2982,4623,9411,4275,5727
+274,N/A,Dial M for Murder,lowbrow,Alfred Hitchcock,1954,38377,"['Thriller', 'Crime']",USA,4.00588894389869,23,41,51,308,582,3316,6470,15325,7328,4933
+275,N/A,Lone Wolf and Cub: Baby Cart at the River Styx,lowbrow,Kenji Misumi,1972,4273,"['Drama', 'Action']",Japan,4.00982915984086,0,2,7,24,56,346,756,1778,765,539
+276,N/A,Landscape Suicide,lowbrow,James Benning,1987,1242,"['Drama', 'Crime']",USA,4.02415458937198,5,9,9,26,34,107,166,380,232,274
+277,N/A,Maborosi,lowbrow,Hirokazu Kore-eda,1995,4728,['Drama'],Japan,4.01290186125212,1,12,12,70,90,471,793,1605,822,854
+278,N/A,True Stories,lowbrow,David Byrne,1986,9058,"['Music', 'Comedy']",USA,4.00474718480901,6,31,44,158,245,908,1420,2940,1475,1831
+279,N/A,Summerland,lowbrow,Jessica Swale,2020,3805,"['War', 'Drama']",UK,4.00827858081472,2,2,12,74,129,453,612,1094,524,905
+280,N/A,Moving,lowbrow,Shinji Sômai,1993,614,['Drama'],Japan,4.05130293159609,0,5,3,10,12,51,78,212,122,121
+281,N/A,In Bruges,lowbrow,Martin McDonagh,2008,119766,"['Crime', 'Drama', 'Comedy']",UK,4.00056777382563,198,526,420,2081,2404,10805,18259,42641,22681,19751
+282,N/A,Burning,lowbrow,Lee Chang-dong,2018,84408,"['Mystery', 'Thriller', 'Drama']",South Korea,3.99982821533504,158,443,428,1809,2337,7299,11750,27960,17978,14246
+283,N/A,Pain and Glory,lowbrow,Pedro Almodóvar,2019,63751,['Drama'],Spain,3.99947451804678,67,151,171,796,1297,5432,10226,24333,12228,9050
+284,N/A,Ex Machina,lowbrow,Alex Garland,2014,294034,"['Drama', 'Science Fiction']",UK,3.99831141976778,343,1162,841,5448,5480,31114,40216,107943,49723,51765
+285,N/A,The Wolf of Wall Street,lowbrow,Martin Scorsese,2013,398835,"['Comedy', 'Drama', 'Crime']",USA,3.99887046021538,1033,2981,1576,9855,8168,46986,47072,131462,62340,87362
+286,N/A,God's Comedy,lowbrow,João César Monteiro,1995,701,"['Comedy', 'Drama']",Portugal,4.04707560627675,2,6,3,14,21,56,88,210,162,140
+287,N/A,Shoeshine,lowbrow,Vittorio De Sica,1946,2928,['Drama'],Italy,4.00751366120219,2,4,10,19,52,267,506,1057,618,393
+288,N/A,Fox and His Friends,lowbrow,Rainer Werner Fassbinder,1975,5048,"['Drama', 'Romance']",Germany,4.00287242472266,14,13,15,72,113,412,841,1803,958,807
+289,N/A,Filme Demencia,lowbrow,Carlos Reichenbach,1986,562,"['Fantasy', 'Drama']",Brazil,4.03825622775801,2,4,11,19,29,43,53,123,118,160
+290,N/A,The Browning Version,lowbrow,Anthony Asquith,1951,1321,['Drama'],UK,3.76154428463285,0,0,3,17,22,117,201,424,250,200
+291,N/A,Secret Sunshine,lowbrow,Lee Chang-dong,2007,7550,['Drama'],South Korea,3.99960264900662,10,20,32,105,193,696,1211,2491,1638,1154
+292,N/A,Shaun of the Dead,lowbrow,Edgar Wright,2004,213443,"['Comedy', 'Horror']",UK,3.99533364879617,345,1002,726,3760,4538,23038,32056,73279,32557,42143
+293,N/A,Drive,lowbrow,Nicolas Winding Refn,2011,289861,"['Thriller', 'Drama', 'Crime']",USA,3.99332611148102,722,2163,1363,7402,6971,32290,37091,92691,45166,64002
+294,N/A,A Prophet,lowbrow,Jacques Audiard,2009,17078,"['Crime', 'Drama']",France,3.9962524885818,24,44,49,222,337,1494,2841,6189,3479,2399
+295,N/A,Little Miss Sunshine,lowbrow,Jonathan Dayton,2006,175968,"['Drama', 'Comedy']",USA,3.99410404164394,241,701,557,3086,3635,19588,26551,61724,24201,35685
+296,N/A,"That Day, on the Beach",lowbrow,Edward Yang,1983,1327,['Drama'],Taiwan,4.01507159005275,0,3,3,12,29,107,248,448,294,184
+297,N/A,Klaus,lowbrow,Sergio Pablos,2019,65582,"['Comedy', 'Animation', 'Adventure', 'Family']",Spain,3.99373303650392,43,110,125,682,1385,6406,11753,24094,9756,11228
+298,N/A,Return of the Jedi,lowbrow,Richard Marquand,1983,263792,"['Science Fiction', 'Adventure', 'Action']",USA,3.99231212470431,249,642,577,3874,5529,32642,41206,89984,35181,53908
+299,N/A,The Flavor of Green Tea Over Rice,lowbrow,Yasujirō Ozu,1952,2192,['Drama'],Japan,4.01208941605839,3,2,5,17,28,187,409,823,420,301
+300,N/A,August in the Water,lowbrow,Gakuryû Ishii,1995,1145,"['Fantasy', 'Science Fiction', 'Drama']",Japan,4.02620087336245,0,5,2,24,38,110,186,317,210,253
+301,N/A,Letter Never Sent,lowbrow,Mikhail Kalatozov,1960,2953,"['Adventure', 'Drama']",USSR,4.01422282424653,1,4,6,22,57,268,495,1096,623,386
+302,N/A,Goopy Gyne Bagha Byne,lowbrow,Satyajit Ray,1969,302,"['Fantasy', 'Family']",India,4.08940397350993,2,2,2,6,6,27,43,78,43,93
+303,N/A,A Summer's Tale,lowbrow,Éric Rohmer,1996,5381,"['Drama', 'Romance', 'Comedy']",France,3.99823452889797,4,12,21,58,107,496,908,1957,1007,812
+304,N/A,Iruvar,lowbrow,Mani Ratnam,1997,736,['Drama'],India,4.03260869565217,4,4,6,16,20,60,89,244,123,170
+305,N/A,Castle in the Sky,lowbrow,Hayao Miyazaki,1986,68098,"['Romance', 'Fantasy', 'Animation', 'Family', 'Action', 'Adventure']",Japan,3.99239331551587,47,111,133,712,1315,7029,11955,24764,10724,11317
+306,N/A,Mulan,lowbrow,Tony Bancroft,1998,151540,"['Adventure', 'Family', 'Animation']",USA,3.99177444899037,120,384,377,2437,3614,19292,24530,49013,17386,34395
+307,N/A,Kill Bill: Vol. 2,lowbrow,Quentin Tarantino,2004,225061,"['Crime', 'Thriller', 'Action']",USA,3.99104465011708,366,1094,821,4265,4848,25017,32453,77942,33219,45036
+308,N/A,Turtles Can Fly,lowbrow,Bahman Ghobadi,2004,3566,['Drama'],Iran,4.00056085249579,6,26,11,57,91,301,548,1255,644,628
+309,N/A,Good Time,lowbrow,Josh Safdie,2017,158232,"['Crime', 'Drama', 'Thriller']",USA,3.99022637645988,190,411,436,1953,3179,13184,26891,59957,30581,21451
+310,N/A,Black Friday,lowbrow,Anurag Kashyap,2004,1105,"['Drama', 'Crime']",India,4.01402714932127,2,3,4,14,30,100,134,436,201,181
+311,N/A,Hereditary,lowbrow,Ari Aster,2018,303298,"['Thriller', 'Horror', 'Mystery']",USA,3.98999993405825,1534,3336,2113,8942,8407,29550,36444,90157,53844,68971
+312,N/A,Blue Collar,lowbrow,Paul Schrader,1978,5038,"['Crime', 'Drama']",USA,3.99831282254863,2,9,8,47,93,415,905,1933,969,658
+313,N/A,Inside Llewyn Davis,lowbrow,Joel Coen,2013,122353,['Drama'],USA,3.98953029349505,174,536,453,2561,3106,13454,18520,37993,21985,23571
+314,N/A,About Elly,lowbrow,Asghar Farhadi,2009,11149,['Drama'],Iran,3.99188268006099,26,46,38,171,241,906,1745,4165,2201,1611
+315,N/A,Anbe Sivam,lowbrow,Sundar C,2003,814,"['Drama', 'Comedy']",India,4.02211302211302,3,6,4,19,25,67,102,262,162,165
+316,N/A,Hedwig and the Angry Inch,lowbrow,John Cameron Mitchell,2001,14924,"['Drama', 'Comedy', 'Music']",USA,3.99138970785312,30,72,78,297,396,1512,2296,4901,2233,3111
+317,N/A,Kuroneko,lowbrow,Kaneto Shindō,1968,7154,"['Fantasy', 'Horror']",Japan,3.99447861336315,1,6,7,63,119,592,1284,2856,1376,850
+318,N/A,Estômago: A Gastronomic Story,lowbrow,Marcos Jorge,2007,3717,"['Drama', 'Comedy']",Brazil,3.99905838041431,4,18,23,51,85,298,581,1405,624,628
+319,N/A,An Important Man's Wife,lowbrow,Mohamed Khan,1988,559,"['Thriller', 'Drama']",Egypt,4.03220035778175,1,4,2,23,22,43,56,161,117,130
+320,N/A,One Cut of the Dead,lowbrow,Shinichiro Ueda,2017,32242,"['Comedy', 'Horror', 'Action']",Japan,3.98925314806774,65,110,124,407,678,2495,5543,12179,6045,4596
+321,N/A,The Master,lowbrow,Paul Thomas Anderson,2012,121218,['Drama'],USA,3.98701100496626,292,745,688,3051,3686,12573,16872,35906,22725,24680
+322,N/A,Patlabor 2: The Movie,lowbrow,Mamoru Oshii,1993,1961,"['Action', 'Science Fiction', 'Animation', 'Thriller']",Japan,4.00968893421724,2,6,10,31,53,207,290,603,403,357
+323,N/A,Dangerous Encounters of the First Kind,lowbrow,Tsui Hark,1980,1182,"['Thriller', 'Action', 'Crime']",Hong Kong,4.0093062605753,4,6,6,23,46,114,162,348,210,263
+324,N/A,Damnation,lowbrow,Béla Tarr,1988,3727,"['Crime', 'Drama']",Hungary,3.99825596994902,4,13,22,65,113,354,567,1238,645,708
+325,N/A,The 8 Diagram Pole Fighter,lowbrow,Liu Chia-Liang,1984,2080,['Action'],Hong Kong,4.00144230769231,2,3,7,26,49,173,377,723,393,327
+326,N/A,Wake in Fright,lowbrow,Ted Kotcheff,1971,10312,"['Thriller', 'Drama']",Australia,3.98763576415826,28,39,55,183,260,886,1601,3619,1947,1694
+327,N/A,First Reformed,lowbrow,Paul Schrader,2017,96146,['Drama'],USA,3.98562082665946,230,604,463,2022,2632,8573,14057,31259,20641,15665
+328,N/A,The Straight Story,lowbrow,David Lynch,1999,24183,['Drama'],USA,3.98641607740975,25,78,67,335,501,2343,4009,8717,4377,3733
+329,N/A,Moonrise Kingdom,lowbrow,Wes Anderson,2012,216995,"['Comedy', 'Drama', 'Romance']",USA,3.98458489826955,350,1026,773,4472,4843,23426,31543,75389,33753,41420
+330,N/A,"Like Father, Like Son",lowbrow,Hirokazu Kore-eda,2013,14377,['Drama'],Japan,3.98775822494262,4,23,21,133,271,1191,2552,5687,2792,1703
+331,N/A,An Average Little Man,lowbrow,Mario Monicelli,1977,710,"['Drama', 'Comedy']",Italy,4.02183098591549,0,2,0,6,14,63,111,274,134,106
+332,N/A,My Dinner with Andre,lowbrow,Louis Malle,1981,14384,"['Drama', 'Comedy']",USA,3.98519187986652,45,98,110,323,466,1366,2074,4317,2647,2938
+333,N/A,Manchester by the Sea,lowbrow,Kenneth Lonergan,2016,155124,['Drama'],USA,3.98314251824347,518,1276,714,3836,3589,15327,20570,50522,30597,28176
+334,N/A,Paprika,lowbrow,Satoshi Kon,2006,52744,"['Drama', 'Mystery', 'Animation', 'Science Fiction', 'Thriller']",Japan,3.98366638859396,58,167,167,788,1239,4946,9045,18804,8744,8787
+335,N/A,La Ceremonie,lowbrow,Claude Chabrol,1995,5868,"['Drama', 'Thriller']",France,3.98602590320382,7,20,25,82,127,493,1008,2140,1099,867
+336,N/A,The Thin Man,lowbrow,W.S. Van Dyke,1934,9182,"['Crime', 'Mystery', 'Comedy']",USA,3.98224787627968,4,19,18,118,199,977,1671,3199,1354,1623
+337,N/A,Lady Bird,lowbrow,Greta Gerwig,2017,405721,"['Drama', 'Comedy']",USA,3.97704949953293,1069,2923,1806,10637,10199,51049,53232,124713,56283,93810
+338,N/A,Güeros,lowbrow,Alonso Ruizpalacios,2014,3913,"['Drama', 'Comedy']",Mexico,3.98926654740608,9,22,13,69,111,409,599,1251,658,772
+339,N/A,The Long Gray Line,lowbrow,John Ford,1955,913,"['Drama', 'Comedy']",USA,4.00876232201533,3,3,3,20,44,116,135,194,141,254
+340,N/A,Die Niebelungen: Kriemhild's Revenge,lowbrow,Fritz Lang,1924,1582,"['Adventure', 'Drama', 'Fantasy']",Germany,3.99462705436157,1,1,8,25,37,167,250,536,283,274
+341,N/A,Four Adventures of Reinette and Mirabelle,lowbrow,Éric Rohmer,1987,2182,"['Comedy', 'Drama']",France,3.98625114573786,0,6,5,29,37,209,401,806,331,358
+342,N/A,What Time Is It There?,lowbrow,Tsai Ming-liang,2001,3399,"['Romance', 'Drama']",France,3.98823183289203,9,29,18,68,86,320,496,1088,657,628
+343,N/A,A Difficult Life,lowbrow,Dino Risi,1961,408,['Drama'],Italy,4.05147058823529,0,0,3,2,10,29,56,164,79,65
+344,N/A,Night and the City,lowbrow,Jules Dassin,1950,4894,"['Thriller', 'Drama']",UK,3.98549243972211,2,7,9,44,111,482,841,1791,941,666
+345,N/A,20th Century Women,lowbrow,Mike Mills,2016,73956,['Drama'],USA,3.97745957055547,115,305,323,1366,1959,7567,11485,24732,13332,12772
+346,N/A,Come and Go,lowbrow,João César Monteiro,2003,456,"['Drama', 'Comedy']",Portugal,4.04385964912281,4,4,5,9,9,43,51,131,83,117
+347,N/A,Waltz with Bashir,lowbrow,Ari Folman,2008,17460,"['War', 'Documentary', 'Animation', 'Drama']",Israel,3.97975372279496,25,63,64,251,403,1565,2816,6526,3179,2569
+348,N/A,Spotlight,lowbrow,Tom McCarthy,2015,177916,"['Thriller', 'Drama', 'History']",Canada,3.9771043638571,202,553,457,2723,3775,19171,26958,66345,29077,28655
+349,N/A,Manichitrathazhu,lowbrow,Fazil,1993,593,"['Mystery', 'Horror', 'Fantasy', 'Thriller']",India,4.01349072512648,0,8,7,18,26,52,66,156,101,159
+350,N/A,The Train,lowbrow,John Frankenheimer,1964,4301,"['War', 'Thriller']",France,3.98384096721693,2,8,6,44,71,395,742,1710,792,533
+351,N/A,Punishment Park,lowbrow,Peter Watkins,1971,4412,"['Thriller', 'Drama']",USA,3.9858340888486,7,16,25,86,135,417,662,1447,854,764
+352,N/A,Carol,lowbrow,Todd Haynes,2015,118443,"['Drama', 'Romance']",UK,3.97471779674611,213,649,563,2973,3479,14295,17247,35369,16943,26713
+353,N/A,Ghost in the Shell,lowbrow,Mamoru Oshii,1995,65260,"['Science Fiction', 'Animation', 'Action']",Japan,3.9756205945449,68,235,253,1170,1953,7032,10449,21268,10643,12189
+354,N/A,Eat Drink Man Woman,lowbrow,Ang Lee,1994,7412,"['Drama', 'Comedy', 'Romance']",Taiwan,3.97996492174852,4,10,13,64,141,681,1369,2812,1370,948
+355,N/A,Respect,lowbrow,Treb Monteras II,2017,686,"['Drama', 'Crime', 'Music']",Philippines,4.02186588921283,2,8,3,22,23,59,92,177,126,174
+356,N/A,Lady Snowblood,lowbrow,Toshiya Fujita,1973,13766,"['Action', 'Thriller', 'Drama']",Japan,3.97657271538573,7,23,27,140,233,1262,2511,5455,2255,1854
+357,N/A,Ratcatcher,lowbrow,Lynne Ramsay,1999,7640,['Drama'],France,3.97715968586387,9,21,28,118,165,779,1250,2693,1399,1178
+358,N/A,Under the Flag of the Rising Sun,lowbrow,Kinji Fukasaku,1972,359,"['War', 'Mystery', 'Drama']",Japan,4.05013927576602,0,0,1,5,5,14,70,137,80,47
+359,N/A,3-Iron,lowbrow,Kim Ki-duk,2004,14543,"['Romance', 'Drama', 'Crime']",South Korea,3.97538334593963,31,78,74,252,402,1307,2409,4871,2672,2448
+360,N/A,An Adventure in Space and Time,lowbrow,Terry McDonough,2013,3206,['Drama'],UK,3.81456643792888,5,3,3,24,65,348,552,1100,454,518
+361,N/A,Laurence Anyways,lowbrow,Xavier Dolan,2012,16590,"['Drama', 'Romance']",Canada,3.97447257383966,53,102,84,316,486,1647,2629,5226,2903,3145
+362,N/A,The Working Class Goes to Heaven,lowbrow,Elio Petri,1971,1612,['Drama'],Italy,3.81296526054591,3,3,3,15,37,142,248,581,276,231
+363,N/A,The Ballad of Narayama,lowbrow,Keisuke Kinoshita,1958,2414,['Drama'],Japan,3.98032311516156,1,3,5,43,64,234,407,853,414,390
+364,N/A,Godzilla,lowbrow,Ishirō Honda,1954,27440,"['Thriller', 'Science Fiction', 'Horror']",Japan,3.76550655976676,34,83,80,459,711,3125,4174,8531,3526,5287
+365,N/A,Ernest & Celestine,lowbrow,Stéphane Aubier,2012,11396,"['Family', 'Comedy', 'Animation', 'Drama']",Belgium,3.97389434889435,4,16,27,105,215,1026,2301,4273,1776,1653
+366,N/A,House,lowbrow,Nobuhiko Ōbayashi,1977,46204,"['Comedy', 'Fantasy', 'Horror']",Japan,3.97443944247251,187,371,347,1064,1351,4617,6707,14349,7264,9947
+367,N/A,To the Left of the Father,lowbrow,Luiz Fernando Carvalho,2001,988,['Drama'],Brazil,4.00151821862348,6,12,12,37,40,108,95,222,156,300
+368,N/A,In Cold Blood,lowbrow,Richard Brooks,1967,6590,"['Crime', 'Drama']",USA,3.97556904400607,3,14,12,88,138,640,1068,2542,1213,872
+369,N/A,Son of Saul,lowbrow,László Nemes,2015,24103,"['Drama', 'War', 'Thriller']",Hungary,3.97257602788035,79,170,149,546,765,2240,3438,7459,5161,4100
+370,N/A,The Guns,lowbrow,Ruy Guerra,1964,838,['Drama'],Argentina,4.00715990453461,3,5,7,17,22,69,118,273,160,164
+371,N/A,After Hours,lowbrow,Martin Scorsese,1985,38725,"['Drama', 'Thriller', 'Comedy']",USA,3.97009683666882,39,107,137,536,907,3690,6662,13956,7191,5500
+372,N/A,The Hourglass Sanatorium,lowbrow,Wojciech Has,1973,2753,"['Horror', 'Fantasy', 'Drama']",Poland,3.97711587359244,4,14,14,71,85,253,426,854,527,504
+373,N/A,Pale Flower,lowbrow,Masahiro Shinoda,1964,3359,"['Drama', 'Crime', 'Romance']",Japan,3.97350401905329,1,8,6,47,85,306,576,1244,634,452
+374,N/A,The Suspended Step of the Stork,lowbrow,Theo Angelopoulos,1991,1000,['Drama'],Greece,3.995,0,4,6,20,21,84,167,332,210,156
+375,N/A,The Great Beauty,lowbrow,Paolo Sorrentino,2013,32722,['Drama'],France,3.9667807591223,140,313,262,929,1168,3072,4570,9362,5884,7022
+376,N/A,"Norte, the End of History",lowbrow,Lav Diaz,2013,2520,"['Drama', 'Crime']",Philippines,3.97678571428571,4,25,20,65,77,221,328,798,542,440
+377,N/A,Love in the Afternoon,lowbrow,Éric Rohmer,1972,5613,"['Romance', 'Drama']",France,3.96908961339747,6,8,11,60,127,528,1000,2158,955,760
+378,N/A,The Irishman,lowbrow,Martin Scorsese,2019,224936,"['Drama', 'Crime', 'History']",USA,3.96336291211722,473,1485,921,5521,5574,23723,31021,74960,44899,36359
+379,N/A,The Way He Looks,lowbrow,Daniel Ribeiro,2014,23513,"['Romance', 'Drama']",Brazil,3.96646535958831,42,78,95,486,672,2634,3853,7748,3069,4836
+380,N/A,"Three Billboards Outside Ebbing, Missouri",lowbrow,Martin McDonagh,2017,254321,"['Drama', 'Crime']",UK,3.96532531721722,1015,2543,1992,7238,7485,24505,31445,81131,47386,49581
+381,N/A,In the Name of the Father,lowbrow,Jim Sheridan,1993,19098,['Drama'],UK,3.96908053199288,13,38,41,205,350,1843,3363,7393,3462,2392
+382,N/A,The Twilight Samurai,lowbrow,Yoji Yamada,2002,3395,"['Drama', 'Romance', 'Action']",Japan,3.97187039764359,0,7,4,38,74,319,596,1316,603,438
+383,N/A,I Knew Her Well,lowbrow,Antonio Pietrangeli,1965,2037,['Drama'],Italy,3.98011782032401,2,5,7,21,46,196,359,735,371,296
+384,N/A,Castaway on the Moon,lowbrow,Lee Hae-jun,2009,6572,"['Comedy', 'Romance', 'Drama']",South Korea,3.96758977480219,15,17,26,102,157,636,1169,2258,1153,1039
+385,N/A,Thief,lowbrow,Michael Mann,1981,22043,"['Thriller', 'Crime', 'Action']",USA,3.96577144671778,15,41,59,334,493,2190,4006,7708,4056,3141
+386,N/A,Catch Me If You Can,lowbrow,Steven Spielberg,2002,199815,"['Drama', 'Crime']",USA,3.96362385206316,114,415,355,2341,3532,21967,34433,77649,29165,29844
+387,N/A,God's Own Country,lowbrow,Francis Lee,2017,27247,"['Drama', 'Romance']",UK,3.96379417917569,57,102,99,462,693,2734,4612,9539,4388,4564
+388,N/A,Toy Story 2,lowbrow,John Lasseter,1999,215760,"['Comedy', 'Animation', 'Family']",USA,3.96316740823137,244,791,628,4720,5161,29581,30965,70712,27726,45232
+389,N/A,I'm No Longer Here,lowbrow,Fernando Frias,2019,8617,['Drama'],Mexico,3.96443077637229,7,26,18,117,188,740,1490,3496,1386,1149
+390,N/A,On the Silver Globe,lowbrow,Andrzej Żuławski,1988,3839,"['Fantasy', 'Science Fiction', 'Drama', 'Adventure']",Poland,3.97369106538161,18,49,40,129,154,390,475,906,705,973
+391,N/A,Heroic Purgatory,lowbrow,Yoshishige Yoshida,1970,788,['Drama'],Japan,4.001269035533,0,1,4,16,21,82,127,252,144,143
+392,N/A,Pudhupettai,lowbrow,K. Selvaraghavan,2006,571,"['Action', 'Drama', 'Crime']",India,4.01488616462347,2,3,3,10,18,48,73,197,107,110
+393,N/A,Dragon Inn,lowbrow,King Hu,1967,3764,"['Action', 'Adventure']",Hong Kong,3.96865037194474,3,7,11,44,98,368,654,1382,652,545
+394,N/A,A Raisin in the Sun,lowbrow,Daniel Petrie,1961,2750,"['Romance', 'Drama']",USA,3.96818181818182,2,5,6,27,50,290,509,1016,444,401
+395,N/A,Boy,lowbrow,Taika Waititi,2010,23575,"['Comedy', 'Drama']",New Zealand,3.96086956521739,17,30,29,196,377,2166,4863,9224,3657,3018
+396,N/A,Sing Street,lowbrow,John Carney,2016,87902,"['Comedy', 'Drama', 'Music', 'Romance']",Ireland,3.95945484744374,132,317,295,1353,2142,9469,15320,30206,14087,14583
+397,N/A,"Oslo, August 31st",lowbrow,Joachim Trier,2011,13671,['Drama'],Norway,3.96167068978129,14,42,47,181,376,1352,2436,4747,2433,2044
+398,N/A,Lightning,lowbrow,Mikio Naruse,1952,572,['Drama'],Japan,4.0034965034965,0,0,0,2,9,52,114,212,109,74
+399,N/A,Swing Kids,lowbrow,Kang Hyoung-chul,2018,3111,"['Drama', 'War']",South Korea,3.96753455480553,3,10,21,64,89,360,523,956,430,656
+400,N/A,Bad Black,lowbrow,Nabwana I.G.G.,2016,1584,"['Crime', 'Comedy', 'Action', 'Drama']",Uganda,3.9738005050505,31,15,10,27,38,177,223,443,167,453
+401,N/A,The Bridge of Arts,lowbrow,Eugène Green,2004,798,['Drama'],France,3.98370927318296,2,3,6,21,23,71,136,222,161,153
+402,N/A,Anne of Green Gables: The Sequel,lowbrow,Kevin Sullivan,1987,1271,"['Family', 'Romance', 'Drama']",UK,3.98308418568057,1,7,6,27,40,164,174,407,134,312
+403,N/A,Trust,lowbrow,Hal Hartley,1990,4017,"['Drama', 'Comedy']",UK,3.96240975852626,9,13,15,90,130,425,605,1330,681,719
+404,N/A,The Counterfeit Coin,lowbrow,Yorgos Tzavellas,1955,222,"['Comedy', 'Romance', 'Drama']",Greece,4.07657657657658,0,1,0,3,5,16,37,69,46,45
+405,N/A,Love & Pop,lowbrow,Hideaki Anno,1998,1846,['Drama'],Japan,3.96749729144095,5,9,4,41,53,176,312,592,332,322
+406,N/A,If Beale Street Could Talk,lowbrow,Barry Jenkins,2018,71070,"['Romance', 'Drama']",USA,3.95380610665541,89,250,276,1370,2000,7258,11323,24507,13758,10241
+407,N/A,The Lion in Winter,lowbrow,Anthony Harvey,1968,4529,"['Drama', 'History']",UK,3.95848973283286,6,24,28,105,144,452,749,1406,795,822
+408,N/A,A Taxi Driver,lowbrow,Jang Hoon,2017,11833,"['History', 'Drama', 'Action']",South Korea,3.95622411898927,14,30,38,146,312,1133,2106,4375,2034,1645
+409,N/A,The Adversary,lowbrow,Satyajit Ray,1970,432,"['Romance', 'Drama']",India,4.01041666666667,0,3,1,10,17,34,58,140,89,80
+410,N/A,Pariah,lowbrow,Dee Rees,2011,8770,['Drama'],USA,3.95501710376283,7,16,20,101,206,891,1602,3212,1568,1147
+411,N/A,The Bridge,lowbrow,Bernhard Wicki,1959,1843,"['History', 'War', 'Drama']",Germany,3.96635919696148,2,0,4,15,40,167,335,739,323,218
+412,N/A,Lilya 4-ever,lowbrow,Lukas Moodysson,2002,11169,"['Drama', 'Crime']",Denmark,3.95550183543737,28,64,58,240,280,1125,1769,3836,1843,1926
+413,N/A,The Taste of Tea,lowbrow,Katsuhito Ishii,2004,2284,"['Drama', 'Comedy']",Japan,3.96584938704028,7,13,21,37,70,228,404,676,362,466
+414,N/A,La La Land,lowbrow,Damien Chazelle,2016,420600,"['Music', 'Drama', 'Romance', 'Comedy']",USA,3.94935924869234,2571,7497,3073,18490,12067,52977,41336,107425,57132,118032
+415,N/A,Labour of Love,lowbrow,Aditya Vikram Sengupta,2014,475,['Drama'],India,4.00526315789474,1,2,5,15,22,49,50,114,111,106
+416,N/A,Gladiator,lowbrow,Ridley Scott,2000,170056,"['Action', 'Adventure', 'Drama']",UK,3.9494078421226,263,910,802,4064,4790,20560,25350,54972,25500,32846
+417,N/A,Love and Anarchy,lowbrow,Lina Wertmüller,1973,1784,['Drama'],France,3.96889013452915,4,2,6,20,41,171,342,610,330,258
+418,N/A,Beyond Oblivion,lowbrow,Hugo del Carril,1956,307,"['Drama', 'Romance', 'Crime']",Argentina,4.04234527687296,1,1,2,5,7,33,55,83,29,91
+419,N/A,All About Lily Chou-Chou,lowbrow,Shunji Iwai,2001,5496,"['Drama', 'Crime']",Japan,3.95478529839884,16,49,51,148,215,598,780,1438,1025,1176
+420,N/A,Coraline,lowbrow,Henry Selick,2009,146418,"['Family', 'Fantasy', 'Animation']",USA,3.95296001857695,545,1119,594,3322,3604,17474,22536,47591,17958,31675
+421,N/A,The Raid 2,lowbrow,Gareth Evans,2014,42506,"['Action', 'Crime', 'Thriller']",Indonesia,3.94904248811932,54,171,213,856,1289,4361,6882,14088,8162,6431
+422,N/A,The Big Parade,lowbrow,King Vidor,1925,1958,"['Romance', 'Drama', 'War']",USA,3.95480081716037,4,8,15,35,62,206,327,604,355,342
+423,N/A,The Last Command,lowbrow,Josef von Sternberg,1928,1596,"['History', 'War', 'Drama', 'Romance']",USA,3.96365914786967,0,1,9,23,40,152,294,559,291,227
+424,N/A,Crazy World,lowbrow,Nabwana I.G.G.,2014,1711,"['Comedy', 'Action']",Uganda,3.96171829339568,26,10,20,34,44,176,245,524,188,444
+425,N/A,La Promesse,lowbrow,Luc Dardenne,1996,3685,['Drama'],Belgium,3.95359565807327,2,5,3,31,80,317,721,1478,660,388
+426,N/A,Downfall,lowbrow,Oliver Hirschbiegel,2004,34667,"['History', 'War', 'Drama']",Austria,3.94705339371737,52,84,108,483,729,3367,6065,13482,5959,4340
+427,N/A,Les Misérables,lowbrow,Raymond Bernard,1934,529,"['Crime', 'Drama']",France,3.98865784499055,1,2,2,11,20,60,75,147,106,105
+428,N/A,Hamlet,lowbrow,Grigori Kozintsev,1964,542,['Drama'],Russian Federation,3.99630996309963,0,2,2,10,16,50,83,182,105,92
+429,N/A,Ode to Nothing,lowbrow,Dwein Baltazar,2018,408,['Drama'],Philippines,4.00612745098039,0,1,4,7,17,52,55,108,59,105
+430,N/A,The Vanishing,lowbrow,George Sluizer,1988,18391,"['Thriller', 'Horror']",Netherlands,3.94701212549617,19,71,77,284,421,1724,3255,6881,3231,2429
+431,N/A,The Taking of Pelham One Two Three,lowbrow,Joseph Sargent,1974,11252,"['Thriller', 'Action', 'Crime']",USA,3.94583185211518,8,14,32,106,208,1118,2219,4296,1918,1333
+432,N/A,"What's Up, Doc?",lowbrow,Peter Bogdanovich,1972,10451,"['Comedy', 'Romance']",USA,3.94488565687494,12,53,45,203,298,1178,1796,3280,1839,1747
+433,N/A,Profound Desires of the Gods,lowbrow,Shōhei Imamura,1968,915,['Drama'],Japan,3.97540983606557,0,5,8,25,19,89,130,298,192,149
+434,N/A,Sidewalls,lowbrow,Gustavo Taretto,2011,8817,"['Romance', 'Drama']",Argentina,3.94646705228536,27,45,44,197,270,991,1517,2751,1148,1830
+435,N/A,Tea and Sympathy,lowbrow,Vincente Minnelli,1956,1212,['Drama'],USA,3.96493399339934,1,8,5,23,44,133,202,338,229,229
+436,N/A,Tangerines,lowbrow,Zaza Urushadze,2013,6479,"['War', 'Drama']",Estonia,3.95145855841951,8,13,17,84,184,640,1176,2309,1162,886
+437,N/A,The Wind Rises,lowbrow,Hayao Miyazaki,2013,54588,"['Romance', 'War', 'Animation', 'History', 'Drama']",Japan,3.94351322635011,83,196,201,1026,1460,6439,9461,17595,8836,9291
+438,N/A,Buccaneer Soul,lowbrow,Carlos Reichenbach,1993,409,"['Comedy', 'Drama']",Brazil,4.00366748166259,5,5,5,18,13,43,35,90,65,130
+439,N/A,State of Siege,lowbrow,Costa-Gavras,1972,1904,"['Thriller', 'Drama']",France,3.95325630252101,1,5,8,34,44,173,325,732,326,256
+440,N/A,Cold War,lowbrow,Paweł Pawlikowski,2018,62301,"['Romance', 'Drama', 'Music', 'War']",France,3.94262531901575,88,249,306,1208,1874,6596,10828,20116,11117,9920
+441,N/A,Place without Limits,lowbrow,Arturo Ripstein,1978,731,['Drama'],Mexico,3.98221614227086,0,1,2,13,16,76,120,270,104,129
+442,N/A,Frances Ha,lowbrow,Noah Baumbach,2012,122357,"['Comedy', 'Drama']",Brazil,3.9426963720915,391,804,723,2777,3431,12615,19656,40219,20042,21699
+443,N/A,The Watermelon Woman,lowbrow,Cheryl Dunye,1996,9957,"['Comedy', 'Drama', 'Romance']",USA,3.94315556894647,7,19,22,106,176,943,2043,3934,1392,1315
+444,N/A,System Crasher,lowbrow,Nora Fingscheidt,2019,11278,['Drama'],Germany,3.94453803865934,14,31,39,127,245,896,1991,4751,2114,1070
+445,N/A,Fantastic Planet,lowbrow,René Laloux,1973,29557,"['Science Fiction', 'Animation']",Czechia,3.94277159386947,47,104,97,491,705,3055,5223,10958,4287,4590
+446,N/A,Memories of Matsuko,lowbrow,Tetsuya Nakashima,2006,2532,"['Comedy', 'Drama']",Japan,3.9531990521327,10,22,19,66,78,219,415,761,473,469
+447,N/A,I Saw the Devil,lowbrow,Kim Jee-woon,2010,44612,"['Thriller', 'Horror']",South Korea,3.94128261454317,118,298,267,931,1282,4128,7206,15475,8112,6799
+448,N/A,Gett: The Trial of Viviane Amsalem,lowbrow,Ronit Elkabetz,2014,2330,['Drama'],Germany,3.95085836909871,8,1,10,31,51,195,453,862,435,284
+449,N/A,The Hill,lowbrow,Sidney Lumet,1965,2232,"['Drama', 'War']",UK,3.95138888888889,0,3,9,28,61,209,399,816,456,251
+450,N/A,The 36th Chamber of Shaolin,lowbrow,Liu Chia-Liang,1978,8207,"['Action', 'Adventure']",Hong Kong,3.94364566833191,2,9,24,86,168,838,1648,3088,1263,1082
+451,N/A,The Only Son,lowbrow,Yasujirō Ozu,1936,2687,['Drama'],Japan,3.94901377000372,1,1,3,22,66,251,569,1011,415,348
+452,N/A,Pink Floyd: The Wall,lowbrow,Alan Parker,1982,23191,['Music'],UK,3.94148592126256,57,152,159,599,810,2650,3435,7152,3401,4776
+453,N/A,The Breadwinner,lowbrow,Nora Twomey,2017,21367,"['Drama', 'Animation', 'War']",Ireland,3.93906491318388,20,32,57,225,452,2208,4218,8042,3313,2799
+454,N/A,My Man Godfrey,lowbrow,Gregory La Cava,1936,7968,"['Comedy', 'Romance']",USA,3.94195532128514,4,26,30,97,214,908,1525,2651,1256,1258
+455,N/A,The Hollow Crown: Richard II,lowbrow,Rupert Goold,2012,1142,"['History', 'Drama']",Unknown,3.9592819614711,4,4,2,20,33,112,177,415,201,174
+456,N/A,The Mirror,lowbrow,Jafar Panahi,1997,1684,['Drama'],Iran,3.95338479809976,2,8,9,30,48,163,277,579,319,249
+457,N/A,Tokyo Sonata,lowbrow,Kiyoshi Kurosawa,2008,3891,['Drama'],Japan,3.94525828835775,4,7,13,42,95,387,745,1402,711,485
+458,N/A,A Wolf at the Door,lowbrow,Fernando Coimbra,2013,3608,"['Thriller', 'Drama']",Brazil,3.94442904656319,11,22,18,61,130,320,586,1281,610,570
+459,N/A,Hud,lowbrow,Martin Ritt,1963,5099,"['Drama', 'Western']",USA,3.94155716807217,3,14,14,76,96,556,915,1870,912,643
+460,N/A,My Dear Brother,lowbrow,Ertem Eğilmez,1973,1140,['Drama'],Unknown,3.95394736842105,1,4,6,21,33,130,178,403,151,213
+461,N/A,I Am Twenty,lowbrow,Marlen Khutsiyev,1965,529,['Drama'],Unknown,3.99338374291115,1,1,2,8,19,41,99,175,80,103
+462,N/A,Shutter Island,lowbrow,Martin Scorsese,2010,278176,"['Thriller', 'Mystery', 'Drama']",USA,3.93611238927873,344,1238,980,6172,7096,34323,43839,94911,40893,48380
+463,N/A,0.5 mm,lowbrow,Momoko Ando,2014,540,['Drama'],Japan,3.98333333333333,1,3,3,14,15,49,66,201,89,99
+464,N/A,Jean de Florette,lowbrow,Claude Berri,1986,3538,"['Drama', 'Comedy']",France,3.93937252685133,8,12,16,65,89,379,620,1254,506,589
+465,N/A,The Confession,lowbrow,Costa-Gavras,1970,1368,['Drama'],France,3.94956140350877,0,2,5,22,29,136,250,495,262,167
+466,N/A,Rebels of the Neon God,lowbrow,Tsai Ming-liang,1992,6628,"['Drama', 'Crime']",Taiwan,3.93700965600483,3,13,14,46,118,628,1348,2694,1062,703
+467,N/A,Police Story,lowbrow,Jackie Chan,1985,21074,"['Action', 'Crime', 'Thriller']",Hong Kong,3.93351997722312,12,37,52,272,447,2232,4069,7938,3304,2711
+468,N/A,The Assassination of Jesse James by the Coward Robert Ford,lowbrow,Andrew Dominik,2007,49258,"['Drama', 'Western', 'Action']",Canada,3.9322343578708,89,296,273,1224,1572,5586,7943,15031,8673,8571
+469,N/A,Santa Sangre,lowbrow,Alejandro Jodorowsky,1989,11163,"['Horror', 'Fantasy', 'Mystery']",Mexico,3.93585953596703,40,83,94,257,326,1153,1788,3554,1820,2048
+470,N/A,Sandhesam,lowbrow,Sathyan Anthikad,1991,252,"['Comedy', 'Family', 'Drama']",India,4.04761904761905,1,2,1,9,11,20,30,64,41,73
+471,N/A,The Fall,lowbrow,Tarsem Singh,2006,25780,"['Fantasy', 'Adventure', 'Drama']",India,3.93357253685027,59,157,167,698,931,3006,4160,7448,3806,5350
+472,N/A,"No Way, Spider",lowbrow,Rogério Sganzerla,1970,626,['Comedy'],Brazil,3.9720447284345,10,9,11,27,28,54,62,138,68,219
+473,N/A,Inside Out,lowbrow,Pete Docter,2015,351473,"['Comedy', 'Family', 'Drama', 'Animation']",USA,3.92968734440483,756,2496,1657,10228,10125,50175,45535,110516,43681,76305
+474,N/A,The Sixth Sense,lowbrow,M. Night Shyamalan,1999,166342,"['Drama', 'Mystery', 'Thriller']",USA,3.93080520854625,171,537,498,2716,3689,20473,28256,61201,22680,26131
+475,N/A,Stalag 17,lowbrow,Billy Wilder,1953,8236,['War'],USA,3.93273433705682,9,21,26,121,196,801,1573,3029,1462,998
+476,N/A,The Seventh Continent,lowbrow,Michael Haneke,1989,8621,['Drama'],Austria,3.93353439276186,27,59,56,146,238,870,1448,2962,1467,1348
+477,N/A,Willow and Wind,lowbrow,Mohammadali Talebi,1999,304,['Drama'],Iran,4.00986842105263,0,3,3,10,8,34,29,85,64,68
+478,N/A,The Beaver Trilogy,lowbrow,Trent Harris,2000,527,['Unknown'],Unknown,3.97722960151803,2,2,3,12,12,54,86,173,71,112
+479,N/A,In the Heat of the Night,lowbrow,Norman Jewison,1967,19824,"['Thriller', 'Drama', 'Crime', 'Mystery']",USA,3.92776432606941,1,19,33,189,398,1851,4107,8075,3121,2030
+480,N/A,Benilde or The Virgin Mother,lowbrow,Manoel de Oliveira,1975,361,['Drama'],Portugal,4.00277008310249,0,0,1,9,16,33,56,112,55,79
+481,N/A,Eighth Grade,lowbrow,Bo Burnham,2018,149165,"['Drama', 'Comedy']",USA,3.926014815808,456,920,757,3163,3916,16047,24466,51143,25209,23088
+482,N/A,The Wrestler,lowbrow,Darren Aronofsky,2008,62320,"['Drama', 'Romance']",USA,3.9252567394095,85,235,210,1018,1368,6549,11105,23399,10584,7767
+483,N/A,Avengers: Infinity War,lowbrow,Anthony Russo,2018,426509,"['Adventure', 'Action', 'Science Fiction']",USA,3.9241246960791,1765,4214,2601,13147,13466,56415,54799,128762,56144,95196
+484,N/A,Batman: Mask of the Phantasm,lowbrow,Bruce Timm,1993,27394,"['Romance', 'Animation', 'Action', 'Crime', 'Mystery', 'Thriller', 'Drama', 'Adventure']",USA,3.92520259910929,21,58,95,420,743,3406,5052,9248,4057,4294
+485,N/A,Drishyam,lowbrow,Jeethu Joseph,2013,980,"['Crime', 'Thriller']",India,3.93979591836735,9,5,6,22,29,90,150,334,160,175
+486,N/A,S. Bernardo,lowbrow,Leon Hirszman,1972,553,['Drama'],Brazil,3.9746835443038,3,7,9,15,26,42,63,155,101,132
+487,N/A,Beauty and the Beast,lowbrow,Gary Trousdale,1991,126870,"['Animation', 'Family', 'Fantasy', 'Romance']",USA,3.92029242531725,181,503,461,3003,4041,19903,19504,37653,13452,28171
+488,N/A,Avengers: Endgame,lowbrow,Anthony Russo,2019,392446,"['Adventure', 'Science Fiction', 'Action']",USA,3.91555398704535,2314,4500,3144,13343,14934,52377,50749,102325,51206,97554
+489,N/A,35 Shots of Rum,lowbrow,Claire Denis,2008,4867,['Drama'],France,3.9228477501541,11,26,26,92,168,528,810,1593,876,737
+490,N/A,Bush Mama,lowbrow,Haile Gerima,1979,451,['Drama'],USA,3.97228381374723,3,3,6,7,14,43,62,137,90,86
+491,N/A,Kireedam,lowbrow,Sibi Malayil,1989,298,['Drama'],India,4.00167785234899,1,1,3,11,11,24,33,90,61,63
+492,N/A,Femmes femmes,lowbrow,Paul Vecchiali,1974,291,"['Comedy', 'Drama']",France,3.98969072164948,3,2,2,7,11,29,33,83,53,68
+493,N/A,Balangiga: Howling Wilderness,lowbrow,Khavn,2017,341,['History'],Philippines,3.98826979472141,2,2,1,10,21,35,38,86,58,88
+494,N/A,Bait,lowbrow,Mark Jenkin,2019,6234,['Drama'],UK,3.91321783766442,24,48,45,136,208,594,1034,2079,1143,923
+495,N/A,Thoovanathumbikal,lowbrow,P  Padmarajan,1987,328,"['Romance', 'Drama']",India,3.99542682926829,0,1,3,8,16,32,34,104,64,66
+496,N/A,West Side Avenue,lowbrow,Lav Diaz,2001,277,"['Drama', 'Crime', 'Mystery']",Philippines,4.0072202166065,2,1,2,10,12,31,35,61,39,84
+497,N/A,Vitalina Varela,lowbrow,Pedro Costa,2019,3223,['Drama'],Portugal,3.90862550418864,15,37,35,92,121,356,471,897,571,628
+498,N/A,The Return of the Prodigal Son,lowbrow,Youssef Chahine,1976,399,"['Music', 'Drama']",Egypt,3.97117794486216,0,4,5,10,16,45,49,111,65,94
+499,N/A,The Middleman,lowbrow,Satyajit Ray,1976,309,['Drama'],India,3.98867313915858,2,2,3,4,11,35,31,98,62,61
+500,N/A,"Rio, 40 Degrees C.",lowbrow,Nelson Pereira dos Santos,1955,900,['Drama'],Brazil,3.94111111111111,3,4,4,17,23,93,148,311,174,124

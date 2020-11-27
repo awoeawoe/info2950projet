@@ -1,0 +1,502 @@
+,TSPDT Rank,Title,Tier,Director,Year,RateCount,Genre,Country,Rating,0.5 Rating,1.0 Rating,1.5 Rating,2.0 Rating,2.5 Rating,3.0 Rating,3.5 Rating,4.0 Rating,4.5 Rating,5.0 Rating
+0,1,Citizen Kane,common,Orson Welles,1941,116979,"['Drama', 'Mystery']",USA,4.2264380786295,402,749,440,2143,1946,8737,10149,29792,20724,41897
+1,2,Vertigo,common,Alfred Hitchcock,1958,141672,"['Thriller', 'Mystery', 'Romance']",USA,4.21725182110791,161,394,376,1693,2220,10608,15234,39871,25420,45695
+2,3,2001: A Space Odyssey,common,Stanley Kubrick,1968,231195,"['Science Fiction', 'Adventure', 'Mystery']",UK,4.34309565518286,935,1948,1008,4554,3414,14943,14478,45548,33995,110372
+3,4,The Rules of the Game,common,Jean Renoir,1939,15984,"['Drama', 'Romance', 'Comedy']",France,4.08433433433434,31,69,92,323,464,1504,2034,4283,2855,4329
+4,5,Tokyo Story,common,Yasujirō Ozu,1953,31165,['Drama'],Japan,4.37442643991657,38,68,66,313,366,1524,2367,7167,6405,12851
+5,6,8½,common,Federico Fellini,1963,50360,"['Fantasy', 'Drama']",Italy,4.27525814138205,127,227,227,820,1041,3190,4339,11514,9518,19357
+6,7,The Godfather,common,Francis Ford Coppola,1972,286889,"['Crime', 'Drama']",USA,4.5580311549066,339,649,301,1918,1529,10288,11231,51693,45858,163083
+7,8,Sunrise: A Song of Two Humans,common,F.W. Murnau,1927,19814,"['Drama', 'Romance']",USA,4.21401534268699,28,67,68,262,383,1464,2193,5029,3903,6417
+9,10,Seven Samurai,common,Akira Kurosawa,1954,74972,"['Action', 'Drama']",Japan,4.527730352665,55,103,56,332,414,2442,3825,14627,14544,38574
+10,11,Apocalypse Now,common,Francis Ford Coppola,1979,159620,"['War', 'Drama']",USA,4.36623543415612,224,466,340,1798,1755,8972,11252,36931,31130,66752
+11,12,Singin' in the Rain,common,Stanley Donen,1952,88089,"['Comedy', 'Romance', 'Music']",USA,4.27388209651602,80,191,165,1015,1247,6493,8233,23113,15311,32242
+12,13,Bicycle Thieves,common,Vittorio De Sica,1948,52141,['Drama'],Italy,4.26318060643256,32,89,98,434,652,3143,5155,15115,11020,16403
+13,14,Taxi Driver,common,Martin Scorsese,1976,258701,"['Drama', 'Crime']",USA,4.26594601489751,338,794,590,3210,3459,17634,22911,71213,48027,90525
+16,17,The Passion of Joan of Arc,common,Carl Theodor Dreyer,1928,27354,"['History', 'Drama']",France,4.38985157563793,52,96,74,295,378,1425,1937,5692,5071,12334
+17,18,L'Atalante,common,Jean Vigo,1934,9581,"['Comedy', 'Drama', 'Romance']",France,3.9969209894583,17,33,49,186,329,1105,1507,2622,1515,2218
+18,19,Persona,common,Ingmar Bergman,1966,71207,['Drama'],Sweden,4.39102195008918,121,222,157,676,884,3342,4945,15864,14356,30640
+19,20,Man with a Movie Camera,common,Dziga Vertov,1929,19549,['Documentary'],Ukraine,4.22157143587907,45,93,109,271,401,1429,1871,5047,3489,6796
+20,21,Rashomon,common,Akira Kurosawa,1950,57693,"['Crime', 'Drama', 'Mystery']",Japan,4.19571698472952,52,123,119,589,946,3972,6583,17260,12097,15952
+21,22,The 400 Blows,common,François Truffaut,1959,55995,['Drama'],France,4.26260380391106,40,107,74,438,700,3209,5746,16603,11439,17639
+22,23,Psycho,common,Alfred Hitchcock,1960,212051,"['Drama', 'Thriller', 'Horror']",USA,4.32717600954487,105,274,200,1367,1618,12427,16700,61932,40845,76583
+23,24,The Godfather: Part II,common,Francis Ford Coppola,1974,171354,"['Drama', 'Crime']",USA,4.5321293929526,123,245,147,983,994,6425,8154,31898,31421,90964
+24,25,Raging Bull,common,Martin Scorsese,1980,93948,"['Drama', 'Action']",USA,4.21105824498659,90,232,223,1098,1412,6266,10041,27858,19541,27195
+25,26,Some Like It Hot,common,Billy Wilder,1959,60479,"['Romance', 'Music', 'Comedy']",USA,4.13948643330743,51,117,153,732,1054,4909,7743,18844,11405,15471
+26,27,Andrei Rublev,common,Andrei Tarkovsky,1966,21053,"['History', 'Drama']",Russian Federation,4.37410345318957,55,75,49,238,300,1058,1589,4374,4241,9074
+27,28,City Lights,common,Charlie Chaplin,1931,40258,"['Drama', 'Romance', 'Comedy']",USA,4.29479854935665,33,62,67,264,443,2374,3891,11297,7956,13871
+28,29,La Dolce Vita,common,Federico Fellini,1960,30708,"['Drama', 'Comedy']",France,4.21579067344015,47,117,112,456,572,2310,3052,8113,5802,10127
+29,30,Mirror,common,Andrei Tarkovsky,1975,31197,"['Drama', 'History']",Russian Federation,4.29698368432862,72,141,133,490,601,1849,2761,6898,5747,12506
+30,31,Touch of Evil,common,Orson Welles,1958,30713,"['Crime', 'Thriller']",USA,4.09509002702439,25,66,104,362,612,2570,4233,9714,6455,6571
+31,32,Ordet,common,Carl Theodor Dreyer,1955,9498,['Drama'],Denmark,4.31843546009686,22,29,32,128,165,524,831,2072,1967,3728
+32,33,Lawrence of Arabia,common,David Lean,1962,55347,"['Adventure', 'War', 'Drama', 'History']",UK,4.26702440963376,87,252,137,793,869,3753,4951,13836,10738,19931
+33,34,Au Hasard Balthazar,common,Robert Bresson,1966,14168,['Drama'],France,4.03102060982496,49,137,117,405,471,1327,1786,3621,2408,3847
+34,35,Sunset Boulevard,common,Billy Wilder,1950,69582,['Drama'],USA,4.37136759506769,35,80,82,448,642,3194,5579,17595,15373,26556
+35,36,Casablanca,common,Michael Curtiz,1942,121344,"['Romance', 'Drama']",USA,4.25365077795359,152,389,273,1504,1573,9118,11611,32824,20917,42985
+36,37,Blade Runner,common,Ridley Scott,1982,268807,"['Drama', 'Science Fiction', 'Thriller']",USA,4.1126793573084,463,1556,1113,5995,6356,26232,29618,74684,41740,81051
+37,38,L'Avventura,common,Michelangelo Antonioni,1960,18355,"['Mystery', 'Drama']",Italy,4.02876600381368,37,98,108,381,520,1758,2622,5364,3279,4189
+39,40,The General,common,Buster Keaton,1926,27094,"['Comedy', 'Action', 'Adventure', 'War', 'Drama']",USA,4.1457887355134,24,66,68,313,469,2109,3483,8419,5122,7021
+40,41,Rear Window,common,Alfred Hitchcock,1954,142988,"['Mystery', 'Drama', 'Thriller']",USA,4.33602470137354,48,190,138,793,1143,7090,12157,40772,30115,50542
+41,42,In the Mood for Love,common,Wong Kar-wai,2000,86856,"['Drama', 'Romance']",China,4.35668808142212,106,156,164,783,1052,4189,7072,21175,18121,34038
+42,43,The Night of the Hunter,common,Charles Laughton,1955,41511,"['Thriller', 'Crime']",USA,4.22927657729277,43,101,95,515,770,2798,4483,10881,8784,13041
+43,44,Grand Illusion,common,Jean Renoir,1937,14775,"['Drama', 'History', 'War']",France,4.1595600676819,12,32,29,166,238,1106,1892,4497,2988,3815
+44,45,The Third Man,common,Carol Reed,1949,45847,"['Thriller', 'Mystery']",UK,4.21672083233363,36,68,97,416,699,3142,5257,13355,9235,13542
+45,46,Ugetsu,common,Kenji Mizoguchi,1953,14788,"['Drama', 'Fantasy', 'Mystery']",Japan,4.21125236678388,12,28,23,97,239,938,1794,4337,3250,4070
+46,47,PlayTime,common,Jacques Tati,1967,18164,['Comedy'],France,4.1434981281656,48,115,107,377,462,1398,2121,4621,3245,5670
+47,48,Modern Times,common,Charlie Chaplin,1936,53990,"['Comedy', 'Drama']",USA,4.24917577329135,44,87,64,460,557,3484,5329,16823,10440,16704
+48,49,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,common,Stanley Kubrick,1964,129134,"['Drama', 'Comedy', 'War']",UK,4.25534328681834,167,424,294,1540,1749,8530,12310,35107,26139,42876
+49,50,Fanny and Alexander,common,Ingmar Bergman,1982,18133,"['Fantasy', 'Mystery', 'Drama']",Sweden,4.34081508851266,26,46,47,208,247,1004,1452,4221,3748,7141
+50,51,Stalker,common,Andrei Tarkovsky,1979,62213,"['Science Fiction', 'Drama']",Russian Federation,4.40702907752399,151,265,249,738,858,2821,4011,12174,12176,28770
+51,52,Chinatown,common,Roman Polanski,1974,92134,"['Crime', 'Drama', 'Mystery', 'Thriller']",USA,4.22004905897931,114,236,206,955,1275,6253,9772,26950,19031,27342
+52,53,Barry Lyndon,common,Stanley Kubrick,1975,57112,"['War', 'Romance', 'Drama']",UK,4.28020381005743,76,184,154,794,903,3606,5311,13737,11814,20527
+53,54,Mulholland Drive,common,David Lynch,2001,152598,"['Thriller', 'Mystery', 'Drama']",France,4.19683744216831,625,1301,810,3420,2945,11632,13501,37079,26985,54300
+54,55,Pather Panchali,common,Satyajit Ray,1955,13137,['Drama'],India,4.30954555834665,26,40,36,142,202,711,1132,3185,2863,4800
+55,56,The Apartment,common,Billy Wilder,1960,54746,"['Comedy', 'Romance', 'Drama']",USA,4.3137580827823,32,63,60,388,512,2874,5002,15176,12184,18455
+56,57,Rio Bravo,common,Howard Hawks,1959,16358,"['Western', 'Drama']",USA,4.06149896075315,23,38,51,247,363,1618,2367,4969,3028,3654
+57,58,M,common,Fritz Lang,1931,45383,"['Crime', 'Action', 'Thriller', 'Drama']",Germany,4.2801709891369,26,87,79,365,493,2399,4447,13146,9969,14372
+58,59,North by Northwest,common,Alfred Hitchcock,1959,72171,"['Thriller', 'Mystery']",USA,4.14762854886312,35,112,128,632,946,5281,9422,24114,14786,16715
+59,60,Metropolis,common,Fritz Lang,1927,54425,"['Drama', 'Science Fiction']",Germany,4.20132292145154,90,209,176,778,913,4292,5381,15475,9738,17374
+60,61,Children of Paradise,common,Marcel Carné,1945,6164,"['Drama', 'Romance']",France,4.24878325762492,7,18,19,86,126,421,607,1502,1266,2112
+61,62,Wild Strawberries,common,Ingmar Bergman,1957,38599,['Drama'],Sweden,4.24451410658307,22,49,57,317,514,2290,4058,11500,8527,11265
+62,63,Viridiana,common,Luis Buñuel,1961,11768,['Drama'],Spain,4.05931339225017,14,38,51,174,252,1018,1678,3830,2303,2412
+63,64,Pierrot le Fou,common,Jean-Luc Godard,1965,26203,"['Thriller', 'Drama']",France,4.00116398885624,84,169,162,588,795,2577,3683,7898,4457,5791
+64,65,La Strada,common,Federico Fellini,1954,19307,['Drama'],Italy,4.06520950950432,19,57,61,278,433,1621,2739,6407,3704,3989
+65,66,Shoah,common,Claude Lanzmann,1985,4299,"['History', 'Documentary']",France,4.4873226331705,30,26,11,39,36,175,196,745,661,2380
+66,67,The Wild Bunch,common,Sam Peckinpah,1969,20957,"['Adventure', 'Western']",USA,4.01598511237295,34,91,107,405,622,2017,3138,6399,3641,4503
+67,68,Once Upon a Time in the West,common,Sergio Leone,1968,57165,['Western'],Italy,4.31718709000262,55,132,106,545,766,3289,4888,14037,12809,20541
+68,69,The Seventh Seal,common,Ingmar Bergman,1957,69236,"['Drama', 'Fantasy']",Sweden,4.2791394650182,90,175,170,733,988,4146,6514,18212,14531,23677
+69,70,GoodFellas,common,Martin Scorsese,1990,237527,"['Drama', 'Crime']",USA,4.41728940288894,153,349,215,1388,1659,10374,15691,59244,47465,100989
+70,71,Amarcord,common,Federico Fellini,1973,16159,"['Comedy', 'Drama']",Italy,4.04830125626586,28,71,73,329,415,1446,2221,4982,2976,3619
+71,72,Pulp Fiction,common,Quentin Tarantino,1994,487160,"['Crime', 'Thriller']",USA,4.36849700303802,854,2040,952,6032,4439,29901,29594,119743,78357,215248
+72,73,The Battle of Algiers,common,Gillo Pontecorvo,1966,18712,"['Drama', 'War', 'History']",Italy,4.26087537409149,18,26,40,153,250,1101,1835,5265,4404,5620
+73,74,The Leopard,common,Luchino Visconti,1963,9019,['Drama'],France,4.07999778245925,10,31,55,181,266,786,1198,2515,1698,2280
+75,76,The Gold Rush,common,Charlie Chaplin,1925,24672,"['Adventure', 'Comedy', 'Drama']",USA,4.07619974059663,24,27,64,253,400,2234,3622,8471,4482,5099
+77,78,Late Spring,common,Yasujirō Ozu,1949,14014,['Drama'],Japan,4.28350221207364,16,26,15,104,173,703,1418,3946,3178,4435
+79,80,A Clockwork Orange,common,Stanley Kubrick,1971,223360,"['Science Fiction', 'Drama']",UK,4.1764013252149,814,1819,818,4318,3705,17759,20678,61826,39179,72446
+80,81,It's a Wonderful Life,common,Frank Capra,1946,87113,"['Fantasy', 'Family', 'Drama']",USA,4.27183658007416,159,361,251,1268,1323,6335,7619,21684,15021,33094
+81,82,Close-Up,common,Abbas Kiarostami,1990,22469,"['Drama', 'Documentary', 'Crime']",Iran,4.33285860518937,25,43,52,213,267,1045,1974,5672,4988,8190
+83,84,"Jeanne Dielman, 23, Quai du Commerce 1080 Bruxelles",common,Chantal Akerman,1975,12588,['Drama'],Belgium,4.24360502065459,97,122,92,224,252,832,1017,2638,2301,5014
+84,85,Blue Velvet,common,David Lynch,1986,107449,"['Thriller', 'Crime', 'Mystery']",USA,4.07220169568819,225,596,453,2003,2349,9562,13746,33393,19423,25703
+85,86,The Conformist,common,Bernardo Bertolucci,1970,15437,['Drama'],Italy,4.10461877307767,17,48,70,252,337,1202,2076,4558,3268,3609
+86,87,Nashville,common,Robert Altman,1975,16912,"['Music', 'Comedy', 'Drama']",USA,4.10903500473037,55,120,111,447,519,1466,1878,4041,3057,5219
+87,88,Annie Hall,common,Woody Allen,1977,91248,"['Comedy', 'Drama', 'Romance']",USA,4.01071256356304,481,865,565,2284,2487,9147,11512,26445,15184,22278
+89,90,A Man Escaped,common,Robert Bresson,1956,16305,"['Drama', 'Thriller', 'War']",France,4.2621895124195,9,21,25,112,192,828,1606,4977,3900,4633
+90,91,The Shining,common,Stanley Kubrick,1980,373204,"['Horror', 'Thriller']",USA,4.31423296642051,550,1265,726,4631,4114,24384,27529,100131,62969,146905
+91,92,Jaws,common,Steven Spielberg,1975,212026,"['Thriller', 'Horror', 'Adventure']",USA,4.0673596634375,370,1178,685,4546,4214,24715,25603,62770,28384,59561
+92,93,Sansho the Bailiff,common,Kenji Mizoguchi,1954,9357,['Drama'],Japan,4.31511168109437,9,16,19,54,120,471,872,2442,2167,3187
+93,94,A Woman Under the Influence,common,John Cassavetes,1974,22672,['Drama'],USA,4.32065984474241,29,62,60,225,300,1212,1857,5558,5242,8127
+94,95,The Man Who Shot Liberty Valance,common,John Ford,1962,18986,['Western'],USA,4.1304645528284,17,38,43,212,329,1564,2538,5829,3825,4592
+95,96,Greed,common,Erich von Stroheim,1924,3484,"['Drama', 'Crime']",USA,4.06702066590126,9,21,19,73,104,327,439,942,652,898
+96,97,Sans Soleil,common,Chris Marker,1983,9804,['Documentary'],France,4.19002447980416,17,56,59,186,257,706,1019,2428,1730,3346
+97,98,Last Year at Marienbad,common,Alain Resnais,1961,15419,"['Drama', 'Romance']",France,4.05622932745314,87,151,128,472,473,1337,1732,3837,2802,4400
+99,100,Once Upon a Time in America,common,Sergio Leone,1984,46853,"['Drama', 'Crime']",USA,4.20730796320406,69,192,167,754,947,3357,4815,12172,9478,14902
+100,101,"Aguirre, the Wrath of God",common,Werner Herzog,1972,32287,"['Adventure', 'Drama', 'History']",Germany,4.09031498745625,60,141,150,540,745,2578,4353,9699,6290,7731
+101,102,To Be or Not to Be,common,Ernst Lubitsch,1942,13290,"['War', 'Comedy']",USA,4.21060948081264,9,28,17,99,152,785,1488,4198,3204,3310
+102,103,The Mother and the Whore,common,Jean Eustache,1973,3224,"['Drama', 'Romance', 'Comedy']",France,4.14361042183623,15,26,31,61,95,220,340,784,653,999
+103,104,The Spirit of the Beehive,common,Víctor Erice,1973,12279,"['Drama', 'Fantasy']",Spain,4.10273637918397,16,48,49,204,298,1019,1653,3506,2403,3083
+104,105,The Wizard of Oz,common,Victor Fleming,1939,105030,"['Adventure', 'Family', 'Fantasy']",USA,4.0040797867276,198,436,411,2166,2662,13172,14777,32382,12977,25850
+107,108,Satantango,common,Béla Tarr,1994,8180,['Drama'],Germany,4.41026894865526,48,64,48,119,137,355,458,1341,1493,4117
+108,109,L'Eclisse,common,Michelangelo Antonioni,1962,11763,"['Drama', 'Romance']",Italy,3.97674912862365,18,65,75,260,416,1266,1722,3481,2034,2426
+109,110,Hiroshima Mon Amour,common,Alain Resnais,1959,23584,"['Romance', 'Drama', 'History']",France,4.1157776458616,33,101,104,405,552,1911,2944,6781,4646,6107
+110,111,Alien,common,Ridley Scott,1979,252996,"['Science Fiction', 'Horror']",USA,4.31096341444134,179,534,370,2342,2370,16183,20903,70966,44909,94241
+111,112,Ikiru,common,Akira Kurosawa,1952,26707,['Drama'],Japan,4.40412625903321,18,42,31,178,286,1105,1986,6013,6211,10837
+112,113,"Sherlock, Jr.",common,Buster Keaton,1924,22862,"['Action', 'Comedy', 'Mystery']",USA,4.27112676056338,12,23,24,127,225,1289,2451,6751,4979,6982
+113,114,La Jetée,common,Chris Marker,1962,28337,"['Science Fiction', 'Romance']",France,4.25786074743269,30,63,76,259,380,1733,2682,8131,6070,8914
+115,116,Star Wars,common,George Lucas,1977,338271,"['Adventure', 'Action', 'Science Fiction']",USA,4.24140260323823,391,856,497,3373,3800,26989,31512,102336,52975,115542
+117,118,Beau Travail,common,Claire Denis,1999,10529,['Drama'],France,4.0396523886409,34,62,51,260,345,977,1384,2868,1983,2565
+119,120,One Flew Over the Cuckoo's Nest,common,Miloš Forman,1975,156629,['Drama'],USA,4.29422393043434,119,268,202,1142,1431,8471,13561,46700,34487,50248
+120,121,A Brighter Summer Day,common,Edward Yang,1991,14521,"['Drama', 'Romance', 'Crime']",Taiwan,4.46212382067351,10,32,25,106,146,560,880,2825,3214,6724
+121,122,The Earrings of Madame de...,common,Max Ophüls,1953,6530,"['Romance', 'Drama']",France,4.07725880551302,3,17,16,86,133,550,964,2099,1305,1357
+122,123,Yi Yi,common,Edward Yang,2000,23362,"['Romance', 'Drama']",Taiwan,4.42984333533088,27,64,51,157,274,925,1571,4696,5421,10177
+123,124,All About Eve,common,Joseph L. Mankiewicz,1950,31628,['Drama'],USA,4.25216580245352,26,52,45,253,404,1949,3240,9331,6624,9704
+125,126,Letter from an Unknown Woman,common,Max Ophüls,1948,5723,"['Drama', 'Romance']",USA,4.02367639349991,7,11,26,73,151,531,905,1826,1158,1035
+128,129,"Rome, Open City",common,Roberto Rossellini,1945,14077,"['History', 'Drama']",Italy,4.10094480358031,16,31,31,150,233,1097,1951,4771,2885,2915
+129,130,The Young and the Damned,common,Luis Buñuel,1950,10460,"['Drama', 'Crime']",Mexico,4.19694072657744,8,24,20,86,142,628,1267,3285,2287,2713
+131,132,Badlands,common,Terrence Malick,1973,45172,['Crime'],USA,4.04749623660675,39,110,120,624,985,4119,6937,14714,8598,8926
+132,133,Vivre Sa Vie,common,Jean-Luc Godard,1962,25296,['Drama'],France,4.02767235926629,42,62,67,372,556,2419,3951,8397,4534,4898
+133,134,Rosemary's Baby,common,Roman Polanski,1968,109027,"['Mystery', 'Drama', 'Horror']",USA,4.16309721445147,196,442,299,1610,1706,8351,11447,33344,22494,29140
+134,135,Notorious,common,Alfred Hitchcock,1946,27940,"['Drama', 'Thriller', 'Romance']",USA,4.0352183249821,16,46,55,334,544,2606,4605,9528,4996,5210
+136,137,Do the Right Thing,common,Spike Lee,1989,89026,['Drama'],USA,4.34036685911981,96,193,191,755,924,4497,7124,22686,19822,32738
+138,139,"The Good, the Bad and the Ugly",common,Sergio Leone,1966,106677,['Western'],USA,4.40903381234943,60,178,126,736,869,5126,7358,24737,22426,45061
+140,141,Ali: Fear Eats the Soul,common,Rainer Werner Fassbinder,1974,16502,"['Drama', 'Romance']",Germany,4.12807538480184,13,40,36,197,241,1093,2103,5692,3636,3451
+141,142,His Girl Friday,common,Howard Hawks,1940,27033,"['Comedy', 'Drama', 'Romance']",USA,4.00656604890319,28,74,88,468,657,2846,4228,8746,4598,5300
+145,146,The Gospel According to Matthew,common,Pier Paolo Pasolini,1964,5543,"['History', 'Drama']",Italy,3.96860905646762,20,29,33,130,210,585,813,1607,968,1148
+146,147,A Matter of Life and Death,common,Emeric Pressburger,1946,10947,"['Comedy', 'Fantasy', 'Romance', 'Drama']",UK,4.19452818123687,10,14,33,99,179,745,1297,3236,2380,2955
+147,148,Double Indemnity,common,Billy Wilder,1944,44782,"['Crime', 'Thriller', 'Mystery', 'Drama']",USA,4.1883345987227,28,61,71,353,609,2997,5331,14364,9597,11372
+148,149,Trouble in Paradise,common,Ernst Lubitsch,1932,7016,"['Romance', 'Crime', 'Comedy']",USA,4.06984036488027,8,12,25,74,146,627,1099,2199,1332,1494
+149,150,Come and See,common,Elem Klimov,1985,40811,"['Drama', 'War', 'History']",Belarus,4.57556786160594,50,94,85,224,313,942,1707,6276,8506,22615
+151,152,Brief Encounter,common,David Lean,1945,19043,"['Romance', 'Drama']",UK,4.22756393425406,14,32,31,202,277,1244,2083,5383,4232,5545
+152,153,On the Waterfront,common,Elia Kazan,1954,36367,"['Crime', 'Drama']",USA,4.12541589902934,30,76,92,405,631,2851,4641,11816,7546,8279
+153,154,The Conversation,common,Francis Ford Coppola,1974,47343,"['Mystery', 'Drama', 'Crime']",USA,4.11203345795577,43,144,123,597,816,3549,6396,15153,10326,10196
+154,155,Days of Heaven,common,Terrence Malick,1978,35232,"['Drama', 'Romance']",USA,4.07058923705722,38,97,137,540,842,3075,5173,10608,6928,7794
+155,156,Histoire(s) du cinéma,common,Jean-Luc Godard,1988,1339,['Documentary'],Switzerland,4.14936519790889,15,28,9,43,32,90,117,253,221,531
+156,157,The Exterminating Angel,common,Luis Buñuel,1962,17166,"['Fantasy', 'Drama', 'Comedy']",Mexico,4.13424793195852,19,32,42,201,305,1212,2253,5514,3636,3952
+157,158,Cries and Whispers,common,Ingmar Bergman,1972,20170,['Drama'],Sweden,4.13956370847794,35,87,94,359,426,1580,2290,5697,4173,5429
+158,159,The Red Shoes,common,Emeric Pressburger,1948,23249,"['Drama', 'Romance']",UK,4.29495892296443,21,56,42,236,325,1413,2205,5828,4888,8235
+159,160,Chimes at Midnight,common,Orson Welles,1965,5778,"['Drama', 'History', 'Comedy']",Switzerland,3.98684665974386,15,24,35,141,154,604,855,1747,1045,1158
+160,161,The Discreet Charm of the Bourgeoisie,common,Luis Buñuel,1972,21084,['Comedy'],France,3.96812749003984,35,83,99,402,618,2153,3391,6955,3643,3705
+163,164,L'Argent,common,Robert Bresson,1983,9053,"['Drama', 'Crime', 'Thriller']",France,3.96178062520711,15,53,65,201,315,970,1409,2678,1540,1807
+164,165,Black Narcissus,common,Emeric Pressburger,1947,14813,['Drama'],UK,4.0350705461419,12,46,65,229,382,1320,2343,4606,2851,2959
+165,166,There Will Be Blood,common,Paul Thomas Anderson,2007,189689,['Drama'],USA,4.39645683197233,210,594,348,2056,1960,9491,12433,41956,38582,82059
+167,168,The Deer Hunter,common,Michael Cimino,1978,53459,"['War', 'Drama']",UK,4.07566546325221,88,191,239,952,1197,4409,6850,17089,10774,11670
+169,170,The Umbrellas of Cherbourg,common,Jacques Demy,1964,25885,"['Romance', 'Drama']",France,4.09474599188719,32,107,112,405,586,2349,3449,7450,4944,6452
+170,171,Rocco and His Brothers,common,Luchino Visconti,1960,7179,"['Drama', 'Crime']",Italy,4.21145006268282,6,18,18,83,137,447,744,2071,1703,1957
+171,172,Spirited Away,common,Hayao Miyazaki,2001,317442,"['Fantasy', 'Animation', 'Family']",Japan,4.46759250508754,331,655,362,2061,2191,12983,18002,71499,55007,154351
+172,173,The Great Dictator,common,Charlie Chaplin,1940,40398,['Comedy'],USA,4.22249863854646,39,86,85,336,534,2552,4305,12391,8604,11467
+174,175,Mouchette,common,Robert Bresson,1967,7291,['Drama'],France,3.97298038677822,10,39,32,120,224,782,1131,2362,1265,1326
+175,176,Napoleon,common,Abel Gance,1927,3344,"['War', 'History', 'Drama']",France,4.25478468899522,12,14,16,50,58,234,302,799,622,1237
+176,177,Imitation of Life,common,Douglas Sirk,1959,7194,"['Romance', 'Drama']",USA,3.97699471782041,12,23,34,126,197,766,1176,2301,1254,1305
+177,178,The Grapes of Wrath,common,John Ford,1940,16301,['Drama'],USA,4.0201828108705,22,70,53,247,405,1647,2399,5301,2941,3218
+178,179,The Last Laugh,common,F.W. Murnau,1924,7151,['Drama'],Germany,3.99895119563697,10,30,33,130,200,727,1121,2182,1371,1350
+179,180,Night and Fog,common,Alain Resnais,1956,11527,"['War', 'History', 'Documentary']",France,4.36366791012406,6,15,14,50,106,537,885,3187,2391,4336
+180,181,Dekalog,common,Unknown,1989,7820,['Drama'],Poland,4.56106138107417,19,11,13,38,41,205,355,1276,1645,4217
+182,183,A City of Sadness,common,Hou Hsiao-hsien,1989,3299,['Drama'],Hong Kong,4.093664746893,4,12,16,48,58,286,450,1014,636,775
+183,184,Brazil,common,Terry Gilliam,1985,63334,"['Comedy', 'Science Fiction']",UK,4.05478889695898,147,432,374,1466,1734,5732,8112,18091,11419,15827
+184,185,Out of the Past,common,Jacques Tourneur,1947,13869,"['Thriller', 'Drama', 'Romance', 'Crime']",USA,4.08446895955008,7,24,22,134,283,1114,2054,4663,2823,2745
+185,186,The Life and Death of Colonel Blimp,common,Emeric Pressburger,1943,7140,"['Drama', 'Romance', 'War']",UK,4.22352941176471,10,15,22,75,142,484,777,1886,1535,2195
+186,187,Kes,common,Ken Loach,1969,10539,['Drama'],UK,4.08368915456874,16,37,32,136,180,813,1465,3597,2113,2152
+187,188,Raiders of the Lost Ark,common,Steven Spielberg,1981,212347,"['Adventure', 'Action']",USA,4.20324986931767,203,485,393,2323,3012,17642,22411,64517,34094,67268
+188,189,Umberto D.,common,Vittorio De Sica,1952,11574,['Drama'],Italy,4.17280110592708,10,18,13,121,193,790,1415,3588,2551,2875
+189,190,Fargo,common,Joel Coen,1996,207162,"['Drama', 'Crime', 'Thriller']",UK,4.22503161776774,189,477,356,1974,2341,13278,21156,66219,40512,60660
+191,192,Chungking Express,common,Wong Kar-wai,1994,65512,"['Romance', 'Comedy', 'Drama']",Hong Kong,4.24889333251923,86,117,144,603,875,3785,6873,18848,14247,19934
+193,194,Solaris,common,Andrei Tarkovsky,1972,44031,"['Drama', 'Mystery', 'Science Fiction']",Russian Federation,4.19419272785083,72,197,173,743,885,2865,4409,11939,10078,12670
+194,195,The Travelling Players,common,Theo Angelopoulos,1975,1477,"['War', 'Drama', 'History']",Greece,4.11509817197021,5,9,14,33,46,112,170,372,269,447
+195,196,Belle de Jour,common,Luis Buñuel,1967,22199,"['Romance', 'Drama']",France,3.97522410919411,33,54,69,331,534,2140,3711,8110,3787,3437
+198,199,Céline and Julie Go Boating,common,Jacques Rivette,1974,5021,"['Comedy', 'Fantasy', 'Drama']",France,4.14897430790679,17,47,45,117,158,395,536,1007,1008,1691
+200,201,Sweet Smell of Success,common,Alexander Mackendrick,1957,15114,['Drama'],USA,4.19700277888051,10,16,36,140,225,1009,1753,4462,3619,3844
+202,203,Breaking the Waves,common,Lars von Trier,1996,18905,"['Romance', 'Drama']",Denmark,4.00248611478445,100,148,135,446,473,1625,2581,5833,3787,3782
+203,204,The Cabinet of Dr. Caligari,common,Robert Wiene,1920,43844,"['Thriller', 'Crime', 'Drama', 'Horror']",Germany,4.04362056381717,41,142,163,695,952,4403,6039,14954,6650,9805
+204,205,Le Samouraï,common,Jean-Pierre Melville,1967,32663,"['Crime', 'Thriller']",France,4.17714233230261,20,64,69,301,478,2093,3936,10414,7375,7913
+207,208,Unforgiven,common,Clint Eastwood,1992,61929,['Western'],USA,4.09003859258183,61,159,153,794,1173,5209,8343,20462,12416,13161
+208,209,The Best Years of Our Lives,common,William Wyler,1946,11169,"['Romance', 'Drama', 'War']",USA,4.14907332796132,11,13,32,145,195,801,1487,3317,2427,2740
+209,210,Nights of Cabiria,common,Federico Fellini,1957,16867,['Drama'],Italy,4.27153613564949,8,28,36,142,210,874,1624,4855,4046,5044
+210,211,"Black God, White Devil",common,Glauber Rocha,1964,4748,"['Adventure', 'Western', 'Drama', 'Crime']",Brazil,4.07655855096883,20,30,52,126,134,434,551,1219,762,1423
+211,212,McCabe & Mrs. Miller,common,Robert Altman,1971,14342,['Western'],USA,4.09925393947846,16,40,61,273,359,1235,1888,4017,2875,3578
+212,213,Ran,common,Akira Kurosawa,1985,34824,"['Drama', 'History', 'Action']",Japan,4.35897656788422,27,71,65,261,394,1513,2790,8746,7940,13018
+213,214,Caché,common,Michael Haneke,2005,32591,"['Mystery', 'Drama', 'Thriller']",Austria,3.96923997422601,94,191,160,684,873,3136,5152,10533,6158,5610
+214,215,Ashes and Diamonds,common,Andrzej Wajda,1958,6288,"['Drama', 'Romance', 'War']",Poland,4.00461195928753,2,12,19,101,164,576,1084,2088,1193,1057
+215,216,The Graduate,common,Mike Nichols,1967,98000,"['Comedy', 'Drama']",USA,4.06893367346939,137,400,329,1650,1976,9365,12824,31183,17675,22461
+216,217,The Exorcist,common,William Friedkin,1973,131183,['Horror'],USA,4.02413041323952,280,757,565,2895,3075,14847,17039,40727,18800,32198
+218,219,The Thin Red Line,common,Terrence Malick,1998,48509,"['War', 'Drama', 'History']",Canada,3.98202395431776,128,344,257,1343,1441,5356,6659,13992,8461,10533
+220,221,Wings of Desire,common,Wim Wenders,1987,29957,"['Romance', 'Fantasy', 'Drama']",Germany,3.99107053443269,47,120,142,421,581,1964,2949,7591,6106,8571
+222,223,My Neighbor Totoro,common,Hayao Miyazaki,1988,182642,"['Family', 'Fantasy', 'Animation']",Japan,4.18811116829645,146,341,339,1726,2558,14336,21662,57575,29569,54394
+223,224,Kind Hearts and Coronets,common,Robert Hamer,1949,7502,"['Comedy', 'Drama']",UK,4.00113303119168,4,18,27,103,137,693,1281,2673,1364,1203
+224,225,Schindler's List,common,Steven Spielberg,1993,182343,"['War', 'Drama', 'History']",USA,4.41368739134488,232,409,302,1418,1477,8325,11094,44278,35315,79493
+225,226,The Big Lebowski,common,Joel Coen,1998,231981,"['Crime', 'Comedy']",UK,4.14143615209866,427,1188,793,4089,4202,19759,26045,68709,39350,67423
+226,227,Eternal Sunshine of the Spotless Mind,common,Michel Gondry,2004,323205,"['Drama', 'Romance', 'Science Fiction']",USA,4.20874212960814,570,1654,959,5404,4612,25821,30041,91333,54845,107966
+227,228,"Ivan the Terrible, Part II: The Boyars' Plot",common,Sergei Eisenstein,1958,2887,"['Drama', 'History']",Russian Federation,3.95514374783512,0,10,10,65,110,355,458,853,443,583
+228,229,Tropical Malady,common,Apichatpong Weerasethakul,2004,6311,"['Drama', 'Romance', 'Fantasy']",Thailand,4.04729836792901,13,39,46,147,195,584,808,1697,1263,1519
+229,230,"Paris, Texas",common,Wim Wenders,1984,60931,['Drama'],France,4.33149792388111,63,148,139,589,756,3031,5105,15234,13520,22346
+230,231,Paths of Glory,common,Stanley Kubrick,1957,56517,"['Drama', 'War']",USA,4.34761222287099,19,57,53,233,387,2203,4529,15756,15500,17780
+231,232,Germany Year Zero,common,Roberto Rossellini,1948,6645,"['Drama', 'War']",Germany,3.95086531226486,2,18,17,102,153,724,1231,2295,1126,979
+232,233,Only Angels Have Wings,common,Howard Hawks,1939,8553,"['Adventure', 'Romance', 'Drama']",USA,4.04787793756577,4,21,31,119,224,868,1381,2416,1585,1904
+233,234,Diary of a Country Priest,common,Robert Bresson,1951,7456,['Drama'],France,4.00368830472103,13,22,41,160,223,753,1122,2284,1276,1564
+234,235,The Treasure of the Sierra Madre,common,John Huston,1948,22875,"['Adventure', 'Drama', 'Western']",USA,4.18262295081967,13,26,39,196,336,1509,2756,7250,5137,5613
+236,237,Sullivan's Travels,common,Preston Sturges,1941,12471,"['Romance', 'Comedy', 'Adventure']",USA,3.99546948921498,4,30,33,189,342,1216,2173,4052,2217,2215
+239,240,F for Fake,common,Orson Welles,1973,17014,['Documentary'],Germany,4.07487951099095,27,48,61,284,406,1429,2535,5079,3213,3932
+240,241,Night of the Living Dead,common,George A. Romero,1968,64132,['Horror'],USA,3.99385642113142,64,217,266,1161,1547,7175,9911,21261,9222,13308
+242,243,The Crowd,common,King Vidor,1928,3389,['Drama'],USA,4.08778400708174,4,2,12,50,68,321,492,998,671,773
+243,244,La Notte,common,Michelangelo Antonioni,1961,13513,['Drama'],Italy,4.20099163768223,15,31,35,140,219,866,1564,3947,2981,3715
+245,246,Johnny Guitar,common,Nicholas Ray,1954,10557,"['Western', 'Drama']",USA,4.05830254807237,9,31,38,159,255,1000,1596,3181,1909,2379
+247,248,Cléo from 5 to 7,common,Agnès Varda,1962,33136,"['Comedy', 'Drama']",France,4.16444350555287,19,50,57,256,449,2074,4118,11270,7433,7410
+248,249,The Color of Pomegranates,common,Sergei Parajanov,1969,9419,"['History', 'Drama']",Armenia,4.07559188873553,43,66,81,218,272,838,1057,2534,1673,2637
+251,252,The Executioner,common,Luis García Berlanga,1963,3323,"['Comedy', 'Drama']",Spain,3.95937405958471,3,7,12,40,82,302,633,1233,536,476
+252,253,The Shop Around the Corner,common,Ernst Lubitsch,1940,12032,"['Comedy', 'Romance']",USA,4.08701795212766,4,16,24,95,189,1009,1839,4126,2318,2412
+253,254,The Thing,common,John Carpenter,1982,159051,"['Science Fiction', 'Horror', 'Mystery']",USA,4.29883496488548,136,365,278,1569,1858,9765,14526,42957,29696,57901
+254,255,The Life of Oharu,common,Kenji Mizoguchi,1952,4051,['Drama'],Japan,4.1468773142434,2,5,4,36,84,300,519,1269,895,937
+255,256,Magnolia,common,Paul Thomas Anderson,1999,102374,['Drama'],USA,4.14117842420927,279,613,427,2002,2076,8124,10953,28585,20521,28794
+257,258,Floating Clouds,common,Mikio Naruse,1955,2077,"['Romance', 'Drama']",Japan,3.96605681271064,0,9,8,40,60,226,338,681,367,350
+258,259,The Thin Blue Line,common,Errol Morris,1988,17367,"['Documentary', 'Mystery', 'Crime']",USA,4.03385731559855,7,28,42,196,365,1598,2593,6309,3187,3042
+263,264,Meshes of the Afternoon,common,Maya Deren,1943,16282,"['Fantasy', 'Mystery']",USA,4.16938950988822,43,87,76,239,325,1152,1717,4887,2841,4915
+264,265,In a Lonely Place,common,Nicholas Ray,1950,18464,"['Mystery', 'Thriller']",USA,4.16274913344887,10,24,28,139,268,1237,2421,5962,4131,4244
+265,266,"Distant Voices, Still Lives",common,Terence Davies,1988,3163,"['Drama', 'Music']",UK,3.99794498893456,8,17,25,74,99,305,490,856,615,674
+267,268,Kings of the Road,common,Wim Wenders,1976,3012,['Drama'],Germany,3.94787516600266,6,11,8,59,107,326,481,972,560,482
+269,270,Beauty and the Beast,common,Jean Cocteau,1946,13010,"['Romance', 'Drama', 'Fantasy']",France,4.04269792467333,10,40,36,215,320,1219,1947,4195,2250,2778
+271,272,Three Colors: Red,common,Krzysztof Kieślowski,1994,35138,"['Romance', 'Mystery', 'Drama']",France,4.2329671580625,21,73,52,286,450,2216,3580,10593,8011,9856
+272,273,Throne of Blood,common,Akira Kurosawa,1957,24896,"['Drama', 'History']",Japan,4.18354354113111,14,22,41,173,265,1405,2968,8588,6001,5419
+273,274,My Night at Maud's,common,Éric Rohmer,1969,8383,"['Comedy', 'Romance', 'Drama']",France,4.08869139926041,6,16,18,107,160,671,1195,2679,1902,1629
+274,275,Love Streams,common,John Cassavetes,1984,5711,['Drama'],USA,4.12423393451234,8,23,24,108,150,434,674,1621,1181,1488
+275,276,The Wages of Fear,common,Henri-Georges Clouzot,1953,13598,"['Drama', 'Adventure', 'Thriller']",France,4.23205618473305,16,31,34,104,190,725,1449,3940,3554,3555
+276,277,Day of Wrath,common,Carl Theodor Dreyer,1943,5243,"['Drama', 'Romance']",Denmark,4.14047301163456,1,6,7,62,89,382,704,1672,1146,1178
+278,279,Peeping Tom,common,Michael Powell,1960,19584,"['Thriller', 'Drama', 'Horror']",UK,3.96045241013072,18,67,64,312,504,1983,3411,6746,3522,2957
+279,280,Cinema Paradiso,common,Giuseppe Tornatore,1988,56769,"['Drama', 'Romance']",Italy,4.30117669855027,72,166,154,604,821,3259,5080,14594,11096,20923
+281,282,The Empire Strikes Back,common,Irvin Kershner,1980,314324,"['Science Fiction', 'Adventure', 'Action']",USA,4.41998861047836,266,551,319,2259,2404,17796,19990,73826,51208,145705
+283,284,Three Colors: Blue,common,Krzysztof Kieślowski,1993,47163,['Drama'],France,4.11453893942285,48,113,104,562,779,3712,6299,15553,9380,10617
+284,285,The Matrix,common,Lilly Wachowski,1999,313127,"['Science Fiction', 'Action']",Australia,4.13317599568226,410,1389,954,5198,5109,29411,33839,97768,49992,89062
+285,286,This Is Spinal Tap,common,Rob Reiner,1984,50317,"['Music', 'Comedy']",USA,3.94439255122523,64,197,207,1052,1389,5829,8357,17006,6973,9243
+287,288,Crimes and Misdemeanors,common,Woody Allen,1989,18651,"['Comedy', 'Drama']",USA,3.96335317141172,43,87,78,311,492,2054,3048,5968,3418,3152
+289,290,The Big Sleep,common,Howard Hawks,1946,22885,"['Thriller', 'Mystery', 'Crime']",USA,3.95523268516496,23,55,65,373,608,2538,3880,8033,3581,3729
+290,291,Daisies,common,Věra Chytilová,1966,19262,"['Comedy', 'Fantasy']",Czechoslovakia,3.96781227286886,88,155,136,467,600,1988,2951,5565,3043,4269
+291,292,The Kid,common,Charlie Chaplin,1921,29676,"['Comedy', 'Drama']",USA,4.12872354764793,16,37,43,236,376,2179,4081,10539,5648,6522
+293,294,Where Is My Friend's House?,common,Abbas Kiarostami,1987,11938,['Drama'],Iran,4.19672474451332,9,25,25,73,139,618,1468,4015,2684,2882
+294,295,An Autumn Afternoon,common,Yasujirō Ozu,1962,7226,['Drama'],Japan,4.20391641295322,2,12,9,54,82,468,787,2324,1743,1748
+295,296,Dawn of the Dead,common,George A. Romero,1978,43738,['Horror'],Italy,3.97036901550139,83,213,203,981,1280,5297,6452,13582,6202,9445
+296,297,Make Way for Tomorrow,common,Leo McCarey,1937,5126,['Drama'],USA,4.19605930550137,4,17,19,53,92,332,604,1417,1215,1376
+297,298,Underground,common,Emir Kusturica,1995,7348,"['Drama', 'War', 'Comedy']",Bulgaria,4.14459716929777,23,31,36,133,158,489,848,2131,1524,1976
+300,301,Killer of Sheep,common,Charles Burnett,1978,6216,['Drama'],USA,3.96702059202059,11,47,45,154,197,659,935,1864,974,1330
+302,303,City of God,common,Fernando Meirelles,2002,119753,"['Crime', 'Drama']",Brazil,4.36875485374062,111,240,166,835,1090,5184,8738,31308,27080,45001
+303,304,Red Desert,common,Michelangelo Antonioni,1964,10541,['Drama'],France,3.96959491509344,20,47,64,287,351,1127,1493,3172,1911,2069
+304,305,The Music Room,common,Satyajit Ray,1958,3529,"['Drama', 'Music']",India,4.06007367526211,9,16,17,48,84,267,500,1142,746,700
+305,306,Back to the Future,common,Robert Zemeckis,1985,301001,"['Family', 'Adventure', 'Comedy', 'Science Fiction']",USA,4.22752249992525,202,675,482,3286,3574,26297,29923,89717,42474,104372
+307,308,The Last Picture Show,common,Peter Bogdanovich,1971,20498,['Drama'],USA,4.10876670894721,32,74,52,305,410,1587,2695,6326,4328,4689
+308,309,All About My Mother,common,Pedro Almodóvar,1999,36107,"['Comedy', 'Drama']",Spain,4.05422771207799,55,133,118,446,755,3009,5277,12626,6353,7336
+311,312,The World of Apu,common,Satyajit Ray,1959,6121,['Drama'],India,4.3301748080379,6,9,8,34,73,312,519,1586,1502,2075
+312,313,The Bride of Frankenstein,common,James Whale,1935,22709,['Horror'],USA,4.00502003610903,22,75,89,421,649,2746,3488,6607,3336,5276
+314,315,Reservoir Dogs,common,Quentin Tarantino,1992,260890,"['Crime', 'Thriller']",USA,4.14382690022615,280,717,567,2973,3292,19553,29648,90677,51701,61482
+315,316,Midnight Cowboy,common,John Schlesinger,1969,33818,['Drama'],USA,3.98475663847655,51,110,120,543,759,3279,5463,12008,5944,5544
+316,317,The Sacrifice,common,Andrei Tarkovsky,1986,16974,['Drama'],Sweden,4.23880640980323,30,74,69,256,328,989,1617,4424,3665,5522
+317,318,Dog Day Afternoon,common,Sidney Lumet,1975,64745,"['Drama', 'Thriller', 'Crime']",USA,4.19497258475558,19,96,76,410,585,3841,7583,22098,15078,14959
+318,319,The Time to Live and the Time to Die,common,Hou Hsiao-hsien,1985,2639,['Drama'],Taiwan,3.98635846911709,1,5,11,37,69,276,432,880,497,431
+319,320,Entranced Earth,common,Glauber Rocha,1967,3382,"['Drama', 'Thriller']",Brazil,4.12078651685393,10,26,35,87,100,264,363,837,563,1097
+321,322,It Happened One Night,common,Frank Capra,1934,25087,"['Comedy', 'Romance']",USA,4.0754574082194,16,33,51,292,459,2153,3742,8455,4828,5058
+323,324,Kiss Me Deadly,common,Robert Aldrich,1955,9335,"['Thriller', 'Mystery']",USA,3.9485270487413,10,34,44,207,297,1000,1585,2935,1639,1587
+324,325,Harold and Maude,common,Hal Ashby,1971,38110,"['Romance', 'Drama', 'Comedy']",USA,4.03768039884545,89,206,178,827,1028,3436,5291,11777,6380,8898
+325,326,A Touch of Zen,common,King Hu,1971,5019,"['Adventure', 'Action']",Hong Kong,4.05688384140267,5,13,18,87,129,461,740,1478,1005,1083
+326,327,The Quince Tree Sun,common,Víctor Erice,1992,942,['Documentary'],Spain,4.09023354564756,2,4,6,15,24,86,104,271,214,216
+328,329,The Philadelphia Story,common,George Cukor,1940,20777,"['Comedy', 'Romance']",USA,3.96859508109929,23,70,84,364,551,2330,3522,6693,3303,3838
+330,331,Berlin Alexanderplatz,common,Rainer Werner Fassbinder,1980,2013,"['Crime', 'Drama', 'TV Movie']",Germany,4.27098857426726,9,13,9,18,44,123,153,507,394,743
+331,332,The House Is Black,common,Forugh Farrokhzad,1963,3870,['Documentary'],Iran,4.10374677002584,3,11,17,58,83,349,453,1224,737,935
+333,334,Aliens,common,James Cameron,1986,146018,"['Thriller', 'Science Fiction', 'Action']",USA,4.14079770987139,167,389,437,2257,2708,12550,16949,44297,26531,39734
+334,335,Heat,common,Michael Mann,1995,106949,"['Drama', 'Thriller', 'Crime', 'Action']",USA,4.14150669945488,102,257,264,1376,1921,8595,13207,32831,21344,27058
+336,337,To Kill a Mockingbird,common,Robert Mulligan,1962,63005,"['Crime', 'Drama']",USA,4.02361717324022,77,171,202,943,1290,6447,9276,21752,10401,12453
+338,339,Orpheus,common,Jean Cocteau,1950,7252,"['Fantasy', 'Romance', 'Drama']",France,4.06315499172642,9,12,26,106,161,617,1018,2445,1386,1473
+339,340,"I Was Born, But...",common,Yasujirō Ozu,1932,4173,"['Drama', 'Comedy']",Japan,3.9920920201294,2,9,7,37,86,393,731,1567,722,619
+340,341,Amadeus,common,Miloš Forman,1984,78084,"['Drama', 'History', 'Music']",USA,4.19779980533784,82,219,161,999,1215,6032,8521,22475,14951,23429
+341,342,Tie Xi Qu: West of the Tracks,common,Wang Bing,2002,949,['Documentary'],Netherlands,4.36986301369863,5,3,2,13,16,45,67,185,204,409
+342,343,Happy Together,common,Wong Kar-wai,1997,22663,"['Drama', 'Romance']",Argentina,4.12723381723514,20,48,52,224,383,1636,3027,7616,4515,5142
+343,344,The Innocents,common,Jack Clayton,1961,14418,"['Horror', 'Thriller', 'History']",UK,4.06467609932029,7,28,50,164,280,1241,2105,4868,2935,2740
+345,346,I Am Cuba,common,Mikhail Kalatozov,1964,5686,['Drama'],Cuba,4.25474850510025,11,17,12,55,82,325,596,1497,1354,1739
+347,348,The Green Ray,common,Éric Rohmer,1986,8403,"['Romance', 'Drama']",France,4.10323693918838,17,39,27,115,161,658,1158,2522,1772,1934
+349,350,The Silence of the Lambs,common,Jonathan Demme,1991,323619,"['Thriller', 'Horror', 'Drama', 'Crime']",USA,4.32194648645475,181,466,311,2113,2353,17879,25070,98248,63693,113308
+353,354,Suspiria,common,Dario Argento,1977,93075,['Horror'],Italy,3.95884501745904,220,494,545,2150,2897,10593,14466,28434,14061,19217
+354,355,Dogville,common,Lars von Trier,2003,38581,"['Drama', 'Crime', 'Thriller']",Denmark,4.05129467872787,232,431,279,956,964,3121,4266,11137,7603,9592
+358,359,Brokeback Mountain,common,Ang Lee,2005,119738,"['Romance', 'Drama']",Canada,4.02070771183751,350,654,458,2313,2436,12931,16109,38967,18896,26625
+364,365,The Elephant Man,common,David Lynch,1980,55195,"['Drama', 'History']",UK,4.10400398586828,43,146,110,577,790,4334,7136,19721,10986,11352
+366,367,Werckmeister Harmonies,common,Béla Tarr,2000,9140,['Drama'],Hungary,4.28626914660832,27,50,49,159,174,534,715,1953,2050,3429
+367,368,High and Low,common,Akira Kurosawa,1963,21740,"['Crime', 'Mystery', 'Drama', 'Thriller']",Japan,4.4593146274149,5,15,10,67,113,586,1291,4988,6114,8551
+368,369,Through the Olive Trees,common,Abbas Kiarostami,1994,5473,['Drama'],Iran,4.06733053170108,11,15,22,60,113,404,795,1895,1120,1038
+371,372,The Young Girls of Rochefort,common,Jacques Demy,1967,12157,"['Comedy', 'Romance', 'Drama']",France,4.21604836719585,8,19,33,141,225,824,1359,3323,2626,3600
+374,375,A Separation,common,Asghar Farhadi,2011,43895,['Drama'],Iran,4.2504043740745,68,107,99,338,494,2274,4187,13186,11139,12005
+377,378,The Turin Horse,common,Béla Tarr,2011,11284,['Drama'],Hungary,4.12079049982276,77,146,74,269,295,791,1086,2855,2302,3395
+379,380,Él,common,Luis Buñuel,1953,2129,"['Drama', 'Romance', 'Thriller']",Mexico,3.94762799436355,0,3,7,29,50,207,375,849,333,276
+380,381,WALL·E,common,Andrew Stanton,2008,291256,"['Family', 'Animation', 'Science Fiction']",USA,4.12718192929931,506,1364,807,5048,4555,27761,31296,91334,46649,81936
+382,383,Woman in the Dunes,common,Hiroshi Teshigahara,1964,12937,"['Drama', 'Thriller']",Japan,4.36584988791837,20,25,19,91,111,519,926,3290,3360,4576
+385,386,The Bridge on the River Kwai,common,David Lean,1957,27001,"['Drama', 'War', 'History']",UK,4.12499537054183,19,44,57,269,381,1992,3564,9187,5787,5702
+387,388,The Gleaners and I,common,Agnès Varda,2000,7604,['Documentary'],France,4.03537611783272,16,28,27,112,127,625,1171,2704,1385,1409
+388,389,Network,common,Sidney Lumet,1976,44955,['Drama'],USA,4.16668891113336,41,98,114,528,789,3278,5347,13490,9726,11544
+389,390,Mon Oncle,common,Jacques Tati,1958,11089,['Comedy'],France,3.98994499053116,11,52,46,230,265,1107,1713,3693,1906,2066
+390,391,Nostalgia,common,Andrei Tarkovsky,1983,16138,"['Romance', 'Drama']",USSR,4.18775560788202,27,58,59,223,351,1062,1745,4544,3432,4637
+391,392,Dont Look Back,common,D. A. Pennebaker,1967,6491,"['Documentary', 'Music']",USA,4.04937605915884,2,20,17,79,125,611,963,2274,1064,1336
+392,393,The King of Comedy,common,Martin Scorsese,1982,68094,"['Comedy', 'Drama']",USA,4.14104032660734,27,103,100,462,740,4068,8929,24660,16362,12643
+393,394,Army of Shadows,common,Jean-Pierre Melville,1969,12617,"['Drama', 'War', 'Thriller']",France,4.26428628041531,10,24,18,113,186,704,1227,3505,3052,3779
+395,396,The Celebration,common,Thomas Vinterberg,1998,15859,['Drama'],Denmark,4.09007503625702,29,63,64,189,272,1022,2084,5534,3746,2856
+397,398,The White Ribbon,common,Michael Haneke,2009,23691,"['Mystery', 'Drama']",Austria,4.06504579798236,53,121,76,426,520,1878,3104,7600,5153,4761
+400,401,All That Heaven Allows,common,Douglas Sirk,1955,12109,"['Romance', 'Drama']",USA,4.00681311421257,10,43,44,194,327,1283,1877,3769,2211,2351
+401,402,Butch Cassidy and the Sundance Kid,common,George Roy Hill,1969,41378,"['Drama', 'Crime', 'Western']",USA,4.02100149838078,19,66,85,499,824,3937,6670,14751,7350,7177
+402,403,Ivan's Childhood,common,Andrei Tarkovsky,1962,23176,"['War', 'Drama']",Russian Federation,4.10869002416293,13,39,38,188,307,1444,3391,8423,5161,4172
+403,404,Yojimbo,common,Akira Kurosawa,1961,36304,"['Drama', 'Thriller']",Japan,4.24356820185104,10,32,29,155,315,1741,3771,12475,8672,9107
+404,405,The Double Life of Véronique,common,Krzysztof Kieślowski,1991,25288,"['Drama', 'Thriller']",France,4.09099177475482,40,112,101,432,618,2119,3347,7457,4908,6155
+408,409,Landscape in the Mist,common,Theo Angelopoulos,1988,5809,['Drama'],France,4.23016009640214,13,20,40,72,120,327,565,1541,1270,1841
+410,411,Raise the Red Lantern,common,Zhang Yimou,1991,10553,['Drama'],China,4.19198332227802,6,24,12,85,125,612,1226,3477,2519,2468
+412,413,Fitzcarraldo,common,Werner Herzog,1982,17881,"['Adventure', 'Drama']",Germany,4.07152843800682,36,54,69,248,378,1501,2430,5827,3639,3699
+414,415,In a Year with 13 Moons,common,Rainer Werner Fassbinder,1978,2772,['Drama'],Germany,4.02435064935065,5,13,19,49,87,276,412,775,518,619
+415,416,Taste of Cherry,common,Abbas Kiarostami,1997,17887,['Drama'],France,4.12872477218091,30,72,86,270,376,1234,2245,5388,3774,4412
+417,418,Charulata,common,Satyajit Ray,1964,2979,"['Drama', 'Romance']",India,4.13309835515274,2,6,6,43,58,177,378,1007,653,649
+418,419,Life of Brian,common,Terry Jones,1979,89970,['Comedy'],UK,3.95451817272424,208,480,376,1667,2333,9880,14638,30237,14205,15946
+420,421,Punch-Drunk Love,common,Paul Thomas Anderson,2002,110908,"['Drama', 'Comedy', 'Romance']",USA,3.95019295271757,327,886,603,2711,3115,11550,17156,35004,19115,20443
+422,423,Opening Night,common,John Cassavetes,1977,9332,['Drama'],USA,4.16909558508358,7,24,18,124,158,588,1135,2806,2224,2248
+423,424,Day for Night,common,François Truffaut,1973,12991,"['Drama', 'Comedy']",France,4.11126934031252,17,34,29,142,220,959,1780,4297,2741,2772
+425,426,The Sorrow and the Pity,common,Marcel Ophüls,1969,1047,"['War', 'Documentary', 'History']",France,4.09789875835721,5,2,6,5,17,96,122,352,217,225
+427,428,The Long Goodbye,common,Robert Altman,1973,21861,"['Crime', 'Drama', 'Thriller', 'Mystery']",USA,4.09173871277618,27,52,68,298,462,1706,3114,6918,4476,4740
+429,430,Halloween,common,John Carpenter,1978,143491,"['Thriller', 'Horror']",USA,3.96415454627816,244,845,710,3583,4327,18668,20954,42579,17518,34063
+433,434,Scenes from a Marriage,common,Ingmar Bergman,1974,11353,"['Romance', 'Drama']",Sweden,4.32383510966264,20,24,27,105,140,506,901,3020,2695,3915
+435,436,The Hustler,common,Robert Rossen,1961,15004,['Drama'],USA,4.00233271127699,13,30,23,184,298,1397,2463,5602,2645,2349
+439,440,The Shawshank Redemption,common,Frank Darabont,1994,287729,"['Drama', 'Crime']",USA,4.43846987964369,281,538,440,1994,2191,13163,17566,66289,52377,132890
+441,442,A Moment of Innocence,common,Mohsen Makhmalbaf,1996,4860,['Drama'],Iran,4.18168724279835,12,16,18,58,89,312,580,1315,1191,1270
+446,447,The Cameraman,common,Buster Keaton,1928,5712,"['Comedy', 'Drama', 'Romance', 'Family']",USA,4.02319677871148,0,10,12,50,125,474,1057,1986,1021,976
+449,450,Naked,common,Mike Leigh,1993,19760,"['Comedy', 'Drama']",UK,4.07884615384615,65,139,119,382,505,1512,2475,5686,4212,4665
+450,451,Out 1,common,Jacques Rivette,1971,1701,"['Drama', 'Mystery']",France,4.11757789535567,14,18,22,54,58,107,187,336,293,611
+451,452,Hoop Dreams,common,Steve James,1994,16729,['Documentary'],USA,4.29227688445215,15,31,28,119,172,1022,1478,4718,3568,5578
+456,457,All the President's Men,common,Alan J. Pakula,1976,42024,"['History', 'Drama', 'Mystery', 'Thriller']",USA,4.09011517228251,19,66,64,342,607,3371,6024,15185,8314,8032
+457,458,Fight Club,common,David Fincher,1999,422353,['Drama'],Germany,4.25930560455354,671,1595,971,5883,5279,31025,34383,119956,71279,151317
+459,460,All That Jazz,common,Bob Fosse,1979,18911,['Drama'],USA,4.17209560573211,27,72,82,297,425,1451,2157,4915,3908,5577
+461,462,The Cranes Are Flying,common,Mikhail Kalatozov,1957,8213,"['Drama', 'Romance', 'War']",Russian Federation,4.27943504200657,2,13,7,58,91,396,841,2306,2143,2356
+466,467,Shadows of Forgotten Ancestors,common,Sergei Parajanov,1965,3015,"['Romance', 'Drama', 'Music']",USSR,3.99253731343284,10,11,14,69,89,305,447,901,577,592
+467,468,Pyaasa,common,Guru Dutt,1957,1625,"['Romance', 'Drama']",India,4.17753846153846,4,1,5,27,29,129,164,482,325,460
+468,469,Dersu Uzala,common,Akira Kurosawa,1975,6275,"['Action', 'Drama', 'Adventure']",Japan,4.1199203187251,4,15,14,71,106,477,858,2005,1343,1382
+471,472,Safe,common,Todd Haynes,1995,17752,['Drama'],UK,3.96884858044164,29,86,86,388,530,1783,2849,5513,3376,3112
+473,474,The Tree of Wooden Clogs,common,Ermanno Olmi,1978,2172,"['Drama', 'History']",Italy,4.01588397790055,7,17,13,55,69,194,293,617,431,477
+474,475,Oldboy,common,Park Chan-wook,2003,163330,"['Drama', 'Action', 'Mystery', 'Thriller']",South Korea,4.30117859548154,349,562,396,1761,1959,8392,13482,43413,36697,56322
+476,477,Limite,common,Mário Peixoto,1931,2521,"['Adventure', 'Drama']",Brazil,3.94763982546608,14,35,20,76,107,309,318,611,357,674
+477,478,Vagabond,common,Agnès Varda,1985,11901,['Drama'],France,4.03222418284178,8,29,32,123,242,1010,1859,4407,2128,2063
+480,481,The Wind,common,Victor Sjöström,1928,2864,"['Western', 'Romance', 'Drama']",USA,4.01990223463687,8,8,9,29,69,260,447,955,605,474
+481,482,Laura,common,Otto Preminger,1944,16348,"['Drama', 'Mystery']",USA,3.97073036457059,11,23,31,199,324,1656,2940,6088,2719,2357
+490,491,Toy Story,common,John Lasseter,1995,292246,"['Animation', 'Comedy', 'Family']",USA,4.20208317650199,262,781,443,3247,3281,25924,28467,93938,41809,94094
+492,493,Boogie Nights,common,Paul Thomas Anderson,1997,109169,['Drama'],USA,4.16274308640731,137,365,266,1467,1600,8240,12093,33592,23575,27835
+493,494,The Lives of Others,common,Florian Henckel von Donnersmarck,2006,44723,"['Thriller', 'Drama']",Germany,4.13072691903495,49,102,109,445,735,2771,5733,15253,10599,8927
+495,496,Short Cuts,common,Robert Altman,1993,13005,"['Comedy', 'Drama']",USA,3.99577085736255,22,50,42,246,350,1310,1955,4211,2485,2335
+496,497,Koyaanisqatsi,common,Godfrey Reggio,1982,19306,['Documentary'],USA,4.16145239821817,48,120,84,286,341,1501,2060,5688,3417,5761
+497,498,Strangers on a Train,common,Alfred Hitchcock,1951,37538,"['Crime', 'Thriller']",USA,3.98562789706431,13,43,70,323,678,3541,6761,14441,6547,5121
+498,499,The Wind Will Carry Us,common,Abbas Kiarostami,1999,5684,['Drama'],Iran,3.98645320197044,11,25,22,112,155,541,900,1897,964,1057
+500,501,12 Angry Men,common,Sidney Lumet,1957,149630,['Drama'],USA,4.52391565862461,82,192,98,616,689,4510,7060,30719,31724,73941
+504,505,Kagemusha,common,Akira Kurosawa,1980,10999,"['Drama', 'War', 'History', 'Action']",Japan,4.07005182289299,3,19,20,96,194,911,1571,3969,2297,1919
+505,506,Die Hard,common,John McTiernan,1988,171216,"['Action', 'Thriller']",USA,4.11142066162041,158,489,343,2312,2682,16680,21385,55999,26428,44744
+506,507,Winter Light,common,Ingmar Bergman,1963,16991,['Drama'],Sweden,4.17335648284386,18,33,36,184,249,1123,2147,5227,3677,4297
+507,508,No Country for Old Men,common,Joel Coen,2007,260827,"['Drama', 'Thriller', 'Crime']",USA,4.27378875653211,325,912,496,3210,2845,15718,21722,74488,54639,86472
+511,512,"Steamboat Bill, Jr.",common,Buster Keaton,1928,8340,"['Romance', 'Action', 'Drama', 'Comedy', 'Family']",USA,3.96031175059952,6,8,11,80,196,848,1625,3058,1304,1204
+513,514,Gimme Shelter,common,Albert Maysles,1970,8423,"['Documentary', 'Music']",USA,4.0240413154458,9,22,25,102,156,795,1325,3028,1426,1537
+514,515,Early Summer,common,Yasujirō Ozu,1951,5231,['Drama'],Japan,4.19632957369528,2,5,8,40,66,307,626,1691,1236,1250
+516,517,Pan's Labyrinth,common,Guillermo del Toro,2006,201757,"['Fantasy', 'War', 'Drama']",Mexico,4.15970201777386,327,896,576,3249,3338,16428,21880,60448,36497,58118
+518,519,Forrest Gump,common,Robert Zemeckis,1994,343213,"['Romance', 'Comedy', 'Drama']",USA,4.10342702636555,1317,2806,1735,7897,7300,33910,34734,98189,48883,106442
+520,521,The Big Heat,common,Fritz Lang,1953,11942,"['Crime', 'Drama']",USA,3.99974878579802,9,12,11,109,182,1064,2068,4679,2284,1527
+521,522,Farewell My Concubine,common,Chen Kaige,1993,7281,['Drama'],China,4.14084603763219,7,22,26,111,156,590,883,2117,1401,1968
+522,523,Limelight,common,Charlie Chaplin,1952,5714,"['Drama', 'Romance', 'Music']",USA,3.99877493874694,10,12,18,98,163,570,863,1910,1048,1023
+523,524,The Bitter Tears of Petra von Kant,common,Rainer Werner Fassbinder,1972,8081,['Drama'],Germany,4.08742729860166,9,28,41,150,179,645,1026,2525,1654,1824
+524,525,Barton Fink,common,Joel Coen,1991,46120,"['Drama', 'Comedy']",UK,3.98225281873374,46,142,135,724,1010,4509,7655,16313,8361,7225
+525,526,The Royal Tenenbaums,common,Wes Anderson,2001,139103,"['Drama', 'Comedy']",USA,4.0358044039309,244,741,509,2649,2944,13415,19614,45450,22542,30995
+528,529,Amélie,common,Jean-Pierre Jeunet,2001,178517,"['Romance', 'Comedy']",France,4.07600676686254,684,1445,889,4054,4010,17162,20470,52671,26194,50939
+530,531,Terminator 2: Judgment Day,common,James Cameron,1991,160880,"['Science Fiction', 'Thriller', 'Action']",USA,4.2082452759821,158,399,285,2108,2227,12756,16305,46803,30958,48895
+532,533,Hannah and Her Sisters,common,Woody Allen,1986,23543,"['Drama', 'Comedy']",USA,3.96344985770717,38,86,76,375,585,2533,3959,8019,4023,3849
+534,535,Marketa Lazarová,common,František Vláčil,1967,4477,"['History', 'Drama']",Czechoslovakia,4.20259102077284,10,16,18,75,105,289,496,1128,921,1419
+535,536,Colossal Youth,common,Pedro Costa,2006,1730,['Drama'],Portugal,4.00173410404624,6,21,16,64,64,156,208,439,290,466
+537,538,Faust,common,F.W. Murnau,1926,6854,"['Fantasy', 'Horror', 'Drama']",Germany,4.06594689232565,4,16,28,82,162,595,964,2234,1402,1367
+539,540,The Servant,common,Joseph Losey,1963,6671,['Drama'],UK,4.04264727926848,7,15,13,76,133,548,981,2403,1437,1058
+540,541,Se7en,common,David Fincher,1995,315887,"['Thriller', 'Crime', 'Mystery']",USA,4.25678802863049,225,640,422,2398,2884,18876,29364,100519,66011,94549
+550,551,Alice in the Cities,common,Wim Wenders,1974,7480,['Drama'],Germany,4.04839572192513,4,10,11,68,126,565,1162,2880,1499,1155
+552,553,The Lovers on the Bridge,common,Leos Carax,1991,7959,"['Romance', 'Drama']",France,4.06187963311974,6,28,30,126,161,620,1153,2656,1633,1546
+554,555,Evil Dead II,common,Sam Raimi,1987,69834,"['Fantasy', 'Comedy', 'Horror']",USA,4.02042701262995,148,397,356,1528,1800,7267,9836,21043,10985,16474
+555,556,Being There,common,Hal Ashby,1979,18108,"['Drama', 'Comedy']",Germany,3.99259995582063,26,63,87,346,484,1845,2733,5925,3212,3387
+556,557,Secrets & Lies,common,Mike Leigh,1996,10902,['Drama'],UK,4.11580443955238,16,21,30,142,187,779,1409,3578,2471,2269
+557,558,In Vanda's Room,common,Pedro Costa,2000,1729,['Drama'],Portugal,4.09861191440139,10,16,16,42,62,140,179,396,336,532
+561,562,Casino,common,Martin Scorsese,1995,96487,['Crime'],France,4.06483775016323,61,199,197,1169,1590,8081,13549,34838,19391,17418
+562,563,La Belle Noiseuse,common,Jacques Rivette,1991,3923,['Drama'],France,4.16365026765231,10,17,15,72,89,268,467,1016,849,1120
+565,566,The Killing,common,Stanley Kubrick,1956,32239,"['Thriller', 'Drama', 'Crime']",USA,3.94688110673408,17,36,61,277,607,3006,6180,13152,5470,3433
+566,567,Trainspotting,common,Danny Boyle,1996,173125,"['Crime', 'Drama']",UK,4.10036967509025,237,638,470,2401,2726,14476,21797,59389,30861,40130
+567,568,Scarface,common,Brian De Palma,1983,141319,"['Thriller', 'Action', 'Drama', 'Crime']",USA,4.00574586573638,215,643,583,2985,3548,14862,19740,46326,22924,29497
+570,571,Tale of Tales,common,Yuri Norstein,1979,2109,"['Animation', 'Fantasy']",Russian Federation,4.02038880986249,2,9,6,36,52,223,327,643,355,455
+572,573,"4 Months, 3 Weeks and 2 Days",common,Cristian Mungiu,2007,15738,['Drama'],Belgium,4.09947261405515,33,50,60,169,283,1050,2041,5408,3660,2984
+573,574,That Obscure Object of Desire,common,Luis Buñuel,1977,8430,"['Comedy', 'Drama', 'Romance']",France,3.95379596678529,10,24,47,127,206,865,1464,2961,1482,1246
+574,575,The Manchurian Candidate,common,John Frankenheimer,1962,14346,"['Drama', 'Thriller']",USA,3.96326502160881,10,40,38,217,344,1535,2398,5062,2590,2112
+575,576,Fireworks,common,Takeshi Kitano,1997,12565,"['Crime', 'Drama']",Japan,4.02379625945086,11,31,54,174,340,1154,1892,4240,2291,2378
+578,579,Harlan County U.S.A.,common,Barbara Kopple,1976,4994,['Documentary'],USA,4.27162595114137,5,7,6,29,52,271,496,1515,1096,1517
+579,580,"Life, and Nothing More...",common,Abbas Kiarostami,1992,5229,['Drama'],Iran,4.16092943201377,3,7,12,34,70,323,654,1789,1222,1115
+580,581,Aparajito,common,Satyajit Ray,1956,6436,['Drama'],India,4.21325357364823,4,7,8,37,66,365,754,2040,1625,1530
+581,582,Down by Law,common,Jim Jarmusch,1986,19113,"['Comedy', 'Crime', 'Drama']",Germany,3.9829435462774,21,43,52,260,424,1741,3378,6977,3249,2968
+583,584,Rocky,common,John G. Avildsen,1976,111228,['Drama'],USA,4.00854551012335,137,382,299,1784,2181,12349,16576,38857,15736,22928
+587,588,Full Metal Jacket,common,Stanley Kubrick,1987,161835,"['Drama', 'War']",UK,4.12185559366021,109,323,240,1518,2184,12134,20364,57819,33690,33454
+589,590,Children of Men,common,Alfonso Cuarón,2006,165332,"['Action', 'Thriller', 'Science Fiction', 'Drama']",UK,4.21231824450197,195,498,389,2183,2448,11739,17047,46699,35213,48926
+592,593,Zodiac,common,David Fincher,2007,241645,"['Mystery', 'Thriller', 'Drama', 'Crime']",USA,3.99457468600633,254,819,652,4137,4809,26387,36617,84000,40264,43708
+594,595,The Devils,common,Ken Russell,1971,12131,"['History', 'Drama']",UK,4.14223889209463,34,54,62,198,250,871,1452,3368,2625,3217
+597,598,Before Sunset,common,Richard Linklater,2004,101170,"['Romance', 'Drama']",USA,4.29044183058219,150,350,259,1047,1219,6126,9141,26605,20095,36178
+603,604,The Dark Knight,common,Christopher Nolan,2008,486446,"['Action', 'Crime', 'Thriller', 'Drama']",UK,4.42630939508188,553,1187,633,4025,3830,24547,27414,115314,84877,224066
+604,605,Young Frankenstein,common,Mel Brooks,1974,52096,['Comedy'],USA,4.01402218980344,55,181,188,915,1297,5571,7865,16929,7760,11335
+609,610,Le Cercle Rouge,common,Jean-Pierre Melville,1970,12057,"['Crime', 'Thriller']",France,4.09405324707639,5,26,24,110,183,795,1682,4414,2796,2022
+610,611,Possession,common,Andrzej Żuławski,1981,33470,['Horror'],Germany,4.10953092321482,172,249,235,744,867,2467,3685,9121,6459,9471
+611,612,The Ascent,common,Larisa Shepitko,1977,6610,"['War', 'Drama']",Russian Federation,4.2643721633888,2,7,11,50,100,305,662,1943,1682,1848
+619,620,Amour,common,Michael Haneke,2012,41545,"['Romance', 'Drama']",France,4.09476471296185,109,260,171,695,917,3146,4926,13126,8589,9606
+625,626,The Testament of Dr. Mabuse,common,Fritz Lang,1933,4745,"['Drama', 'Thriller', 'Crime', 'Horror']",Germany,4.00379346680716,3,9,11,62,97,455,767,1715,880,747
+626,627,Diabolique,common,Henri-Georges Clouzot,1955,21135,"['Horror', 'Thriller', 'Drama']",France,4.08774544594275,8,28,39,174,319,1526,2950,7899,4601,3591
+628,629,Mad Max: Fury Road,common,George Miller,2015,403313,"['Science Fiction', 'Action', 'Adventure']",Australia,4.17868008221902,992,3130,1405,8666,6372,35541,34203,111862,66342,134800
+629,630,White Heat,common,Raoul Walsh,1949,8020,"['Crime', 'Thriller', 'Drama']",USA,4.02044887780549,5,13,12,83,139,692,1254,3120,1516,1186
+630,631,El sur,common,Víctor Erice,1983,3985,['Drama'],Spain,4.10953575909661,3,10,15,49,78,278,568,1228,929,827
+634,635,Twenty Years Later,common,Eduardo Coutinho,1984,3148,['Documentary'],Brazil,4.55702033036849,1,6,4,29,18,101,145,549,503,1792
+636,637,The Marriage of Maria Braun,common,Rainer Werner Fassbinder,1979,7292,['Drama'],Germany,4.00123422929238,15,20,19,99,171,657,1193,2552,1378,1188
+640,641,A Streetcar Named Desire,common,Elia Kazan,1951,30911,['Drama'],USA,3.96703438905244,39,128,117,544,794,3331,4912,10739,4894,5413
+641,642,Memento,common,Christopher Nolan,2000,241034,"['Thriller', 'Mystery']",USA,4.12814374735514,267,807,652,3185,3378,19623,27501,81388,47110,57124
+643,644,La Haine,common,Mathieu Kassovitz,1995,60867,['Drama'],France,4.31244352440567,44,111,96,417,604,2797,5436,17227,14271,19864
+644,645,Antonio das Mortes,common,Glauber Rocha,1969,1804,"['Western', 'Drama']",Brazil,3.98337028824834,9,14,14,53,74,171,226,509,309,425
+647,648,After Life,common,Hirokazu Kore-eda,1998,7297,"['Drama', 'Fantasy']",Japan,4.00205563930382,8,30,16,140,196,710,1206,2263,1346,1383
+648,649,Syndromes and a Century,common,Apichatpong Weerasethakul,2006,4583,"['Drama', 'Romance']",Thailand,3.96628845734235,8,34,27,84,157,482,707,1381,842,861
+650,651,Big Deal on Madonna Street,common,Mario Monicelli,1958,3323,"['Comedy', 'Crime']",Italy,4.00481492627144,2,3,2,29,71,299,600,1234,585,500
+653,654,The Great Escape,common,John Sturges,1963,29877,"['Thriller', 'History', 'Drama', 'War', 'Adventure']",USA,4.02928674231014,18,46,64,327,525,2693,4861,10950,5184,5209
+654,655,Y Tu Mamá También,common,Alfonso Cuarón,2001,54839,"['Drama', 'Romance']",Mexico,4.07061580262222,103,205,194,865,1134,4853,7322,17442,10886,11835
+655,656,Monty Python and the Holy Grail,common,Terry Gilliam,1975,136094,"['Adventure', 'Comedy', 'Fantasy']",UK,4.09845400972857,346,680,494,2227,2556,11830,16866,43210,22898,34987
+656,657,"Synecdoche, New York",common,Charlie Kaufman,2008,69387,['Drama'],USA,4.12876331301252,339,601,516,1771,2026,5581,7282,15996,12516,22759
+671,672,Dancer in the Dark,common,Lars von Trier,2000,38002,"['Crime', 'Drama']",Argentina,4.06523340876796,237,352,301,894,1022,2997,4256,10641,7458,9842
+672,673,Rebecca,common,Alfred Hitchcock,1940,33383,"['Thriller', 'Mystery', 'Drama']",USA,4.06146841206602,27,54,73,359,590,2890,4844,11766,6758,6023
+679,680,Let the Right One In,common,Tomas Alfredson,2008,63892,"['Drama', 'Horror']",Sweden,4.02224065610718,113,232,209,1000,1310,5708,9202,23009,11610,11500
+681,682,The Virgin Spring,common,Ingmar Bergman,1960,14759,"['Thriller', 'Drama', 'Crime']",Sweden,4.04763195338438,10,21,26,156,245,1288,2288,5331,2823,2570
+683,684,Harakiri,common,Masaki Kobayashi,1962,23311,"['History', 'Drama', 'Action']",Japan,4.54645875337823,15,22,19,73,100,535,1058,4240,5969,11280
+687,688,Mr. Smith Goes to Washington,common,Frank Capra,1939,19641,"['Drama', 'Comedy']",USA,4.01611425080189,18,53,46,271,430,1898,3177,6624,3594,3530
+692,693,Saving Private Ryan,common,Steven Spielberg,1998,194010,"['War', 'History', 'Drama']",USA,4.16396319777331,260,651,500,2593,2984,15440,20866,60323,37869,52524
+697,698,L.A. Confidential,common,Curtis Hanson,1997,73791,"['Crime', 'Thriller']",USA,4.00018972503422,68,216,225,1064,1498,7226,11500,26291,13869,11843
+698,699,The Piano Teacher,common,Michael Haneke,2001,30569,"['Drama', 'Romance']",Germany,4.03200955216069,96,208,139,639,714,2562,4014,9871,6244,6082
+699,700,The Circus,common,Charlie Chaplin,1928,10686,"['Comedy', 'Romance']",USA,3.99064196144488,7,7,8,88,174,933,2026,4266,1657,1520
+705,706,Once Upon a Time in Anatolia,common,Nuri Bilge Ceylan,2011,13061,"['Crime', 'Drama']",Bosnia and Herzegovina,4.12188959497741,26,55,56,232,314,972,1576,3718,2868,3245
+706,707,Vive L'Amour,common,Tsai Ming-liang,1994,4407,['Drama'],Taiwan,4.06251418198321,8,14,19,76,125,340,610,1355,965,895
+707,708,Edvard Munch,common,Peter Watkins,1974,1872,"['TV Movie', 'Drama', 'Mystery', 'History']",Norway,4.28766025641026,3,5,7,26,40,105,155,450,420,662
+708,709,Rififi,common,Jules Dassin,1955,14231,"['Drama', 'Action', 'Crime']",France,4.1824889326119,6,17,19,90,165,764,1778,4818,3574,3002
+709,710,Requiem for a Dream,common,Darren Aronofsky,2000,172035,"['Crime', 'Drama', 'Thriller']",USA,4.04023018571802,761,1487,954,3952,3763,15700,20372,54386,29640,41025
+720,721,The Emperor's Naked Army Marches On,common,Kazuo Hara,1987,1729,['Documentary'],Japan,4.27993059572007,1,4,4,7,19,83,162,545,396,510
+721,722,The Killer,common,John Woo,1989,14769,"['Drama', 'Thriller', 'Action', 'Crime']",Hong Kong,3.99123163382761,8,39,51,236,361,1462,2365,5204,2484,2559
+722,723,A Short Film About Killing,common,Krzysztof Kieślowski,1988,8909,"['Crime', 'Drama']",Poland,4.02609720507352,9,34,29,113,159,689,1421,3303,1709,1444
+728,729,The Lord of the Rings: The Fellowship of the Ring,common,Peter Jackson,2001,316182,"['Action', 'Fantasy', 'Adventure']",New Zealand,4.29837245637006,582,1692,671,4559,3609,22767,23079,82001,50537,126688
+731,732,All Quiet on the Western Front,common,Lewis Milestone,1930,12566,"['Drama', 'War']",USA,3.99888588254019,16,37,52,204,285,1271,1863,4379,2286,2174
+732,733,Ace in the Hole,common,Billy Wilder,1951,16222,['Drama'],USA,4.16995438293675,5,18,17,118,164,989,2008,5532,4090,3285
+736,737,Akira,common,Katsuhiro Otomo,1988,107867,"['Science Fiction', 'Action', 'Animation']",Japan,4.17891941001418,129,354,346,1440,2064,8085,12269,30874,20865,31441
+740,741,Blow Out,common,Brian De Palma,1981,36133,"['Thriller', 'Mystery', 'Crime']",USA,3.99950184042288,30,99,118,519,845,3512,6215,11846,6700,6250
+744,745,We All Loved Each Other So Much,common,Ettore Scola,1974,2369,"['Comedy', 'Drama']",Italy,4.19966230476994,1,9,5,24,42,158,261,698,511,660
+749,750,Z,common,Costa-Gavras,1969,8755,"['Thriller', 'Drama', 'History']",Algeria,4.18446601941748,9,27,21,76,134,561,1014,2673,2088,2153
+753,754,The Long Day Closes,common,Terence Davies,1992,4288,['Drama'],UK,4.00431436567164,13,41,35,113,144,451,551,1108,778,1054
+757,758,The Red Balloon,common,Albert Lamorisse,1956,12443,"['Drama', 'Fantasy', 'Family']",France,4.03439684963433,14,66,28,153,269,1215,1811,4324,1976,2587
+759,760,Crumb,common,Terry Zwigoff,1994,11321,['Documentary'],USA,4.07874746047169,18,33,45,130,186,1008,1556,3803,2112,2431
+770,771,Cool Hand Luke,common,Stuart Rosenberg,1967,28399,"['Crime', 'Drama']",USA,4.0704602274728,15,53,53,303,481,2353,4225,10079,5408,5430
+781,782,Abraham's Valley,common,Manoel de Oliveira,1993,829,['Drama'],Portugal,4.02895054282268,1,6,10,27,19,76,108,224,160,199
+784,785,American Beauty,common,Sam Mendes,1999,224741,['Drama'],USA,4.00645409604834,828,1898,1160,5666,5293,24245,26648,71058,36324,51621
+790,791,The Princess Bride,common,Rob Reiner,1987,132812,"['Romance', 'Family', 'Fantasy', 'Adventure', 'Comedy']",USA,4.05468255880493,333,802,527,2648,3141,13648,18209,39434,18317,35753
+795,796,The Red Light Bandit,common,Rogério Sganzerla,1968,2168,"['Action', 'Crime', 'Comedy', 'Thriller', 'Drama']",Brazil,4.09893911439114,9,12,27,62,74,173,216,555,349,691
+796,797,Blue,common,Derek Jarman,1993,2970,['Drama'],UK,3.99612794612795,29,31,21,67,124,305,353,793,420,827
+797,798,Jurassic Park,common,Steven Spielberg,1993,288704,"['Science Fiction', 'Adventure']",USA,4.12485452227887,329,852,577,4364,4339,30546,33075,91636,38940,84046
+798,799,Memories of Murder,common,Bong Joon-ho,2003,71627,"['Drama', 'Thriller', 'Crime']",South Korea,4.26987728091362,42,61,88,388,621,3079,6879,22378,19969,18122
+800,801,Le Bonheur,common,Agnès Varda,1965,10250,"['Romance', 'Drama']",France,4.00243902439024,6,23,34,89,193,827,1702,4111,1839,1426
+802,803,The Holy Mountain,common,Alejandro Jodorowsky,1973,28252,['Drama'],Mexico,4.13303482939261,224,281,205,638,715,2120,2764,6990,5163,9155
+803,804,News from Home,common,Chantal Akerman,1976,4590,['Documentary'],Belgium,4.09749455337691,12,24,13,67,101,399,550,1430,881,1113
+804,805,Amores Perros,common,Alejandro González Iñárritu,2000,37259,"['Thriller', 'Drama']",Mexico,4.00951447972302,69,124,141,576,766,3232,5492,13687,7145,6027
+808,809,Grave of the Fireflies,common,Isao Takahata,1988,91207,"['Drama', 'Animation', 'War']",Japan,4.33193724165908,137,223,201,839,1154,4493,7615,23411,18997,34137
+809,810,"La Commune (Paris, 1871)",common,Peter Watkins,2000,779,"['Drama', 'War', 'History']",France,4.23299101412067,2,4,5,14,18,50,82,164,162,278
+810,811,Il Posto,common,Ermanno Olmi,1961,3436,['Drama'],Italy,4.12310826542491,3,9,5,22,40,225,475,1236,763,658
+812,813,Roman Holiday,common,William Wyler,1953,36147,"['Comedy', 'Romance', 'Drama']",USA,4.0401416438432,23,60,71,372,616,3581,5774,12772,5706,7172
+813,814,"Diaries, Notes, and Sketches",common,Jonas Mekas,1969,1089,['Documentary'],USA,4.10560146923783,7,8,7,28,33,75,125,282,200,324
+821,822,Who's Afraid of Virginia Woolf?,common,Mike Nichols,1966,21084,['Drama'],USA,4.14575033200531,35,88,79,301,430,1537,2356,6244,4790,5224
+822,823,Forbidden Games,common,René Clément,1952,3554,"['Drama', 'History']",France,3.99887450759707,3,10,13,31,80,321,626,1281,628,563
+823,824,Street of Shame,common,Kenji Mizoguchi,1956,3227,['Drama'],Japan,4.07638673690734,1,3,7,28,37,250,501,1171,681,548
+828,829,Taipei Story,common,Edward Yang,1985,6561,['Drama'],Taiwan,4.06576741350404,5,8,15,61,99,486,953,2464,1453,1017
+832,833,Black Girl,common,Ousmane Sembène,1966,8315,['Drama'],Senegal,3.97733012627781,8,24,24,94,165,722,1484,3235,1376,1183
+833,834,Lessons of Darkness,common,Werner Herzog,1992,4750,"['War', 'Documentary']",France,4.04221052631579,1,10,12,59,94,425,735,1642,913,859
+835,836,Central Station,common,Walter Salles,1998,15047,['Drama'],Brazil,4.37652023659201,24,35,54,143,206,802,1237,3361,2360,6825
+844,845,Kwaidan,common,Masaki Kobayashi,1964,10381,"['Fantasy', 'Drama', 'Horror']",Japan,4.13245352085541,10,25,28,120,166,745,1310,3380,2316,2282
+848,849,The Naked Island,common,Kaneto Shindō,1960,2621,['Drama'],Japan,4.13849675696299,2,9,5,32,50,191,344,802,549,637
+851,852,My Little Loves,common,Jean Eustache,1974,832,['Drama'],France,3.9609375,0,5,2,11,28,91,153,264,118,160
+856,857,Inglourious Basterds,common,Quentin Tarantino,2009,410044,"['Thriller', 'Drama', 'Action', 'War']",Germany,4.26369243300719,489,1310,790,4670,4423,28140,33924,120432,78095,137771
+857,858,Princess Mononoke,common,Hayao Miyazaki,1997,152952,"['Fantasy', 'Adventure', 'Animation']",Japan,4.32244756524923,100,236,183,1119,1501,8287,13653,41614,31673,54589
+858,859,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,common,Jonas Mekas,2000,2835,['Documentary'],USA,4.50634920634921,10,15,10,34,41,91,132,445,460,1597
+865,866,Anatomy of a Murder,common,Otto Preminger,1959,17641,"['Mystery', 'Crime', 'Thriller', 'Drama']",USA,4.10129811235191,10,25,24,147,242,1253,2328,6457,4248,2907
+867,868,The Usual Suspects,common,Bryan Singer,1995,132917,"['Crime', 'Drama', 'Thriller']",USA,3.98327903879865,202,532,542,2416,3325,13089,20508,46123,23164,23016
+878,879,"The Cook, the Thief, His Wife & Her Lover",common,Peter Greenaway,1989,15677,"['Drama', 'Crime']",France,4.01999744849142,78,148,123,353,417,1333,2057,4614,3046,3508
+881,882,Das Boot,common,Wolfgang Petersen,1981,25334,"['Drama', 'War', 'History']",Germany,4.1434830662351,25,78,62,274,371,1826,3049,8243,5679,5727
+882,883,Léon: The Professional,common,Luc Besson,1994,182578,"['Action', 'Drama', 'Crime']",France,4.12182738336492,364,627,493,2280,2918,14399,22454,61422,32855,44766
+887,888,Au Revoir les Enfants,common,Louis Malle,1987,12570,"['War', 'Drama']",Germany,4.0813046937152,3,22,19,131,183,1000,1809,4549,2534,2320
+889,890,The Phantom Carriage,common,Victor Sjöström,1921,8348,"['Drama', 'Fantasy', 'Horror']",Sweden,4.0439027311931,7,19,27,151,175,800,1213,2714,1511,1731
+891,892,Elevator to the Gallows,common,Louis Malle,1958,14952,"['Thriller', 'Drama', 'Crime']",France,3.99882958801498,5,25,25,127,232,1276,2607,5899,2874,1882
+896,897,Le Trou,common,Jacques Becker,1960,7483,"['History', 'Thriller', 'Drama', 'Crime']",France,4.33462515034077,5,7,6,34,50,237,571,2200,2300,2073
+900,901,Ed Wood,common,Tim Burton,1994,43128,"['Comedy', 'Drama', 'History']",USA,4.01094416620293,55,159,151,738,1015,4374,6519,14210,7512,8395
+904,905,The Diving Bell and the Butterfly,common,Julian Schnabel,2007,19897,['Drama'],France,4.00138211790722,24,54,59,279,439,1857,3199,6958,3888,3142
+906,907,Cría cuervos…,common,Carlos Saura,1976,4989,['Drama'],Spain,4.1113449589096,5,6,9,55,82,397,674,1670,1021,1070
+907,908,Rope,common,Alfred Hitchcock,1948,55074,"['Thriller', 'Crime']",USA,4.03648727167084,35,71,98,491,896,4713,8874,20666,10328,8902
+908,909,Floating Weeds,common,Yasujirō Ozu,1959,5314,['Drama'],Japan,4.10302973278133,3,10,9,66,98,356,767,1815,1122,1068
+913,914,To Live,common,Zhang Yimou,1994,4004,"['Drama', 'War', 'Romance']",China,4.10377122877123,5,3,11,31,59,257,577,1489,813,759
+916,917,Mildred Pierce,common,Michael Curtiz,1945,10985,"['Drama', 'Crime']",USA,4.01898042785617,4,18,25,106,199,966,1805,4160,1968,1734
+928,929,Mamma Roma,common,Pier Paolo Pasolini,1962,4223,['Drama'],Italy,3.95382429552451,4,18,9,62,92,410,782,1569,647,631
+934,935,The End of Summer,common,Yasujirō Ozu,1961,2180,['Drama'],Japan,3.96100917431193,0,2,8,15,32,227,442,782,410,262
+937,938,"Spring, Summer, Fall, Winter... and Spring",common,Kim Ki-duk,2003,15764,['Drama'],South Korea,4.07732808931743,31,74,53,214,321,1247,2153,5144,3224,3303
+938,939,Before Sunrise,common,Richard Linklater,1995,130559,"['Romance', 'Drama']",Austria,4.30063419603398,224,532,378,1483,1631,7488,11146,34132,24992,48553
+943,944,Kill Bill: Vol. 1,common,Quentin Tarantino,2003,339174,"['Action', 'Crime']",USA,4.13598477477637,634,1795,1003,5764,5073,29764,34955,110332,54482,95372
+946,947,Good Morning,common,Yasujirō Ozu,1959,12033,"['Comedy', 'Family', 'Drama']",Japan,4.12985124241669,3,10,11,76,174,737,1688,4437,2545,2352
+949,950,Paper Moon,common,Peter Bogdanovich,1973,17970,"['Comedy', 'Drama', 'Crime']",USA,4.19348914858097,9,14,24,125,158,1017,2099,6172,4376,3976
+950,951,3 Women,common,Robert Altman,1977,12251,"['Drama', 'Mystery']",USA,4.08346257448372,22,30,49,176,296,1030,1606,3784,2634,2624
+951,952,The Lord of the Rings: The Return of the King,common,Peter Jackson,2003,266870,"['Fantasy', 'Adventure', 'Action']",New Zealand,4.36427474051036,397,1205,523,3539,2933,17848,17525,59753,43066,120081
+965,966,Red Beard,common,Akira Kurosawa,1965,6601,['Drama'],Japan,4.22019391001363,6,7,11,57,93,405,765,1898,1590,1769
+974,975,Stroszek,common,Werner Herzog,1977,7269,"['Drama', 'Comedy']",Germany,4.06211308295501,8,33,18,106,174,617,1080,2295,1369,1569
+978,979,The Saragossa Manuscript,common,Wojciech Has,1965,1669,"['Comedy', 'Mystery', 'Drama', 'Fantasy']",Poland,4.01977231875374,1,6,14,44,54,158,223,459,364,346
+979,980,Stand by Me,common,Rob Reiner,1986,112143,"['Drama', 'Crime']",USA,4.1049508217187,59,176,187,1032,1635,9744,15727,39571,17843,26170
+983,984,Phantom of the Paradise,common,Brian De Palma,1974,17516,"['Comedy', 'Thriller', 'Fantasy', 'Horror', 'Music']",USA,3.96309088833067,44,94,104,406,542,1867,2824,5231,2911,3494
+988,989,The Crucified Lovers,common,Kenji Mizoguchi,1954,2521,"['Drama', 'Romance']",Japan,4.09619198730662,1,3,3,19,41,188,396,857,530,483
